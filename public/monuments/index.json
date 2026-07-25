@@ -1,229 +1,569 @@
 {
-  "monuments": [
-    {
-      "id": "arc_de_triomphe",
-      "name": "Arc de Triomphe",
-      "accepted_answers": [
-        "arc de triomphe",
-        "the arc de triomphe",
-        "arc de triumph"
-      ]
-    },
-    {
-      "id": "eiffel_tower",
-      "name": "Eiffel Tower",
-      "accepted_answers": [
-        "eiffel tower",
-        "the eiffel tower"
-      ]
-    },
-    {
-      "id": "big_ben",
-      "name": "Big Ben",
-      "accepted_answers": [
-        "big ben",
-        "elizabeth tower",
-        "the elizabeth tower"
-      ]
-    },
-    {
-      "id": "statue_of_liberty",
-      "name": "Statue of Liberty",
-      "accepted_answers": [
-        "statue of liberty",
-        "the statue of liberty"
-      ]
-    },
-    {
-      "id": "taj_mahal",
-      "name": "Taj Mahal",
-      "accepted_answers": [
-        "taj mahal",
-        "the taj mahal"
-      ]
-    },
-    {
-      "id": "great_pyramids",
-      "name": "Great Pyramids of Giza",
-      "accepted_answers": [
-        "great pyramids",
-        "great pyramid",
-        "great pyramids of giza",
-        "the great pyramids",
-        "the great pyramids of giza",
-        "the great pyramid"
-      ]
-    },
-    {
-      "id": "great_wall_of_china",
-      "name": "Great Wall of China",
-      "accepted_answers": [
-        "great wall of china",
-        "great wall",
-        "the great wall of china",
-        "the great wall"
-      ]
-    },
-    {
-      "id": "colosseum",
-      "name": "Colosseum",
-      "accepted_answers": [
-        "colosseum",
-        "collosseum",
-        "coloseum",
-        "colloseum",
-        "the colosseum",
-        "the collosseum",
-        "the coloseum",
-        "the colloseum"
-      ]
-    },
-    {
-      "id": "angkor_wat",
-      "name": "Angkor Wat",
-      "accepted_answers": [
-        "angkor wat",
-        "angkor wat temple",
-        "the angkor wat"
-      ]
-    },
-    {
-      "id": "burj_khalifa",
-      "name": "Burj Khalifa",
-      "accepted_answers": [
-        "burj khalifa",
-        "the burj khalifa",
-        "burj kalifa",
-        "burj khalifah",
-        "burj dubai"
-      ]
-    },
-    {
-      "id": "chichen_itza",
-      "name": "Chichén Itzá",
-      "accepted_answers": [
-        "chichen itza",
-        "chichenitza",
-        "el castillo",
-        "the el castillo",
-        "temple of kukulcan",
-        "temple of kukulkan",
-        "kukulcan temple",
-        "kukulkan temple"
-      ]
-    },
-    {
-      "id": "cologne_cathedral",
-      "name": "Cologne Cathedral",
-      "accepted_answers": [
-        "cologne cathedral",
-        "the cologne cathedral",
-        "kolner dom",
-        "cologne dom",
-        "cathedral of cologne"
-      ]
-    },
-    {
-      "id": "hagia_sophia",
-      "name": "Hagia Sophia",
-      "accepted_answers": [
-        "hagia sophia",
-        "the hagia sophia",
-        "hagia sofia",
-        "aya sofya",
-        "ayasofya",
-        "saint sophia"
-      ]
-    },
-    {
-      "id": "neuschwanstein",
-      "name": "Neuschwanstein Castle",
-      "accepted_answers": [
-        "neuschwanstein",
-        "neuschwanstein castle",
-        "castle neuschwanstein",
-        "neuschwanstien",
-        "neuschwanstien castle",
-        "neuschwanstain",
-        "neuschwanstain castle",
-        "neuschwanstein palace"
-      ]
-    },
-    {
-      "id": "parthenon",
-      "name": "The Parthenon",
-      "accepted_answers": [
-        "parthenon",
-        "the parthenon",
-        "parthenon of athens",
-        "athens parthenon"
-      ]
-    },
-    {
-      "id": "stonehenge",
-      "name": "Stonehenge",
-      "accepted_answers": [
-        "stonehenge",
-        "stone henge",
-        "the stonehenge"
-      ]
-    },
-    {
-      "id": "sydney_opera_house",
-      "name": "Sydney Opera House",
-      "accepted_answers": [
-        "sydney opera house",
-        "the sydney opera house",
-        "sidney opera house",
-        "sydney opera",
-        "sydney operahouse"
-      ]
-    },
-    {
-      "id": "tower_bridge",
-      "name": "Tower Bridge",
-      "accepted_answers": [
-        "tower bridge",
-        "the tower bridge",
-        "london tower bridge",
-        "tower bridge london"
-      ]
-    },
-    {
-      "id": "machu_picchu",
-      "name": "Machu Picchu",
-      "accepted_answers": [
-        "machu picchu",
-        "machu pichu",
-        "machu pitchu",
-        "machu pikchu",
-        "machupicchu",
-        "machu picchu citadel",
-        "the lost city of the incas",
-        "lost city of the incas"
-      ]
-    },
-    {
-      "id": "christ_the_redeemer",
-      "name": "Christ the Redeemer",
-      "accepted_answers": [
-        "christ the redeemer",
-        "christ redeemer",
-        "cristo redentor",
-        "the cristo redentor"
-      ]
-    },
-    {
-      "id": "st_basils_cathedral",
-      "name": "St Basil's Cathedral",
-      "accepted_answers": [
-        "st basils cathedral",
-        "st basil's cathedral",
-        "cathedral of the intercession on the moat",
-        "pokrovsky cathedral",
-        "trinity church",
-        "trinity cathedral"
-      ]
-    }
-  ]
+"monuments": [
+{
+"id": "arc_de_triomphe",
+"name": "Arc de Triomphe",
+"accepted_answers": [
+"arc de triomphe",
+"the arc de triomphe",
+"arc de triumph",
+"arch de triomphe"
+],
+"country": "France",
+"country_code": "FR",
+"city": "Paris",
+"continent": "Europe",
+"category": "Monument",
+"year_completed": 1836,
+"unesco": false,
+"difficulty": "Easy",
+"tags": [
+"triumphal arch",
+"napoleonic",
+"military memorial",
+"champs elysees",
+"neoclassical"
+]
+},
+{
+"id": "eiffel_tower",
+"name": "Eiffel Tower",
+"accepted_answers": [
+"eiffel tower",
+"the eiffel tower"
+],
+"country": "France",
+"country_code": "FR",
+"city": "Paris",
+"continent": "Europe",
+"category": "Tower",
+"year_completed": 1889,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"iron",
+"observation tower",
+"worlds fair",
+"engineering",
+"paris"
+]
+},
+{
+"id": "big_ben",
+"name": "Big Ben",
+"accepted_answers": [
+"big ben",
+"elizabeth tower",
+"the elizabeth tower"
+],
+"country": "United Kingdom",
+"country_code": "GB",
+"city": "London",
+"continent": "Europe",
+"category": "Clock tower",
+"year_completed": 1859,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"clock",
+"bell",
+"gothic revival",
+"parliament",
+"westminster"
+]
+},
+{
+"id": "statue_of_liberty",
+"name": "Statue of Liberty",
+"accepted_answers": [
+"statue of liberty",
+"the statue of liberty"
+],
+"country": "United States",
+"country_code": "US",
+"city": "New York City",
+"continent": "North America",
+"category": "Statue",
+"year_completed": 1886,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"liberty",
+"copper",
+"new york harbour",
+"immigration",
+"neoclassical"
+]
+},
+{
+"id": "taj_mahal",
+"name": "Taj Mahal",
+"accepted_answers": [
+"taj mahal",
+"the taj mahal"
+],
+"country": "India",
+"country_code": "IN",
+"city": "Agra",
+"continent": "Asia",
+"category": "Mausoleum",
+"year_completed": 1653,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"mughal",
+"marble",
+"tomb",
+"islamic architecture",
+"gardens"
+]
+},
+{
+"id": "great_pyramids",
+"name": "Great Pyramids of Giza",
+"accepted_answers": [
+"great pyramids",
+"great pyramid",
+"great pyramids of giza",
+"the great pyramids",
+"the great pyramids of giza",
+"the great pyramid",
+"pyramids"
+],
+"country": "Egypt",
+"country_code": "EG",
+"city": "Giza",
+"continent": "Africa",
+"category": "Ancient monument",
+"year_completed": null,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"pyramid",
+"ancient egypt",
+"pharaoh",
+"tomb",
+"giza plateau"
+]
+},
+{
+"id": "great_wall_of_china",
+"name": "Great Wall of China",
+"accepted_answers": [
+"great wall of china",
+"great wall",
+"the great wall of china",
+"the great wall"
+],
+"country": "China",
+"country_code": "CN",
+"city": null,
+"continent": "Asia",
+"category": "Fortification",
+"year_completed": null,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"wall",
+"fortification",
+"ming dynasty",
+"defence",
+"ancient china"
+]
+},
+{
+"id": "colosseum",
+"name": "Colosseum",
+"accepted_answers": [
+"colosseum",
+"collosseum",
+"coloseum",
+"colloseum",
+"the colosseum",
+"the collosseum",
+"the coloseum",
+"the colloseum"
+],
+"country": "Italy",
+"country_code": "IT",
+"city": "Rome",
+"continent": "Europe",
+"category": "Amphitheatre",
+"year_completed": 80,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"roman",
+"amphitheatre",
+"gladiators",
+"ancient rome",
+"arena"
+]
+},
+{
+"id": "angkor_wat",
+"name": "Angkor Wat",
+"accepted_answers": [
+"angkor wat",
+"angkor wat temple",
+"the angkor wat"
+],
+"country": "Cambodia",
+"country_code": "KH",
+"city": "Siem Reap",
+"continent": "Asia",
+"category": "Temple complex",
+"year_completed": 1150,
+"unesco": true,
+"difficulty": "Hard",
+"tags": [
+"khmer",
+"hindu",
+"buddhist",
+"temple",
+"archaeological site"
+]
+},
+{
+"id": "burj_khalifa",
+"name": "Burj Khalifa",
+"accepted_answers": [
+"burj khalifa",
+"the burj khalifa",
+"burj kalifa",
+"burj khalifah",
+"burj dubai"
+],
+"country": "United Arab Emirates",
+"country_code": "AE",
+"city": "Dubai",
+"continent": "Asia",
+"category": "Skyscraper",
+"year_completed": 2010,
+"unesco": false,
+"difficulty": "Medium",
+"tags": [
+"skyscraper",
+"observation tower",
+"modern architecture",
+"superstructure",
+"dubai"
+]
+},
+{
+"id": "chichen_itza",
+"name": "Chichén Itzá",
+"accepted_answers": [
+"chichen itza",
+"chichenitza",
+"el castillo",
+"the el castillo",
+"temple of kukulcan",
+"temple of kukulkan",
+"kukulcan temple",
+"kukulkan temple"
+],
+"country": "Mexico",
+"country_code": "MX",
+"city": "Tinum",
+"continent": "North America",
+"category": "Archaeological site",
+"year_completed": null,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"maya",
+"toltec",
+"pyramid",
+"temple",
+"el castillo"
+]
+},
+{
+"id": "cologne_cathedral",
+"name": "Cologne Cathedral",
+"accepted_answers": [
+"cologne cathedral",
+"the cologne cathedral",
+"kolner dom",
+"cologne dom",
+"cathedral of cologne"
+],
+"country": "Germany",
+"country_code": "DE",
+"city": "Cologne",
+"continent": "Europe",
+"category": "Cathedral",
+"year_completed": 1880,
+"unesco": true,
+"difficulty": "Hard",
+"tags": [
+"gothic",
+"cathedral",
+"christian",
+"twin spires",
+"rheinland"
+]
+},
+{
+"id": "hagia_sophia",
+"name": "Hagia Sophia",
+"accepted_answers": [
+"hagia sophia",
+"the hagia sophia",
+"hagia sofia",
+"aya sofya",
+"ayasofya",
+"saint sophia"
+],
+"country": "Türkiye",
+"country_code": "TR",
+"city": "Istanbul",
+"continent": "Europe",
+"category": "Religious building",
+"year_completed": 537,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"byzantine",
+"mosque",
+"church",
+"dome",
+"ottoman"
+]
+},
+{
+"id": "neuschwanstein",
+"name": "Neuschwanstein Castle",
+"accepted_answers": [
+"neuschwanstein",
+"neuschwanstein castle",
+"castle neuschwanstein",
+"neuschwanstien",
+"neuschwanstien castle",
+"neuschwanstain",
+"neuschwanstain castle",
+"neuschwanstein palace"
+],
+"country": "Germany",
+"country_code": "DE",
+"city": "Schwangau",
+"continent": "Europe",
+"category": "Castle",
+"year_completed": null,
+"unesco": true,
+"difficulty": "Hard",
+"tags": [
+"castle",
+"bavaria",
+"romanesque revival",
+"historicist",
+"king ludwig ii"
+]
+},
+{
+"id": "parthenon",
+"name": "The Parthenon",
+"accepted_answers": [
+"parthenon",
+"the parthenon",
+"parthenon of athens",
+"athens parthenon"
+],
+"country": "Greece",
+"country_code": "GR",
+"city": "Athens",
+"continent": "Europe",
+"category": "Temple",
+"year_completed": -432,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"ancient greek",
+"temple",
+"acropolis",
+"classical architecture",
+"athena"
+]
+},
+{
+"id": "stonehenge",
+"name": "Stonehenge",
+"accepted_answers": [
+"stonehenge",
+"stone henge",
+"the stonehenge"
+],
+"country": "United Kingdom",
+"country_code": "GB",
+"city": "Amesbury",
+"continent": "Europe",
+"category": "Ancient monument",
+"year_completed": null,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"prehistoric",
+"stone circle",
+"megalithic",
+"neolithic",
+"bronze age"
+]
+},
+{
+"id": "sydney_opera_house",
+"name": "Sydney Opera House",
+"accepted_answers": [
+"sydney opera house",
+"the sydney opera house",
+"sidney opera house",
+"sydney opera",
+"sydney operahouse"
+],
+"country": "Australia",
+"country_code": "AU",
+"city": "Sydney",
+"continent": "Oceania",
+"category": "Performing arts venue",
+"year_completed": 1973,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"opera house",
+"modern architecture",
+"performing arts",
+"harbour",
+"shell roof"
+]
+},
+{
+"id": "tower_bridge",
+"name": "Tower Bridge",
+"accepted_answers": [
+"tower bridge",
+"the tower bridge",
+"london tower bridge",
+"tower bridge london"
+],
+"country": "United Kingdom",
+"country_code": "GB",
+"city": "London",
+"continent": "Europe",
+"category": "Bridge",
+"year_completed": 1894,
+"unesco": false,
+"difficulty": "Hard",
+"tags": [
+"bridge",
+"bascule bridge",
+"suspension bridge",
+"victorian",
+"river thames"
+]
+},
+{
+"id": "machu_picchu",
+"name": "Machu Picchu",
+"accepted_answers": [
+"machu picchu",
+"machu pichu",
+"machu pitchu",
+"machu pikchu",
+"machupicchu",
+"machu picchu citadel",
+"the lost city of the incas",
+"lost city of the incas"
+],
+"country": "Peru",
+"country_code": "PE",
+"city": "Machu Picchu District",
+"continent": "South America",
+"category": "Archaeological site",
+"year_completed": 1450,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"inca",
+"citadel",
+"andes",
+"archaeological site",
+"mountain"
+]
+},
+{
+"id": "christ_the_redeemer",
+"name": "Christ the Redeemer",
+"accepted_answers": [
+"christ the redeemer",
+"christ redeemer",
+"cristo redentor",
+"the cristo redentor"
+],
+"country": "Brazil",
+"country_code": "BR",
+"city": "Rio de Janeiro",
+"continent": "South America",
+"category": "Statue",
+"year_completed": 1931,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"statue",
+"art deco",
+"christian",
+"corcovado",
+"rio de janeiro"
+]
+},
+{
+"id": "st_basils_cathedral",
+"name": "St Basil's Cathedral",
+"accepted_answers": [
+"st basils cathedral",
+"st basil's cathedral",
+"cathedral of the intercession on the moat",
+"pokrovsky cathedral",
+"trinity church",
+"trinity cathedral"
+],
+"country": "Russia",
+"country_code": "RU",
+"city": "Moscow",
+"continent": "Europe",
+"category": "Cathedral",
+"year_completed": 1561,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"russian orthodox",
+"cathedral",
+"red square",
+"onion domes",
+"muscovite architecture"
+]
+},
+{
+"id": "taipei_101",
+"name": "Taipei 101",
+"accepted_answers": [
+"taipei 101",
+"101",
+"taipei world financial centre"
+],
+"country": "Taiwan",
+"country_code": "TW",
+"city": "Taipei",
+"continent": "Asia",
+"category": "Skyscraper",
+"year_completed": 2001,
+"unesco": false,
+"difficulty": "Hard",
+"tags": [
+"modern building",
+"finance",
+"postmodern",
+"skyscraper"
+]
+}
+]
 }

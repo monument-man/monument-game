@@ -23,6 +23,36 @@
   </head>
 
   <body>
+        <section
+          id="statistics-notice"
+          class="statistics-notice"
+          aria-labelledby="statistics-notice-title"
+        >
+          <div class="statistics-notice__text">
+            <strong id="statistics-notice-title">
+              Gameplay statistics
+            </strong>
+
+            <p>
+              Monu-Mentality records limited gameplay data,
+              such as the monument shown, number of guesses,
+              stage reached, time taken and whether it was
+              solved. We do not store the text of your guesses,
+              create a user account or assign you a permanent
+              player ID.
+              <a href="/privacy.html">
+                Read the privacy notice
+              </a>.
+            </p>
+          </div>
+
+          <button
+            id="statistics-notice-dismiss"
+            type="button"
+          >
+            Got it
+          </button>
+        </section>
     <main class="app">
       <header class="app-header">
         <p class="eyebrow">
@@ -147,5 +177,10 @@
       type="module"
       src="/src/main.js"
     ></script>
+    <footer class="site-footer">
+      <a href="/privacy.html">
+        Privacy
+      </a>
+    </footer>
   </body>
 </html>

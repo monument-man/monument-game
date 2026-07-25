@@ -1,5 +1,20 @@
 import "./style.css";
 
+import {
+  beginTrackedRound,
+  finishTrackedRound,
+} from "./gameStats.js";
+
+const statisticsNotice =
+  document.querySelector(
+    "#statistics-notice",
+);
+
+const statisticsNoticeDismiss =
+  document.querySelector(
+    "#statistics-notice-dismiss",
+);
+
 const canvas = document.querySelector(
   "#monument-canvas",
 );
@@ -1136,6 +1151,20 @@ function toggleMonumentView() {
 async function finishGame(wasCorrect) {
   gameComplete = true;
 
+  finishTrackedRound({
+    monumentId:
+      currentMonument.id,
+
+    solved:
+      wasCorrect,
+
+    guessCount:
+      guessCount,
+
+    stageReached:
+      currentStageIndex + 1,
+  });
+
   /*
   Reveal the most detailed stage when the round ends.
   */
@@ -1308,6 +1337,33 @@ async function startNewGame() {
 
     currentManifest =
       await fetchJson(manifestUrl);
+    
+    currentManifest.stages =
+      currentManifest.stages.filter(
+        (stage) => {
+          const vertexCount =
+            stage.total_vertices ??
+            stage.vertex_count;
+
+          const jsonPath =
+            stage.json ?? "";
+
+          const isEightVertexStage =
+            vertexCount === 8 ||
+            jsonPath.endsWith("/008.json") ||
+            jsonPath.endsWith("008.json");
+
+          const isHundredVertexStage =
+            vertexCount === 100 ||
+            jsonPath.endsWith("/100.json") ||
+            jsonPath.endsWith("100.json");
+
+          return (
+            !isEightVertexStage &&
+            !isHundredVertexStage
+          );
+        },
+      );
 
     if (
       !Array.isArray(currentManifest.stages) ||
@@ -1319,6 +1375,10 @@ async function startNewGame() {
     }
 
     await loadStage(0);
+
+    beginTrackedRound(
+      currentMonument.id,
+    );
 
     guessInput.disabled = false;
     submitButton.disabled = false;
@@ -1386,5 +1446,11 @@ window.addEventListener(
   },
 );
 
+statisticsNoticeDismiss.addEventListener(
+  "click",
+  () => {
+    statisticsNotice.hidden = true;
+  },
+);
 
 initialiseGame();
