@@ -1,0 +1,139 @@
+{
+  "width": 900,
+  "height": 858,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    55,
+    14
+  ],
+  "added_vertex_id": 12655,
+  "score": 1492596.925747348,
+  "vertices": [
+    {
+      "id": 12655,
+      "x": 55,
+      "y": 14,
+      "type": "boundary"
+    },
+    {
+      "id": 18831,
+      "x": 831,
+      "y": 20,
+      "type": "boundary"
+    },
+    {
+      "id": 118814,
+      "x": 14,
+      "y": 132,
+      "type": "boundary"
+    },
+    {
+      "id": 311842,
+      "x": 442,
+      "y": 346,
+      "type": "boundary"
+    },
+    {
+      "id": 750046,
+      "x": 346,
+      "y": 833,
+      "type": "boundary"
+    },
+    {
+      "id": 750254,
+      "x": 554,
+      "y": 833,
+      "type": "boundary"
+    },
+    {
+      "id": 761432,
+      "x": 32,
+      "y": 846,
+      "type": "boundary"
+    },
+    {
+      "id": 762267,
+      "x": 867,
+      "y": 846,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        311842,
+        761432,
+        118814
+      ],
+      "colour": [
+        187,
+        174,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        311842,
+        750046,
+        761432
+      ],
+      "colour": [
+        195,
+        187,
+        175
+      ]
+    },
+    {
+      "vertices": [
+        118814,
+        12655,
+        311842
+      ],
+      "colour": [
+        173,
+        158,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        311842,
+        18831,
+        762267
+      ],
+      "colour": [
+        186,
+        172,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        18831,
+        311842,
+        12655
+      ],
+      "colour": [
+        178,
+        164,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        762267,
+        750254,
+        311842
+      ],
+      "colour": [
+        219,
+        210,
+        196
+      ]
+    }
+  ]
+}

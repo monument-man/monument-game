@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <title>Guess the Monument</title>
+  </head>
+
+  <body>
+    <main class="app">
+      <header class="app-header">
+        <p class="eyebrow">
+          Progressive low-poly challenge
+        </p>
+
+        <h1>Guess the Monument</h1>
+
+        <p class="description">
+          Identify the monument before all of its
+          vertices are revealed.
+        </p>
+      </header>
+
+      <section class="viewer">
+        <div class="canvas-container">
+          <canvas
+            id="monument-canvas"
+            aria-label="Low-poly monument"
+          ></canvas>
+
+          <img
+            id="original-image"
+            class="original-image"
+            src=""
+            alt=""
+            hidden
+          />
+        </div>
+
+        <div class="stage-information">
+          <span id="stage-label">
+            Loading stage...
+          </span>
+
+          <span id="vertex-label">
+            Loading vertices...
+          </span>
+        </div>
+
+        <section
+          id="game-panel"
+          class="game-panel"
+        >
+          <form
+            id="guess-form"
+            class="guess-form"
+          >
+            <label for="guess-input">
+              What monument is this?
+            </label>
+
+            <div class="guess-row">
+              <input
+                id="guess-input"
+                name="guess"
+                type="text"
+                autocomplete="off"
+                placeholder="Enter your guess"
+                required
+              />
+
+              <button
+                id="submit-button"
+                type="submit"
+              >
+                Submit guess
+              </button>
+            </div>
+          </form>
+
+          <p
+            id="feedback-message"
+            class="feedback-message"
+            aria-live="polite"
+          ></p>
+        </section>
+
+        <section
+          id="completion-panel"
+          class="completion-panel"
+          hidden
+        >
+          <p class="completion-eyebrow">
+            Round complete
+          </p>
+
+          <h2 id="completion-title">
+            Correct!
+          </h2>
+
+          <p id="completion-message"></p>
+
+          <div class="completion-controls">
+            <button
+              id="view-toggle-button"
+              type="button"
+              hidden
+            >
+              Show original image
+            </button>
+
+            <button
+              id="play-again-button"
+              type="button"
+            >
+              Play again
+            </button>
+          </div>
+
+        <p
+          id="status-message"
+          class="status-message"
+          role="status"
+        >
+          Loading monument...
+        </p>
+      </section>
+    </main>
+
+    <script
+      type="module"
+      src="/src/main.js"
+    ></script>
+  </body>
+</html>

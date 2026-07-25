@@ -1,0 +1,117 @@
+{
+  "monument_name": "eiffel_tower",
+  "source_file": "eiffel_tower.png",
+  "prepared_width": 662,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    12,
+    20,
+    35,
+    50
+  ],
+  "generation_time_seconds": 0.3389403000001039,
+  "final_boundary_vertices": 50,
+  "final_interior_vertices": 0,
+  "final_total_vertices": 50,
+  "final_triangle_count": 48,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 291270.1388845432,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        404,
+        512
+      ],
+      "score": 317020.1472739362,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        476,
+        664
+      ],
+      "score": 351157.28971761576,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 12,
+      "boundary_vertices": 12,
+      "interior_vertices": 0,
+      "triangle_count": 10,
+      "move_type": "boundary",
+      "added_point": [
+        360,
+        328
+      ],
+      "score": 357640.15684644866,
+      "png": "png/012.png",
+      "json": "json/012.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        325,
+        68
+      ],
+      "score": 361191.2240789268,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 35,
+      "boundary_vertices": 35,
+      "interior_vertices": 0,
+      "triangle_count": 33,
+      "move_type": "boundary",
+      "added_point": [
+        334,
+        74
+      ],
+      "score": 363868.30182259076,
+      "png": "png/035.png",
+      "json": "json/035.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 48,
+      "move_type": "boundary",
+      "added_point": [
+        320,
+        73
+      ],
+      "score": 364333.26893969026,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    }
+  ]
+}

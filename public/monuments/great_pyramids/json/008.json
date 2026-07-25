@@ -1,0 +1,139 @@
+{
+  "width": 900,
+  "height": 293,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    686,
+    100
+  ],
+  "added_vertex_id": 90686,
+  "score": 358913.23745349044,
+  "vertices": [
+    {
+      "id": 5913,
+      "x": 513,
+      "y": 6,
+      "type": "boundary"
+    },
+    {
+      "id": 25580,
+      "x": 380,
+      "y": 28,
+      "type": "boundary"
+    },
+    {
+      "id": 70646,
+      "x": 446,
+      "y": 78,
+      "type": "boundary"
+    },
+    {
+      "id": 90686,
+      "x": 686,
+      "y": 100,
+      "type": "boundary"
+    },
+    {
+      "id": 172933,
+      "x": 133,
+      "y": 192,
+      "type": "boundary"
+    },
+    {
+      "id": 194594,
+      "x": 194,
+      "y": 216,
+      "type": "boundary"
+    },
+    {
+      "id": 244820,
+      "x": 20,
+      "y": 272,
+      "type": "boundary"
+    },
+    {
+      "id": 260093,
+      "x": 893,
+      "y": 288,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        244820,
+        194594,
+        260093
+      ],
+      "colour": [
+        165,
+        136,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        194594,
+        244820,
+        172933
+      ],
+      "colour": [
+        153,
+        120,
+        88
+      ]
+    },
+    {
+      "vertices": [
+        25580,
+        70646,
+        194594
+      ],
+      "colour": [
+        164,
+        133,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        70646,
+        5913,
+        90686
+      ],
+      "colour": [
+        176,
+        148,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        90686,
+        260093,
+        70646
+      ],
+      "colour": [
+        160,
+        132,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        70646,
+        260093,
+        194594
+      ],
+      "colour": [
+        157,
+        126,
+        99
+      ]
+    }
+  ]
+}

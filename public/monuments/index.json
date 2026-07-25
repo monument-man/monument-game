@@ -1,0 +1,82 @@
+{
+  "monuments": [
+    {
+      "id": "arc_de_triomphe",
+      "name": "Arc de Triomphe",
+      "accepted_answers": [
+        "arc de triomphe",
+        "the arc de triomphe",
+        "arc de triumph"
+      ]
+    },
+    {
+      "id": "eiffel_tower",
+      "name": "Eiffel Tower",
+      "accepted_answers": [
+        "eiffel tower",
+        "the eiffel tower"
+      ]
+    },
+    {
+      "id": "big_ben",
+      "name": "Big Ben",
+      "accepted_answers": [
+        "big ben",
+        "elizabeth tower",
+        "the elizabeth tower"
+      ]
+    },
+    {
+      "id": "statue_of_liberty",
+      "name": "Statue of Liberty",
+      "accepted_answers": [
+        "statue of liberty",
+        "the statue of liberty"
+      ]
+    },
+    {
+      "id": "taj_mahal",
+      "name": "Taj Mahal",
+      "accepted_answers": [
+        "taj mahal",
+        "the taj mahal"
+      ]
+    },
+    {
+      "id": "great_pyramids",
+      "name": "Great Pyramids of Giza",
+      "accepted_answers": [
+        "great pyramids",
+        "great pyramid",
+        "great pyramids of giza",
+        "the great pyramids",
+        "the great pyramids of giza",
+        "the great pyramid"
+      ]
+    },
+    {
+      "id": "great_wall_of_china",
+      "name": "Great Wall of China",
+      "accepted_answers": [
+        "great wall of china",
+        "great wall",
+        "the great wall of china",
+        "the great wall"
+      ]
+    },
+    {
+      "id": "colosseum",
+      "name": "Colosseum",
+      "accepted_answers": [
+        "colosseum",
+        "collosseum",
+        "coloseum",
+        "colloseum",
+        "the colosseum",
+        "the collosseum",
+        "the coloseum",
+        "the colloseum"
+      ]
+    }
+  ]
+}
