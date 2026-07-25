@@ -1,0 +1,139 @@
+{
+  "width": 717,
+  "height": 309,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    692,
+    217
+  ],
+  "added_vertex_id": 156281,
+  "score": 223742.74638995656,
+  "vertices": [
+    {
+      "id": 18982,
+      "x": 340,
+      "y": 26,
+      "type": "boundary"
+    },
+    {
+      "id": 84725,
+      "x": 119,
+      "y": 118,
+      "type": "boundary"
+    },
+    {
+      "id": 113213,
+      "x": 644,
+      "y": 157,
+      "type": "boundary"
+    },
+    {
+      "id": 125274,
+      "x": 516,
+      "y": 174,
+      "type": "boundary"
+    },
+    {
+      "id": 156281,
+      "x": 692,
+      "y": 217,
+      "type": "boundary"
+    },
+    {
+      "id": 156416,
+      "x": 110,
+      "y": 218,
+      "type": "boundary"
+    },
+    {
+      "id": 185011,
+      "x": 25,
+      "y": 258,
+      "type": "boundary"
+    },
+    {
+      "id": 188509,
+      "x": 655,
+      "y": 262,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        84725,
+        18982,
+        156416
+      ],
+      "colour": [
+        110,
+        109,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        185011,
+        156416,
+        188509
+      ],
+      "colour": [
+        121,
+        107,
+        82
+      ]
+    },
+    {
+      "vertices": [
+        18982,
+        125274,
+        156416
+      ],
+      "colour": [
+        144,
+        136,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        125274,
+        113213,
+        188509
+      ],
+      "colour": [
+        164,
+        151,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        156281,
+        188509,
+        113213
+      ],
+      "colour": [
+        118,
+        106,
+        80
+      ]
+    },
+    {
+      "vertices": [
+        125274,
+        188509,
+        156416
+      ],
+      "colour": [
+        152,
+        133,
+        100
+      ]
+    }
+  ]
+}

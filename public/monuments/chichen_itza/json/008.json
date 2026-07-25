@@ -1,0 +1,139 @@
+{
+  "width": 698,
+  "height": 308,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    276,
+    88
+  ],
+  "added_vertex_id": 61700,
+  "score": 242989.7801239227,
+  "vertices": [
+    {
+      "id": 17161,
+      "x": 409,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 19913,
+      "x": 369,
+      "y": 28,
+      "type": "boundary"
+    },
+    {
+      "id": 25436,
+      "x": 308,
+      "y": 36,
+      "type": "boundary"
+    },
+    {
+      "id": 58937,
+      "x": 305,
+      "y": 84,
+      "type": "boundary"
+    },
+    {
+      "id": 61700,
+      "x": 276,
+      "y": 88,
+      "type": "boundary"
+    },
+    {
+      "id": 75840,
+      "x": 456,
+      "y": 108,
+      "type": "boundary"
+    },
+    {
+      "id": 194068,
+      "x": 24,
+      "y": 278,
+      "type": "boundary"
+    },
+    {
+      "id": 198905,
+      "x": 673,
+      "y": 284,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        58937,
+        25436,
+        19913
+      ],
+      "colour": [
+        93,
+        85,
+        78
+      ]
+    },
+    {
+      "vertices": [
+        75840,
+        194068,
+        61700
+      ],
+      "colour": [
+        63,
+        59,
+        56
+      ]
+    },
+    {
+      "vertices": [
+        61700,
+        58937,
+        75840
+      ],
+      "colour": [
+        61,
+        58,
+        55
+      ]
+    },
+    {
+      "vertices": [
+        19913,
+        17161,
+        75840
+      ],
+      "colour": [
+        87,
+        80,
+        74
+      ]
+    },
+    {
+      "vertices": [
+        75840,
+        198905,
+        194068
+      ],
+      "colour": [
+        60,
+        55,
+        51
+      ]
+    },
+    {
+      "vertices": [
+        19913,
+        75840,
+        58937
+      ],
+      "colour": [
+        87,
+        79,
+        71
+      ]
+    }
+  ]
+}

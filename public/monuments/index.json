@@ -77,6 +77,153 @@
         "the coloseum",
         "the colloseum"
       ]
+    },
+    {
+      "id": "angkor_wat",
+      "name": "Angkor Wat",
+      "accepted_answers": [
+        "angkor wat",
+        "angkor wat temple",
+        "the angkor wat"
+      ]
+    },
+    {
+      "id": "burj_khalifa",
+      "name": "Burj Khalifa",
+      "accepted_answers": [
+        "burj khalifa",
+        "the burj khalifa",
+        "burj kalifa",
+        "burj khalifah",
+        "burj dubai"
+      ]
+    },
+    {
+      "id": "chichen_itza",
+      "name": "Chichén Itzá",
+      "accepted_answers": [
+        "chichen itza",
+        "chichenitza",
+        "el castillo",
+        "the el castillo",
+        "temple of kukulcan",
+        "temple of kukulkan",
+        "kukulcan temple",
+        "kukulkan temple"
+      ]
+    },
+    {
+      "id": "cologne_cathedral",
+      "name": "Cologne Cathedral",
+      "accepted_answers": [
+        "cologne cathedral",
+        "the cologne cathedral",
+        "kolner dom",
+        "cologne dom",
+        "cathedral of cologne"
+      ]
+    },
+    {
+      "id": "hagia_sophia",
+      "name": "Hagia Sophia",
+      "accepted_answers": [
+        "hagia sophia",
+        "the hagia sophia",
+        "hagia sofia",
+        "aya sofya",
+        "ayasofya",
+        "saint sophia"
+      ]
+    },
+    {
+      "id": "neuschwanstein",
+      "name": "Neuschwanstein Castle",
+      "accepted_answers": [
+        "neuschwanstein",
+        "neuschwanstein castle",
+        "castle neuschwanstein",
+        "neuschwanstien",
+        "neuschwanstien castle",
+        "neuschwanstain",
+        "neuschwanstain castle",
+        "neuschwanstein palace"
+      ]
+    },
+    {
+      "id": "parthenon",
+      "name": "The Parthenon",
+      "accepted_answers": [
+        "parthenon",
+        "the parthenon",
+        "parthenon of athens",
+        "athens parthenon"
+      ]
+    },
+    {
+      "id": "stonehenge",
+      "name": "Stonehenge",
+      "accepted_answers": [
+        "stonehenge",
+        "stone henge",
+        "the stonehenge"
+      ]
+    },
+    {
+      "id": "sydney_opera_house",
+      "name": "Sydney Opera House",
+      "accepted_answers": [
+        "sydney opera house",
+        "the sydney opera house",
+        "sidney opera house",
+        "sydney opera",
+        "sydney operahouse"
+      ]
+    },
+    {
+      "id": "tower_bridge",
+      "name": "Tower Bridge",
+      "accepted_answers": [
+        "tower bridge",
+        "the tower bridge",
+        "london tower bridge",
+        "tower bridge london"
+      ]
+    },
+    {
+      "id": "machu_picchu",
+      "name": "Machu Picchu",
+      "accepted_answers": [
+        "machu picchu",
+        "machu pichu",
+        "machu pitchu",
+        "machu pikchu",
+        "machupicchu",
+        "machu picchu citadel",
+        "the lost city of the incas",
+        "lost city of the incas"
+      ]
+    },
+    {
+      "id": "christ_the_redeemer",
+      "name": "Christ the Redeemer",
+      "accepted_answers": [
+        "christ the redeemer",
+        "christ redeemer",
+        "cristo redentor",
+        "the cristo redentor"
+      ]
+    },
+    {
+      "id": "st_basils_cathedral",
+      "name": "St Basil's Cathedral",
+      "accepted_answers": [
+        "st basils cathedral",
+        "st basil's cathedral",
+        "cathedral of the intercession on the moat",
+        "pokrovsky cathedral",
+        "trinity church",
+        "trinity cathedral"
+      ]
     }
   ]
 }

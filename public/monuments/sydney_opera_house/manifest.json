@@ -1,0 +1,117 @@
+{
+  "monument_name": "sydney_opera_house",
+  "source_file": "sydney_opera_house.png",
+  "prepared_width": 717,
+  "prepared_height": 309,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 33.15779789999942,
+  "final_boundary_vertices": 104,
+  "final_interior_vertices": 296,
+  "final_total_vertices": 400,
+  "final_triangle_count": 694,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 199261.90260778743,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        516,
+        174
+      ],
+      "score": 211764.80946732956,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        692,
+        217
+      ],
+      "score": 223742.74638995656,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        28,
+        236
+      ],
+      "score": 256823.6988653075,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 48,
+      "interior_vertices": 2,
+      "triangle_count": 50,
+      "move_type": "boundary",
+      "added_point": [
+        130,
+        172
+      ],
+      "score": 269158.5282979612,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 77,
+      "interior_vertices": 23,
+      "triangle_count": 121,
+      "move_type": "interior",
+      "added_point": [
+        413,
+        105
+      ],
+      "score": 270257.1621528242,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 104,
+      "interior_vertices": 296,
+      "triangle_count": 694,
+      "move_type": "interior",
+      "added_point": [
+        121,
+        240
+      ],
+      "score": 276456.93707637035,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

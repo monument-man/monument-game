@@ -1,0 +1,139 @@
+{
+  "width": 693,
+  "height": 900,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    416,
+    215
+  ],
+  "added_vertex_id": 149411,
+  "score": 551855.2438134517,
+  "vertices": [
+    {
+      "id": 14192,
+      "x": 332,
+      "y": 20,
+      "type": "boundary"
+    },
+    {
+      "id": 95571,
+      "x": 630,
+      "y": 137,
+      "type": "boundary"
+    },
+    {
+      "id": 97082,
+      "x": 62,
+      "y": 140,
+      "type": "boundary"
+    },
+    {
+      "id": 149411,
+      "x": 416,
+      "y": 215,
+      "type": "boundary"
+    },
+    {
+      "id": 376020,
+      "x": 414,
+      "y": 542,
+      "type": "boundary"
+    },
+    {
+      "id": 392536,
+      "x": 298,
+      "y": 566,
+      "type": "boundary"
+    },
+    {
+      "id": 610549,
+      "x": 16,
+      "y": 881,
+      "type": "boundary"
+    },
+    {
+      "id": 613287,
+      "x": 675,
+      "y": 884,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        392536,
+        97082,
+        149411
+      ],
+      "colour": [
+        183,
+        178,
+        162
+      ]
+    },
+    {
+      "vertices": [
+        610549,
+        392536,
+        613287
+      ],
+      "colour": [
+        127,
+        117,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        97082,
+        14192,
+        149411
+      ],
+      "colour": [
+        200,
+        195,
+        178
+      ]
+    },
+    {
+      "vertices": [
+        95571,
+        149411,
+        14192
+      ],
+      "colour": [
+        195,
+        191,
+        174
+      ]
+    },
+    {
+      "vertices": [
+        376020,
+        613287,
+        392536
+      ],
+      "colour": [
+        149,
+        142,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        149411,
+        376020,
+        392536
+      ],
+      "colour": [
+        194,
+        188,
+        171
+      ]
+    }
+  ]
+}

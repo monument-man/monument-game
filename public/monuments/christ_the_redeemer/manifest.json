@@ -1,0 +1,117 @@
+{
+  "monument_name": "christ_the_redeemer",
+  "source_file": "christ_the_redeemer.png",
+  "prepared_width": 693,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 35.14686869999787,
+  "final_boundary_vertices": 142,
+  "final_interior_vertices": 258,
+  "final_total_vertices": 400,
+  "final_triangle_count": 656,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 477682.52671972977,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        414,
+        542
+      ],
+      "score": 515328.239245857,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        416,
+        215
+      ],
+      "score": 551855.2438134517,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        559,
+        146
+      ],
+      "score": 641406.4697577636,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 49,
+      "interior_vertices": 1,
+      "triangle_count": 49,
+      "move_type": "boundary",
+      "added_point": [
+        290,
+        570
+      ],
+      "score": 664010.4181145491,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 84,
+      "interior_vertices": 16,
+      "triangle_count": 114,
+      "move_type": "interior",
+      "added_point": [
+        437,
+        599
+      ],
+      "score": 667257.9609444983,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 142,
+      "interior_vertices": 258,
+      "triangle_count": 656,
+      "move_type": "interior",
+      "added_point": [
+        237,
+        806
+      ],
+      "score": 673310.5849693938,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

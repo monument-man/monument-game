@@ -1,0 +1,139 @@
+{
+  "width": 900,
+  "height": 224,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    777,
+    68
+  ],
+  "added_vertex_id": 61977,
+  "score": 270526.34512867645,
+  "vertices": [
+    {
+      "id": 18590,
+      "x": 590,
+      "y": 20,
+      "type": "boundary"
+    },
+    {
+      "id": 21869,
+      "x": 269,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 39809,
+      "x": 209,
+      "y": 44,
+      "type": "boundary"
+    },
+    {
+      "id": 46911,
+      "x": 111,
+      "y": 52,
+      "type": "boundary"
+    },
+    {
+      "id": 61977,
+      "x": 777,
+      "y": 68,
+      "type": "boundary"
+    },
+    {
+      "id": 144241,
+      "x": 241,
+      "y": 160,
+      "type": "boundary"
+    },
+    {
+      "id": 151220,
+      "x": 20,
+      "y": 168,
+      "type": "boundary"
+    },
+    {
+      "id": 182677,
+      "x": 877,
+      "y": 202,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        46911,
+        39809,
+        144241
+      ],
+      "colour": [
+        114,
+        116,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        151220,
+        144241,
+        182677
+      ],
+      "colour": [
+        106,
+        115,
+        58
+      ]
+    },
+    {
+      "vertices": [
+        144241,
+        151220,
+        46911
+      ],
+      "colour": [
+        118,
+        118,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        18590,
+        182677,
+        144241
+      ],
+      "colour": [
+        75,
+        87,
+        66
+      ]
+    },
+    {
+      "vertices": [
+        61977,
+        182677,
+        18590
+      ],
+      "colour": [
+        80,
+        89,
+        75
+      ]
+    },
+    {
+      "vertices": [
+        18590,
+        144241,
+        21869
+      ],
+      "colour": [
+        81,
+        91,
+        81
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "width": 619,
+  "height": 900,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    329,
+    16
+  ],
+  "added_vertex_id": 10233,
+  "score": 400870.8440163352,
+  "vertices": [
+    {
+      "id": 10233,
+      "x": 329,
+      "y": 16,
+      "type": "boundary"
+    },
+    {
+      "id": 61599,
+      "x": 318,
+      "y": 99,
+      "type": "boundary"
+    },
+    {
+      "id": 397888,
+      "x": 490,
+      "y": 642,
+      "type": "boundary"
+    },
+    {
+      "id": 416059,
+      "x": 91,
+      "y": 672,
+      "type": "boundary"
+    },
+    {
+      "id": 435395,
+      "x": 238,
+      "y": 703,
+      "type": "boundary"
+    },
+    {
+      "id": 446733,
+      "x": 434,
+      "y": 721,
+      "type": "boundary"
+    },
+    {
+      "id": 508221,
+      "x": 22,
+      "y": 821,
+      "type": "boundary"
+    },
+    {
+      "id": 546559,
+      "x": 601,
+      "y": 882,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        508221,
+        435395,
+        546559
+      ],
+      "colour": [
+        82,
+        92,
+        85
+      ]
+    },
+    {
+      "vertices": [
+        435395,
+        508221,
+        416059
+      ],
+      "colour": [
+        89,
+        90,
+        85
+      ]
+    },
+    {
+      "vertices": [
+        446733,
+        61599,
+        10233
+      ],
+      "colour": [
+        125,
+        131,
+        139
+      ]
+    },
+    {
+      "vertices": [
+        435395,
+        61599,
+        446733
+      ],
+      "colour": [
+        116,
+        128,
+        137
+      ]
+    },
+    {
+      "vertices": [
+        446733,
+        546559,
+        435395
+      ],
+      "colour": [
+        94,
+        102,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        546559,
+        446733,
+        397888
+      ],
+      "colour": [
+        56,
+        73,
+        77
+      ]
+    }
+  ]
+}

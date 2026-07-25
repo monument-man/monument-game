@@ -1,0 +1,117 @@
+{
+  "monument_name": "st_basils_cathedral",
+  "source_file": "st_basils_cathedral.png",
+  "prepared_width": 864,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 126.13098589999936,
+  "final_boundary_vertices": 258,
+  "final_interior_vertices": 142,
+  "final_total_vertices": 400,
+  "final_triangle_count": 540,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 621869.2973457676,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        412,
+        410
+      ],
+      "score": 786900.868364419,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        300,
+        458
+      ],
+      "score": 861739.256814921,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        621,
+        548
+      ],
+      "score": 931342.6775466284,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 48,
+      "move_type": "boundary",
+      "added_point": [
+        424,
+        364
+      ],
+      "score": 946361.7449784792,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 84,
+      "interior_vertices": 16,
+      "triangle_count": 114,
+      "move_type": "boundary",
+      "added_point": [
+        186,
+        665
+      ],
+      "score": 960849.2485652798,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 258,
+      "interior_vertices": 142,
+      "triangle_count": 540,
+      "move_type": "boundary",
+      "added_point": [
+        578,
+        443
+      ],
+      "score": 969195.5046628407,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

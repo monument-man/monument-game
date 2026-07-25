@@ -1,0 +1,139 @@
+{
+  "width": 900,
+  "height": 517,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    670,
+    269
+  ],
+  "added_vertex_id": 242770,
+  "score": 540777.996492347,
+  "vertices": [
+    {
+      "id": 7856,
+      "x": 656,
+      "y": 8,
+      "type": "boundary"
+    },
+    {
+      "id": 45126,
+      "x": 126,
+      "y": 50,
+      "type": "boundary"
+    },
+    {
+      "id": 99319,
+      "x": 319,
+      "y": 110,
+      "type": "boundary"
+    },
+    {
+      "id": 236444,
+      "x": 644,
+      "y": 262,
+      "type": "boundary"
+    },
+    {
+      "id": 242770,
+      "x": 670,
+      "y": 269,
+      "type": "boundary"
+    },
+    {
+      "id": 288200,
+      "x": 200,
+      "y": 320,
+      "type": "boundary"
+    },
+    {
+      "id": 440118,
+      "x": 18,
+      "y": 489,
+      "type": "boundary"
+    },
+    {
+      "id": 459891,
+      "x": 891,
+      "y": 510,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        440118,
+        288200,
+        459891
+      ],
+      "colour": [
+        56,
+        67,
+        50
+      ]
+    },
+    {
+      "vertices": [
+        288200,
+        440118,
+        45126
+      ],
+      "colour": [
+        134,
+        139,
+        122
+      ]
+    },
+    {
+      "vertices": [
+        99319,
+        236444,
+        288200
+      ],
+      "colour": [
+        139,
+        128,
+        120
+      ]
+    },
+    {
+      "vertices": [
+        236444,
+        7856,
+        242770
+      ],
+      "colour": [
+        156,
+        135,
+        120
+      ]
+    },
+    {
+      "vertices": [
+        242770,
+        459891,
+        236444
+      ],
+      "colour": [
+        68,
+        71,
+        73
+      ]
+    },
+    {
+      "vertices": [
+        236444,
+        459891,
+        288200
+      ],
+      "colour": [
+        94,
+        100,
+        90
+      ]
+    }
+  ]
+}

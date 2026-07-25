@@ -1,0 +1,46 @@
+{
+  "width": 900,
+  "height": 517,
+  "total_vertices": 3,
+  "boundary_vertices": 3,
+  "interior_vertices": 0,
+  "triangle_count": 1,
+  "move_type": "start",
+  "added_point": null,
+  "added_vertex_id": null,
+  "score": 478117.90542466985,
+  "vertices": [
+    {
+      "id": 7856,
+      "x": 656,
+      "y": 8,
+      "type": "boundary"
+    },
+    {
+      "id": 440118,
+      "x": 18,
+      "y": 489,
+      "type": "boundary"
+    },
+    {
+      "id": 459891,
+      "x": 891,
+      "y": 510,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        440118,
+        7856,
+        459891
+      ],
+      "colour": [
+        82,
+        87,
+        75
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "width": 900,
+  "height": 629,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    648,
+    346
+  ],
+  "added_vertex_id": 312048,
+  "score": 783140.1195006983,
+  "vertices": [
+    {
+      "id": 24534,
+      "x": 234,
+      "y": 27,
+      "type": "boundary"
+    },
+    {
+      "id": 157213,
+      "x": 613,
+      "y": 174,
+      "type": "boundary"
+    },
+    {
+      "id": 247054,
+      "x": 454,
+      "y": 274,
+      "type": "boundary"
+    },
+    {
+      "id": 286118,
+      "x": 818,
+      "y": 317,
+      "type": "boundary"
+    },
+    {
+      "id": 312048,
+      "x": 648,
+      "y": 346,
+      "type": "boundary"
+    },
+    {
+      "id": 354633,
+      "x": 33,
+      "y": 394,
+      "type": "boundary"
+    },
+    {
+      "id": 547222,
+      "x": 22,
+      "y": 608,
+      "type": "boundary"
+    },
+    {
+      "id": 548077,
+      "x": 877,
+      "y": 608,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        24534,
+        247054,
+        354633
+      ],
+      "colour": [
+        90,
+        93,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        547222,
+        354633,
+        247054
+      ],
+      "colour": [
+        73,
+        79,
+        67
+      ]
+    },
+    {
+      "vertices": [
+        247054,
+        312048,
+        547222
+      ],
+      "colour": [
+        87,
+        89,
+        79
+      ]
+    },
+    {
+      "vertices": [
+        312048,
+        548077,
+        547222
+      ],
+      "colour": [
+        62,
+        67,
+        40
+      ]
+    },
+    {
+      "vertices": [
+        548077,
+        312048,
+        286118
+      ],
+      "colour": [
+        81,
+        84,
+        49
+      ]
+    },
+    {
+      "vertices": [
+        157213,
+        312048,
+        247054
+      ],
+      "colour": [
+        151,
+        149,
+        148
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "monument_name": "burj_khalifa",
+  "source_file": "burj_khalifa.png",
+  "prepared_width": 619,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 20.06894580000153,
+  "final_boundary_vertices": 156,
+  "final_interior_vertices": 244,
+  "final_total_vertices": 400,
+  "final_triangle_count": 642,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 359435.2278471758,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        434,
+        721
+      ],
+      "score": 335194.52763097425,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        329,
+        16
+      ],
+      "score": 400870.8440163352,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        602,
+        846
+      ],
+      "score": 454514.48435411096,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 48,
+      "move_type": "boundary",
+      "added_point": [
+        225,
+        698
+      ],
+      "score": 466564.4795339656,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 100,
+      "interior_vertices": 0,
+      "triangle_count": 98,
+      "move_type": "boundary",
+      "added_point": [
+        330,
+        47
+      ],
+      "score": 469262.23314776906,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 156,
+      "interior_vertices": 244,
+      "triangle_count": 642,
+      "move_type": "interior",
+      "added_point": [
+        283,
+        518
+      ],
+      "score": 474409.8434836648,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

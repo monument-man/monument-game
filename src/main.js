@@ -85,7 +85,8 @@ let transitionInProgress = false;
 
 let showingOriginalImage = false;
 
-let previousMonumentId = null;
+let monumentQueue = [];
+let lastPlayedMonumentId = null;
 
 
 /**
@@ -993,38 +994,93 @@ function guessIsCorrect(guess) {
 
 
 /**
- * Choose a monument at random.
-
- * When more than one exists, avoid immediately
- * repeating the previous monument.
+ * Return a shuffled copy of an array.
+ *
+ * The original array is not modified.
  */
-function chooseRandomMonument() {
+function shuffleArray(items) {
+  const shuffledItems = [...items];
+
+  for (
+    let currentIndex = shuffledItems.length - 1;
+    currentIndex > 0;
+    currentIndex -= 1
+  ) {
+    const randomIndex = Math.floor(
+      Math.random() * (currentIndex + 1),
+    );
+
+    [
+      shuffledItems[currentIndex],
+      shuffledItems[randomIndex],
+    ] = [
+      shuffledItems[randomIndex],
+      shuffledItems[currentIndex],
+    ];
+  }
+
+  return shuffledItems;
+}
+
+
+/**
+ * Choose the next monument from a shuffled queue.
+ *
+ * Every monument is used once before the queue is
+ * refilled and shuffled again.
+ */
+function chooseNextMonument() {
   if (monumentLibrary.length === 0) {
     throw new Error(
       "The monument library is empty.",
     );
   }
 
-  let availableMonuments =
-    monumentLibrary;
+  /*
+  Refill the queue only after every monument from the
+  previous cycle has been used.
+  */
+  if (monumentQueue.length === 0) {
+    monumentQueue = shuffleArray(
+      monumentLibrary,
+    );
 
-  if (
-    monumentLibrary.length > 1 &&
-    previousMonumentId !== null
-  ) {
-    availableMonuments =
-      monumentLibrary.filter(
-        (monument) => (
-          monument.id !== previousMonumentId
-        ),
-      );
+    /*
+    Avoid an immediate repeat where one cycle ends and
+    the next shuffled cycle begins.
+
+    This is only possible when there is more than one
+    monument.
+    */
+    if (
+      monumentQueue.length > 1 &&
+      lastPlayedMonumentId !== null &&
+      monumentQueue[0].id === lastPlayedMonumentId
+    ) {
+      const replacementIndex =
+        monumentQueue.findIndex(
+          (monument) => (
+            monument.id !== lastPlayedMonumentId
+          ),
+        );
+
+      [
+        monumentQueue[0],
+        monumentQueue[replacementIndex],
+      ] = [
+        monumentQueue[replacementIndex],
+        monumentQueue[0],
+      ];
+    }
   }
 
-  const randomIndex = Math.floor(
-    Math.random() * availableMonuments.length,
-  );
+  const nextMonument =
+    monumentQueue.shift();
 
-  return availableMonuments[randomIndex];
+  lastPlayedMonumentId =
+    nextMonument.id;
+
+  return nextMonument;
 }
 
 
@@ -1244,10 +1300,7 @@ async function startNewGame() {
 
   try {
     currentMonument =
-      chooseRandomMonument();
-
-    previousMonumentId =
-      currentMonument.id;
+      chooseNextMonument();;
 
     const manifestUrl =
       getMonumentBaseUrl() +

@@ -1,0 +1,117 @@
+{
+  "monument_name": "neuschwanstein",
+  "source_file": "neuschwanstein.png",
+  "prepared_width": 900,
+  "prepared_height": 629,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 37.75161070000104,
+  "final_boundary_vertices": 160,
+  "final_interior_vertices": 240,
+  "final_total_vertices": 400,
+  "final_triangle_count": 638,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 416413.61417597765,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        818,
+        317
+      ],
+      "score": 773695.6062325418,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        648,
+        346
+      ],
+      "score": 783140.1195006983,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        793,
+        358
+      ],
+      "score": 808818.0653805865,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 48,
+      "move_type": "boundary",
+      "added_point": [
+        807,
+        310
+      ],
+      "score": 835745.6802548883,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 91,
+      "interior_vertices": 9,
+      "triangle_count": 107,
+      "move_type": "interior",
+      "added_point": [
+        813,
+        332
+      ],
+      "score": 842369.2895425977,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 160,
+      "interior_vertices": 240,
+      "triangle_count": 638,
+      "move_type": "interior",
+      "added_point": [
+        778,
+        384
+      ],
+      "score": 853206.5288931564,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}
