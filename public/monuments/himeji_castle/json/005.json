@@ -1,0 +1,87 @@
+{
+  "width": 900,
+  "height": 597,
+  "total_vertices": 5,
+  "boundary_vertices": 5,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 5,
+  "triangle_count": 3,
+  "move_type": "boundary",
+  "added_point": [
+    878,
+    304
+  ],
+  "added_vertex_id": 274478,
+  "score": 790755.8572934689,
+  "vertices": [
+    {
+      "id": 53762,
+      "x": 662,
+      "y": 59,
+      "type": "boundary"
+    },
+    {
+      "id": 274478,
+      "x": 878,
+      "y": 304,
+      "type": "boundary"
+    },
+    {
+      "id": 376220,
+      "x": 20,
+      "y": 418,
+      "type": "boundary"
+    },
+    {
+      "id": 518422,
+      "x": 22,
+      "y": 576,
+      "type": "boundary"
+    },
+    {
+      "id": 519277,
+      "x": 877,
+      "y": 576,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        518422,
+        376220,
+        519277
+      ],
+      "colour": [
+        51,
+        63,
+        31
+      ]
+    },
+    {
+      "vertices": [
+        53762,
+        274478,
+        519277
+      ],
+      "colour": [
+        72,
+        78,
+        62
+      ]
+    },
+    {
+      "vertices": [
+        53762,
+        519277,
+        376220
+      ],
+      "colour": [
+        114,
+        117,
+        100
+      ]
+    }
+  ]
+}

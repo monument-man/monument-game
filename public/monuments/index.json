@@ -564,6 +564,336 @@
 "postmodern",
 "skyscraper"
 ]
+},
+{
+"id": "atomium",
+"name": "Atomium",
+"accepted_answers": [
+"atomium",
+"the atomium",
+"brussels atomium"
+],
+"country": "Belgium",
+"country_code": "BE",
+"city": "Brussels",
+"continent": "Europe",
+"category": "Monument",
+"year_completed": 1958,
+"unesco": false,
+"difficulty": "Medium",
+"tags": [
+"atomic age",
+"worlds fair",
+"modernism",
+"iron crystal",
+"brussels"
+]
+},
+{
+"id": "capitol_building",
+"name": "United States Capitol",
+"accepted_answers": [
+"united states capitol",
+"the united states capitol",
+"us capitol",
+"u.s. capitol",
+"the us capitol",
+"capitol building",
+"the capitol building",
+"united states capitol building",
+"us capitol building"
+],
+"country": "United States",
+"country_code": "US",
+"city": "Washington, D.C.",
+"continent": "North America",
+"category": "Government building",
+"year_completed": 1800,
+"unesco": false,
+"difficulty": "Medium",
+"tags": [
+"neoclassical",
+"legislature",
+"dome",
+"congress",
+"washington dc"
+]
+},
+{
+"id": "chrysler_building",
+"name": "Chrysler Building",
+"accepted_answers": [
+"chrysler building",
+"the chrysler building",
+"chrysler tower",
+"the chrysler tower"
+],
+"country": "United States",
+"country_code": "US",
+"city": "New York City",
+"continent": "North America",
+"category": "Skyscraper",
+"year_completed": 1930,
+"unesco": false,
+"difficulty": "Medium",
+"tags": [
+"art deco",
+"skyscraper",
+"spire",
+"manhattan",
+"automotive"
+]
+},
+{
+"id": "florence_cathedral",
+"name": "Florence Cathedral",
+"accepted_answers": [
+"florence cathedral",
+"the florence cathedral",
+"cathedral of florence",
+"florence duomo",
+"duomo of florence",
+"duomo di firenze",
+"il duomo di firenze",
+"santa maria del fiore",
+"cathedral of santa maria del fiore"
+],
+"country": "Italy",
+"country_code": "IT",
+"city": "Florence",
+"continent": "Europe",
+"category": "Cathedral",
+"year_completed": 1436,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"renaissance",
+"cathedral",
+"dome",
+"brunelleschi",
+"gothic"
+]
+},
+{
+"id": "forbidden_city",
+"name": "Forbidden City",
+"accepted_answers": [
+"forbidden city",
+"the forbidden city",
+"forbidden palace",
+"palace museum",
+"the palace museum",
+"imperial palace beijing",
+"beijing imperial palace"
+],
+"country": "China",
+"country_code": "CN",
+"city": "Beijing",
+"continent": "Asia",
+"category": "Palace complex",
+"year_completed": 1420,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"imperial palace",
+"ming dynasty",
+"qing dynasty",
+"palace complex",
+"beijing"
+]
+},
+{
+"id": "himeji_castle",
+"name": "Himeji Castle",
+"accepted_answers": [
+"himeji castle",
+"the himeji castle",
+"himeji-jo",
+"himeji jo",
+"shirasagi castle",
+"white heron castle",
+"white egret castle"
+],
+"country": "Japan",
+"country_code": "JP",
+"city": "Himeji",
+"continent": "Asia",
+"category": "Castle",
+"year_completed": 1609,
+"unesco": true,
+"difficulty": "Hard",
+"tags": [
+"japanese castle",
+"samurai",
+"shogunate",
+"white plaster",
+"fortification"
+]
+},
+{
+"id": "mont_st_michel",
+"name": "Mont-Saint-Michel",
+"accepted_answers": [
+"mont saint michel",
+"mont-saint-michel",
+"mont saint-michel",
+"mont st michel",
+"mont st. michel",
+"the mont saint michel",
+"le mont saint michel"
+],
+"country": "France",
+"country_code": "FR",
+"city": "Le Mont-Saint-Michel",
+"continent": "Europe",
+"category": "Abbey",
+"year_completed": null,
+"unesco": true,
+"difficulty": "Easy",
+"tags": [
+"abbey",
+"tidal island",
+"medieval",
+"pilgrimage",
+"normandy"
+]
+},
+{
+"id": "orszaghaz",
+"name": "Országház",
+"accepted_answers": [
+"orszaghaz",
+"országház",
+"hungarian parliament building",
+"the hungarian parliament building",
+"hungarian parliament",
+"budapest parliament",
+"budapest parliament building",
+"parliament of budapest"
+],
+"country": "Hungary",
+"country_code": "HU",
+"city": "Budapest",
+"continent": "Europe",
+"category": "Government building",
+"year_completed": 1904,
+"unesco": true,
+"difficulty": "Hard",
+"tags": [
+"parliament",
+"gothic revival",
+"danube",
+"dome",
+"budapest"
+]
+},
+{
+"id": "palace_of_versailles",
+"name": "Palace of Versailles",
+"accepted_answers": [
+"palace of versailles",
+"the palace of versailles",
+"versailles palace",
+"versailles",
+"chateau de versailles",
+"château de versailles"
+],
+"country": "France",
+"country_code": "FR",
+"city": "Versailles",
+"continent": "Europe",
+"category": "Palace",
+"year_completed": 1682,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"royal palace",
+"french monarchy",
+"baroque",
+"gardens",
+"louis xiv"
+]
+},
+{
+"id": "petronas_towers",
+"name": "Petronas Towers",
+"accepted_answers": [
+"petronas towers",
+"the petronas towers",
+"petronas twin towers",
+"the petronas twin towers",
+"klcc towers",
+"klcc twin towers"
+],
+"country": "Malaysia",
+"country_code": "MY",
+"city": "Kuala Lumpur",
+"continent": "Asia",
+"category": "Skyscraper",
+"year_completed": 1998,
+"unesco": false,
+"difficulty": "Easy",
+"tags": [
+"twin towers",
+"skybridge",
+"skyscraper",
+"postmodern",
+"kuala lumpur"
+]
+},
+{
+"id": "st_peters_basilica",
+"name": "St Peter's Basilica",
+"accepted_answers": [
+"st peters basilica",
+"st peter's basilica",
+"saint peters basilica",
+"saint peter's basilica",
+"basilica of st peter",
+"basilica of saint peter",
+"papal basilica of saint peter"
+],
+"country": "Vatican City",
+"country_code": "VA",
+"city": "Vatican City",
+"continent": "Europe",
+"category": "Basilica",
+"year_completed": 1626,
+"unesco": true,
+"difficulty": "Medium",
+"tags": [
+"basilica",
+"renaissance",
+"catholic",
+"dome",
+"vatican"
+]
+},
+{
+"id": "statue_of_unity",
+"name": "Statue of Unity",
+"accepted_answers": [
+"statue of unity",
+"the statue of unity",
+"sardar patel statue",
+"statue of sardar patel",
+"sardar vallabhbhai patel statue"
+],
+"country": "India",
+"country_code": "IN",
+"city": "Ekta Nagar",
+"continent": "Asia",
+"category": "Statue",
+"year_completed": 2018,
+"unesco": false,
+"difficulty": "Hard",
+"tags": [
+"sardar patel",
+"bronze",
+"worlds tallest statue",
+"indian independence",
+"gujarat"
+]
 }
 ]
 }

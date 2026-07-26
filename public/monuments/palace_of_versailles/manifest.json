@@ -1,8 +1,8 @@
 {
-  "monument_name": "eiffel_tower",
-  "source_file": "eiffel_tower.png",
-  "prepared_width": 628,
-  "prepared_height": 900,
+  "monument_name": "palace_of_versailles",
+  "source_file": "palace_of_versailles.png",
+  "prepared_width": 900,
+  "prepared_height": 596,
   "checkpoints": [
     3,
     5,
@@ -12,11 +12,11 @@
     100,
     400
   ],
-  "generation_time_seconds": 49.81827520000297,
-  "final_boundary_vertices": 106,
-  "final_interior_vertices": 294,
+  "generation_time_seconds": 64.73383079999985,
+  "final_boundary_vertices": 174,
+  "final_interior_vertices": 226,
   "final_total_vertices": 400,
-  "final_triangle_count": 710,
+  "final_triangle_count": 624,
   "stages": [
     {
       "total_vertices": 3,
@@ -25,7 +25,7 @@
       "triangle_count": 1,
       "move_type": "start",
       "added_point": null,
-      "score": 201605.26139911273,
+      "score": 340723.526816609,
       "png": "png/003.png",
       "json": "json/003.json"
     },
@@ -36,10 +36,10 @@
       "triangle_count": 3,
       "move_type": "boundary",
       "added_point": [
-        14,
-        884
+        878,
+        385
       ],
-      "score": 259985.70504025632,
+      "score": 986899.3371539792,
       "png": "png/005.png",
       "json": "json/005.json"
     },
@@ -50,10 +50,10 @@
       "triangle_count": 6,
       "move_type": "boundary",
       "added_point": [
-        612,
-        739
+        62,
+        29
       ],
-      "score": 327586.2138103845,
+      "score": 1028229.1783088235,
       "png": "png/008.png",
       "json": "json/008.json"
     },
@@ -64,52 +64,52 @@
       "triangle_count": 18,
       "move_type": "boundary",
       "added_point": [
-        572,
-        767
+        118,
+        49
       ],
-      "score": 351740.2011378574,
+      "score": 1033950.1654411765,
       "png": "png/020.png",
       "json": "json/020.json"
     },
     {
       "total_vertices": 50,
-      "boundary_vertices": 50,
-      "interior_vertices": 0,
-      "triangle_count": 66,
+      "boundary_vertices": 47,
+      "interior_vertices": 3,
+      "triangle_count": 51,
       "move_type": "boundary",
       "added_point": [
-        328,
-        90
+        230,
+        84
       ],
-      "score": 372408.2250041078,
+      "score": 1036540.8154195502,
       "png": "png/050.png",
       "json": "json/050.json"
     },
     {
       "total_vertices": 100,
-      "boundary_vertices": 75,
-      "interior_vertices": 25,
-      "triangle_count": 141,
-      "move_type": "boundary",
+      "boundary_vertices": 77,
+      "interior_vertices": 23,
+      "triangle_count": 121,
+      "move_type": "interior",
       "added_point": [
-        312,
-        25
+        36,
+        54
       ],
-      "score": 374258.9654329609,
+      "score": 1045213.1645761245,
       "png": "png/100.png",
       "json": "json/100.json"
     },
     {
       "total_vertices": 400,
-      "boundary_vertices": 106,
-      "interior_vertices": 294,
-      "triangle_count": 710,
+      "boundary_vertices": 174,
+      "interior_vertices": 226,
+      "triangle_count": 624,
       "move_type": "interior",
       "added_point": [
-        356,
-        708
+        455,
+        278
       ],
-      "score": 375900.7045883996,
+      "score": 1052541.4642084774,
       "png": "png/400.png",
       "json": "json/400.json"
     }

@@ -1,0 +1,141 @@
+{
+  "width": 241,
+  "height": 382,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 8,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    24,
+    357
+  ],
+  "added_vertex_id": 86061,
+  "score": 61329.12206197551,
+  "vertices": [
+    {
+      "id": 5916,
+      "x": 132,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 31659,
+      "x": 88,
+      "y": 131,
+      "type": "boundary"
+    },
+    {
+      "id": 36579,
+      "x": 188,
+      "y": 151,
+      "type": "boundary"
+    },
+    {
+      "id": 70974,
+      "x": 120,
+      "y": 294,
+      "type": "boundary"
+    },
+    {
+      "id": 73663,
+      "x": 158,
+      "y": 305,
+      "type": "boundary"
+    },
+    {
+      "id": 85838,
+      "x": 42,
+      "y": 356,
+      "type": "boundary"
+    },
+    {
+      "id": 86061,
+      "x": 24,
+      "y": 357,
+      "type": "boundary"
+    },
+    {
+      "id": 86494,
+      "x": 216,
+      "y": 358,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        70974,
+        31659,
+        36579
+      ],
+      "colour": [
+        81,
+        84,
+        92
+      ]
+    },
+    {
+      "vertices": [
+        86061,
+        85838,
+        86494
+      ],
+      "colour": [
+        235,
+        224,
+        194
+      ]
+    },
+    {
+      "vertices": [
+        70974,
+        73663,
+        85838
+      ],
+      "colour": [
+        159,
+        131,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        36579,
+        73663,
+        70974
+      ],
+      "colour": [
+        64,
+        68,
+        80
+      ]
+    },
+    {
+      "vertices": [
+        73663,
+        86494,
+        85838
+      ],
+      "colour": [
+        179,
+        149,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        36579,
+        31659,
+        5916
+      ],
+      "colour": [
+        122,
+        121,
+        121
+      ]
+    }
+  ]
+}
