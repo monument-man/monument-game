@@ -68,6 +68,16 @@ export function finishTrackedRound({
 
 
 /**
+ * Stop locally tracking a round that has been
+ * replaced by a filter change.
+ */
+export function abandonTrackedRound() {
+  currentRoundId = null;
+  roundStartedAt = null;
+}
+
+
+/**
  * Send an event without interrupting the game
  * if the statistics service is unavailable.
  */

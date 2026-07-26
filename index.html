@@ -66,7 +66,102 @@
           vertices are revealed.
         </p>
       </header>
+      
+      <section
+        class="filter-bar"
+        aria-labelledby="filter-bar-title"
+      >
+        <button
+          id="filter-toggle-button"
+          class="filter-bar__toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="filter-panel"
+        >
+          <span id="filter-bar-title">
+            Game filters
+          </span>
 
+          <span
+            class="filter-bar__arrow"
+            aria-hidden="true"
+          ></span>
+        </button>
+
+        <div
+          id="filter-panel"
+          class="filter-bar__panel"
+          hidden
+        >
+          <div class="filter-bar__heading">
+            <p>
+              Combine filters to choose which monuments
+              can appear.
+            </p>
+
+            <p
+              id="filter-summary"
+              class="filter-summary"
+              aria-live="polite"
+            >
+              Loading monument options...
+            </p>
+          </div>
+
+          <div class="filter-controls">
+            <label>
+              <span>Continent</span>
+
+              <select id="continent-filter">
+                <option value="">
+                  All continents
+                </option>
+              </select>
+            </label>
+
+            <label>
+              <span>Country</span>
+
+              <select id="country-filter">
+                <option value="">
+                  All countries
+                </option>
+              </select>
+            </label>
+
+            <label>
+              <span>City</span>
+
+              <select id="city-filter">
+                <option value="">
+                  All cities
+                </option>
+              </select>
+            </label>
+
+            <label>
+              <span>Difficulty</span>
+
+              <select id="difficulty-filter">
+                <option value="">
+                  All difficulties
+                </option>
+              </select>
+            </label>
+
+            <button
+              id="reset-filters-button"
+              class="reset-filters-button"
+              type="button"
+              disabled
+            >
+              Reset filters
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="viewer">
       <section class="viewer">
         <div class="canvas-container">
           <canvas

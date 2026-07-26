@@ -1,6 +1,7 @@
 import "./style.css";
 
 import {
+  abandonTrackedRound,
   beginTrackedRound,
   finishTrackedRound,
 } from "./gameStats.js";
@@ -73,11 +74,50 @@ const statusMessage = document.querySelector(
   "#status-message",
 );
 
+const filterControls = {
+  continent: document.querySelector(
+    "#continent-filter",
+  ),
+
+  country: document.querySelector(
+    "#country-filter",
+  ),
+
+  city: document.querySelector(
+    "#city-filter",
+  ),
+
+  difficulty: document.querySelector(
+    "#difficulty-filter",
+  ),
+};
+
+const resetFiltersButton =
+  document.querySelector(
+    "#reset-filters-button",
+  );
+
+const filterSummary =
+  document.querySelector(
+    "#filter-summary",
+  );
+
+const filterToggleButton =
+  document.querySelector(
+    "#filter-toggle-button",
+  );
+
+const filterPanel =
+  document.querySelector(
+    "#filter-panel",
+  );
+
 if (!context) {
   throw new Error(
     "The browser could not create a Canvas 2D context.",
   );
 }
+
 
 const BASE_URL = import.meta.env.BASE_URL;
 
@@ -87,11 +127,13 @@ const REDUCED_MOTION_QUERY = window.matchMedia(
   "(prefers-reduced-motion: reduce)",
 );
 
+let completeMonumentLibrary = [];
 let monumentLibrary = [];
 let currentMonument = null;
 let currentManifest = null;
 let currentStage = null;
 let currentStageIndex = 0;
+let currentGameMode = "all_monuments";
 
 let guessCount = 0;
 let gameComplete = false;
@@ -1009,6 +1051,253 @@ function guessIsCorrect(guess) {
 
 
 /**
+ * Return the current filter selections.
+ */
+function getSelectedFilters() {
+  return Object.fromEntries(
+    Object.entries(filterControls).map(
+      ([key, element]) => [
+        key,
+        element.value,
+      ],
+    ),
+  );
+}
+
+
+/**
+ * Test whether any filter is active.
+ */
+function filtersAreActive(filters) {
+  return Object.values(filters).some(Boolean);
+}
+
+
+/**
+ * Populate one filter from index.json metadata.
+ */
+function populateFilterOptions(
+  element,
+  metadataKey,
+  defaultLabel,
+) {
+  const values = [
+    ...new Set(
+      completeMonumentLibrary
+        .map(
+          (monument) => monument[metadataKey],
+        )
+        .filter(
+          (value) => (
+            typeof value === "string" &&
+            value.trim() !== ""
+          ),
+        ),
+    ),
+  ].sort(
+    (first, second) => {
+      if (metadataKey === "difficulty") {
+        const difficultyOrder = [
+          "Easy",
+          "Medium",
+          "Hard",
+        ];
+
+        return (
+          difficultyOrder.indexOf(first) -
+          difficultyOrder.indexOf(second)
+        );
+      }
+
+      return first.localeCompare(second);
+    },
+  );
+
+  const defaultOption =
+    document.createElement("option");
+
+  defaultOption.value = "";
+  defaultOption.textContent = defaultLabel;
+
+  const valueOptions = values.map(
+    (value) => {
+      const option =
+        document.createElement("option");
+
+      option.value = value;
+      option.textContent = value;
+
+      return option;
+    },
+  );
+
+  element.replaceChildren(
+    defaultOption,
+    ...valueOptions,
+  );
+}
+
+
+/**
+ * Populate every filter.
+ */
+function populateAllFilterOptions() {
+  populateFilterOptions(
+    filterControls.continent,
+    "continent",
+    "All continents",
+  );
+
+  populateFilterOptions(
+    filterControls.country,
+    "country",
+    "All countries",
+  );
+
+  populateFilterOptions(
+    filterControls.city,
+    "city",
+    "All cities",
+  );
+
+  populateFilterOptions(
+    filterControls.difficulty,
+    "difficulty",
+    "All difficulties",
+  );
+}
+
+
+/**
+ * Display a recoverable state when no monuments
+ * match the selected combination.
+ */
+function showNoMatchingMonuments() {
+  gameComplete = true;
+
+  currentMonument = null;
+  currentManifest = null;
+  currentStage = null;
+  currentStageIndex = 0;
+
+  clearCanvas();
+
+  canvas.hidden = false;
+
+  originalImage.hidden = true;
+  originalImage.src = "";
+  originalImage.alt = "";
+
+  guessForm.hidden = false;
+  completionPanel.hidden = true;
+
+  guessInput.value = "";
+  guessInput.disabled = true;
+  submitButton.disabled = true;
+
+  viewToggleButton.hidden = true;
+
+  stageLabel.textContent =
+    "No matching monuments";
+
+  vertexLabel.textContent =
+    "Adjust the filters";
+
+  feedbackMessage.textContent = "";
+
+  statusMessage.textContent =
+    "No monuments match this combination. " +
+    "Change a filter or reset to the default settings.";
+}
+
+
+/**
+ * Apply every selected filter.
+ *
+ * Multiple active filters use AND logic.
+ */
+async function applySelectedFilters(
+  startNewRound = true,
+) {
+  const filters = getSelectedFilters();
+
+  monumentLibrary =
+    completeMonumentLibrary.filter(
+      (monument) => (
+        Object.entries(filters).every(
+          ([key, selectedValue]) => (
+            !selectedValue ||
+            monument[key] === selectedValue
+          ),
+        )
+      ),
+    );
+
+  /*
+  Discard the old queue so it cannot contain monuments
+  that are excluded by the new settings.
+  */
+  monumentQueue = [];
+
+  const active =
+    filtersAreActive(filters);
+
+  currentGameMode =
+    active
+      ? "filtered_monuments"
+      : "all_monuments";
+
+  const matchingCount =
+    monumentLibrary.length;
+
+  const totalCount =
+    completeMonumentLibrary.length;
+
+  if (active) {
+    filterSummary.textContent = (
+      matchingCount === 1
+        ? `1 of ${totalCount} monuments matches.`
+        : `${matchingCount} of ${totalCount} monuments match.`
+    );
+  } else {
+    filterSummary.textContent =
+      `All ${totalCount} monuments available.`;
+  }
+
+  resetFiltersButton.disabled =
+    !active;
+
+  if (!startNewRound) {
+    return;
+  }
+
+  abandonTrackedRound();
+
+  if (matchingCount === 0) {
+    showNoMatchingMonuments();
+    return;
+  }
+
+  await startNewGame();
+}
+
+
+/**
+ * Restore the default unfiltered game.
+ */
+async function resetFilters() {
+  for (
+    const element
+    of Object.values(filterControls)
+  ) {
+    element.value = "";
+  }
+
+  await applySelectedFilters();
+}
+
+
+/**
  * Return a shuffled copy of an array.
  *
  * The original array is not modified.
@@ -1163,6 +1452,9 @@ async function finishGame(wasCorrect) {
 
     stageReached:
       currentStageIndex + 1,
+    
+    gameMode:
+      currentGameMode,
   });
 
   /*
@@ -1378,6 +1670,7 @@ async function startNewGame() {
 
     beginTrackedRound(
       currentMonument.id,
+      currentGameMode,
     );
 
     guessInput.disabled = false;
@@ -1408,8 +1701,16 @@ async function initialiseGame() {
       );
     }
 
-    monumentLibrary =
+    completeMonumentLibrary =
       libraryData.monuments;
+
+    populateAllFilterOptions();
+
+    /*
+    Establish the default unfiltered library without
+    starting an additional round.
+    */
+    await applySelectedFilters(false);
 
     await startNewGame();
   } catch (error) {
@@ -1435,6 +1736,46 @@ playAgainButton.addEventListener(
 viewToggleButton.addEventListener(
   "click",
   toggleMonumentView,
+);
+
+for (
+  const element
+  of Object.values(filterControls)
+) {
+  element.addEventListener(
+    "change",
+    () => {
+      void applySelectedFilters();
+    },
+  );
+}
+
+filterToggleButton.addEventListener(
+  "click",
+  () => {
+    const currentlyExpanded =
+      filterToggleButton.getAttribute(
+        "aria-expanded",
+      ) === "true";
+
+    const willBeExpanded =
+      !currentlyExpanded;
+
+    filterToggleButton.setAttribute(
+      "aria-expanded",
+      String(willBeExpanded),
+    );
+
+    filterPanel.hidden =
+      !willBeExpanded;
+  },
+);
+
+resetFiltersButton.addEventListener(
+  "click",
+  () => {
+    void resetFilters();
+  },
 );
 
 window.addEventListener(
