@@ -894,6 +894,397 @@
 "indian independence",
 "gujarat"
 ]
+},
+  {
+    "id": "leaning_tower_of_pisa",
+    "name": "Leaning Tower of Pisa",
+    "accepted_answers": [
+      "leaning tower of pisa",
+      "the leaning tower of pisa",
+      "leaning tower",
+      "tower of pisa",
+      "the tower of pisa",
+      "pisa tower",
+      "torre pendente di pisa",
+      "leaning tower of pizza"
+    ],
+    "country": "Italy",
+    "country_code": "IT",
+    "city": "Pisa",
+    "continent": "Europe",
+    "category": "Bell tower",
+    "year_completed": 1372,
+    "unesco": true,
+    "difficulty": "Easy",
+    "tags": [
+      "leaning tower",
+      "bell tower",
+      "romanesque",
+      "marble",
+      "pisa"
+    ]
+  },
+  {
+    "id": "brandenburg_gate",
+    "name": "Brandenburg Gate",
+    "accepted_answers": [
+      "brandenburg gate",
+      "the brandenburg gate",
+      "brandenburger tor",
+      "brandenburg tor",
+      "brandenberg gate"
+    ],
+    "country": "Germany",
+    "country_code": "DE",
+    "city": "Berlin",
+    "continent": "Europe",
+    "category": "Monument",
+    "year_completed": 1791,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "city gate",
+      "neoclassical",
+      "quadriga",
+      "german reunification",
+      "berlin"
+    ]
+  },
+  {
+    "id": "empire_state_building",
+    "name": "Empire State Building",
+    "accepted_answers": [
+      "empire state building",
+      "the empire state building",
+      "empire state",
+      "empire state tower"
+    ],
+    "country": "United States",
+    "country_code": "US",
+    "city": "New York City",
+    "continent": "North America",
+    "category": "Skyscraper",
+    "year_completed": 1931,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "art deco",
+      "skyscraper",
+      "observation deck",
+      "manhattan",
+      "new york"
+    ]
+  },
+  {
+    "id": "golden_gate_bridge",
+    "name": "Golden Gate Bridge",
+    "accepted_answers": [
+      "golden gate bridge",
+      "the golden gate bridge",
+      "golden gate",
+      "san francisco golden gate bridge"
+    ],
+    "country": "United States",
+    "country_code": "US",
+    "city": "San Francisco",
+    "continent": "North America",
+    "category": "Bridge",
+    "year_completed": 1937,
+    "unesco": false,
+    "difficulty": "Easy",
+    "tags": [
+      "suspension bridge",
+      "international orange",
+      "art deco",
+      "san francisco bay",
+      "engineering"
+    ]
+  },
+  {
+    "id": "sphinx",
+    "name": "Great Sphinx of Giza",
+    "accepted_answers": [
+      "sphinx",
+      "the sphinx",
+      "great sphinx",
+      "the great sphinx",
+      "great sphinx of giza",
+      "the great sphinx of giza",
+      "sphinx of giza",
+      "giza sphinx"
+    ],
+    "country": "Egypt",
+    "country_code": "EG",
+    "city": "Giza",
+    "continent": "Africa",
+    "category": "Ancient monument",
+    "year_completed": -2500,
+    "unesco": true,
+    "difficulty": "Easy",
+    "tags": [
+      "ancient egypt",
+      "limestone",
+      "pharaoh",
+      "lion body",
+      "giza plateau"
+    ]
+  },
+  {
+    "id": "great_mosque_of_djenne",
+    "name": "Great Mosque of Djenné",
+    "accepted_answers": [
+      "great mosque of djenne",
+      "the great mosque of djenne",
+      "great mosque of djenné",
+      "the great mosque of djenné",
+      "djenne mosque",
+      "djenné mosque",
+      "grand mosque of djenne",
+      "grand mosque of djenné"
+    ],
+    "country": "Mali",
+    "country_code": "ML",
+    "city": "Djenné",
+    "continent": "Africa",
+    "category": "Mosque",
+    "year_completed": 1907,
+    "unesco": true,
+    "difficulty": "Hard",
+    "tags": [
+      "mud brick",
+      "sudanese architecture",
+      "islamic",
+      "earthen architecture",
+      "sahel"
+    ]
+  },
+  {
+    "id": "dome_of_the_rock",
+    "name": "Dome of the Rock",
+    "accepted_answers": [
+      "dome of the rock",
+      "the dome of the rock",
+      "qubbat al sakhra",
+      "qubbat al-sakhra",
+      "qubbat as sakhra",
+      "qubbat as-sakhra"
+    ],
+    "country": "Palestine",
+    "country_code": "PS",
+    "city": "Jerusalem",
+    "continent": "Asia",
+    "category": "Shrine",
+    "year_completed": 692,
+    "unesco": true,
+    "difficulty": "Medium",
+    "tags": [
+      "islamic shrine",
+      "umayyad",
+      "golden dome",
+      "temple mount",
+      "old city"
+    ]
+  },
+  {
+    "id": "itsukushima_shrine",
+    "name": "Itsukushima Shrine",
+    "accepted_answers": [
+      "itsukushima shrine",
+      "the itsukushima shrine",
+      "itsukushima shinto shrine",
+      "itsukushima torii",
+      "great torii of itsukushima",
+      "miyajima shrine",
+      "miyajima torii",
+      "floating torii gate",
+      "the floating torii gate"
+    ],
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Hatsukaichi",
+    "continent": "Asia",
+    "category": "Shinto shrine",
+    "year_completed": 1168,
+    "unesco": true,
+    "difficulty": "Medium",
+    "tags": [
+      "shinto",
+      "torii gate",
+      "tidal shrine",
+      "miyajima",
+      "vermilion"
+    ]
+  },
+  {
+    "id": "osaka_castle",
+    "name": "Osaka Castle",
+    "accepted_answers": [
+      "osaka castle",
+      "the osaka castle",
+      "osaka-jo",
+      "osaka jo",
+      "osakajo",
+      "osaka castle museum"
+    ],
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Osaka",
+    "continent": "Asia",
+    "category": "Castle",
+    "year_completed": 1931,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "japanese castle",
+      "reconstruction",
+      "toyotomi hideyoshi",
+      "main tower",
+      "osaka"
+    ]
+  },
+  {
+    "id": "marina_bay_sands",
+    "name": "Marina Bay Sands",
+    "accepted_answers": [
+      "marina bay sands",
+      "the marina bay sands",
+      "marina bay sands hotel",
+      "marina bay sands resort",
+      "mbs",
+      "sands skypark"
+    ],
+    "country": "Singapore",
+    "country_code": "SG",
+    "city": "Singapore",
+    "continent": "Asia",
+    "category": "Integrated resort",
+    "year_completed": 2010,
+    "unesco": false,
+    "difficulty": "Easy",
+    "tags": [
+      "integrated resort",
+      "skypark",
+      "infinity pool",
+      "modern architecture",
+      "singapore"
+    ]
+  },
+  {
+    "id": "las_lajas_sanctuary",
+    "name": "Las Lajas Sanctuary",
+    "accepted_answers": [
+      "las lajas sanctuary",
+      "the las lajas sanctuary",
+      "sanctuary of las lajas",
+      "las lajas cathedral",
+      "las lajas church",
+      "las lajas basilica",
+      "our lady of las lajas"
+    ],
+    "country": "Colombia",
+    "country_code": "CO",
+    "city": "Ipiales",
+    "continent": "South America",
+    "category": "Basilica",
+    "year_completed": 1949,
+    "unesco": false,
+    "difficulty": "Hard",
+    "tags": [
+      "gothic revival",
+      "basilica",
+      "canyon",
+      "pilgrimage",
+      "guaitara river"
+    ]
+  },
+  {
+    "id": "cathedral_of_brasilia",
+    "name": "Cathedral of Brasília",
+    "accepted_answers": [
+      "cathedral of brasilia",
+      "cathedral of brasília",
+      "the cathedral of brasilia",
+      "the cathedral of brasília",
+      "brasilia cathedral",
+      "brasília cathedral",
+      "metropolitan cathedral of brasilia",
+      "metropolitan cathedral of brasília",
+      "catedral metropolitana de brasilia",
+      "catedral metropolitana de brasília"
+    ],
+    "country": "Brazil",
+    "country_code": "BR",
+    "city": "Brasília",
+    "continent": "South America",
+    "category": "Cathedral",
+    "year_completed": 1970,
+    "unesco": true,
+    "difficulty": "Hard",
+    "tags": [
+      "modernism",
+      "oscar niemeyer",
+      "hyperboloid",
+      "concrete",
+      "catholic"
+    ]
+  },
+  {
+    "id": "maracana_stadium",
+    "name": "Maracanã Stadium",
+    "accepted_answers": [
+      "maracana stadium",
+      "maracanã stadium",
+      "the maracana stadium",
+      "the maracanã stadium",
+      "maracana",
+      "maracanã",
+      "estadio do maracana",
+      "estádio do maracanã",
+      "estadio jornalista mario filho",
+      "estádio jornalista mário filho"
+    ],
+    "country": "Brazil",
+    "country_code": "BR",
+    "city": "Rio de Janeiro",
+    "continent": "South America",
+    "category": "Stadium",
+    "year_completed": 1950,
+    "unesco": false,
+    "difficulty": "Hard",
+    "tags": [
+      "football stadium",
+      "world cup",
+      "maracanazo",
+      "olympics",
+      "rio de janeiro"
+    ]
+  },
+  {
+  "id": "cn_tower",
+  "name": "CN Tower",
+  "accepted_answers": [
+    "cn tower",
+    "the cn tower",
+    "canadian national tower",
+    "canada national tower",
+    "toronto cn tower",
+    "toronto tower"
+  ],
+  "country": "Canada",
+  "country_code": "CA",
+  "city": "Toronto",
+  "continent": "North America",
+  "category": "Communications tower",
+  "year_completed": 1976,
+  "unesco": false,
+  "difficulty": "Medium",
+  "tags": [
+    "communications tower",
+    "observation deck",
+    "concrete",
+    "toronto skyline",
+    "canadian landmark"
+  ]
 }
 ]
 }

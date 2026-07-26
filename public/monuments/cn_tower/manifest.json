@@ -1,0 +1,103 @@
+{
+  "monument_name": "cn_tower",
+  "source_file": "cn_tower.png",
+  "prepared_width": 112,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 3.861862100000508,
+  "final_boundary_vertices": 75,
+  "final_interior_vertices": 111,
+  "final_total_vertices": 186,
+  "final_triangle_count": 295,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 85086.61443014706,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        96,
+        323
+      ],
+      "score": 80334.97242647059,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        40,
+        374
+      ],
+      "score": 88938.87913602941,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        72,
+        294
+      ],
+      "score": 98162.77389705883,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 48,
+      "move_type": "boundary",
+      "added_point": [
+        83,
+        370
+      ],
+      "score": 98361.5234375,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 75,
+      "interior_vertices": 25,
+      "triangle_count": 123,
+      "move_type": "interior",
+      "added_point": [
+        75,
+        314
+      ],
+      "score": 99053.71047794117,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    }
+  ]
+}

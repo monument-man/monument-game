@@ -1,0 +1,87 @@
+{
+  "width": 692,
+  "height": 521,
+  "total_vertices": 5,
+  "boundary_vertices": 5,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 5,
+  "triangle_count": 3,
+  "move_type": "boundary",
+  "added_point": [
+    238,
+    202
+  ],
+  "added_vertex_id": 140022,
+  "score": 185847.80980085256,
+  "vertices": [
+    {
+      "id": 26324,
+      "x": 28,
+      "y": 38,
+      "type": "boundary"
+    },
+    {
+      "id": 40792,
+      "x": 656,
+      "y": 58,
+      "type": "boundary"
+    },
+    {
+      "id": 140022,
+      "x": 238,
+      "y": 202,
+      "type": "boundary"
+    },
+    {
+      "id": 338207,
+      "x": 511,
+      "y": 488,
+      "type": "boundary"
+    },
+    {
+      "id": 339262,
+      "x": 182,
+      "y": 490,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        339262,
+        26324,
+        140022
+      ],
+      "colour": [
+        149,
+        68,
+        16
+      ]
+    },
+    {
+      "vertices": [
+        140022,
+        40792,
+        338207
+      ],
+      "colour": [
+        113,
+        46,
+        12
+      ]
+    },
+    {
+      "vertices": [
+        40792,
+        140022,
+        26324
+      ],
+      "colour": [
+        60,
+        28,
+        20
+      ]
+    }
+  ]
+}

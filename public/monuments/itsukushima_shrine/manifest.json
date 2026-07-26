@@ -1,0 +1,117 @@
+{
+  "monument_name": "itsukushima_shrine",
+  "source_file": "itsukushima_shrine.png",
+  "prepared_width": 692,
+  "prepared_height": 521,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 26.632160399996792,
+  "final_boundary_vertices": 198,
+  "final_interior_vertices": 202,
+  "final_total_vertices": 400,
+  "final_triangle_count": 621,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 172702.06446946223,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        238,
+        202
+      ],
+      "score": 185847.80980085256,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        501,
+        148
+      ],
+      "score": 154356.4324788767,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        170,
+        275
+      ],
+      "score": 245679.61424161418,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 69,
+      "move_type": "boundary",
+      "added_point": [
+        79,
+        44
+      ],
+      "score": 274568.0158875597,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 100,
+      "interior_vertices": 0,
+      "triangle_count": 119,
+      "move_type": "boundary",
+      "added_point": [
+        34,
+        30
+      ],
+      "score": 277698.9394216279,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 198,
+      "interior_vertices": 202,
+      "triangle_count": 621,
+      "move_type": "interior",
+      "added_point": [
+        474,
+        422
+      ],
+      "score": 279638.96475699736,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

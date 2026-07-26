@@ -1,0 +1,117 @@
+{
+  "monument_name": "cathedral_of_brasilia",
+  "source_file": "cathedral_of_brasilia.png",
+  "prepared_width": 900,
+  "prepared_height": 562,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 49.39266089999728,
+  "final_boundary_vertices": 112,
+  "final_interior_vertices": 288,
+  "final_total_vertices": 400,
+  "final_triangle_count": 686,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 477736.56927849265,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        306,
+        77
+      ],
+      "score": 479171.99006204045,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        509,
+        76
+      ],
+      "score": 501434.9800091912,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        536,
+        127
+      ],
+      "score": 524262.6544117647,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 46,
+      "interior_vertices": 4,
+      "triangle_count": 52,
+      "move_type": "boundary",
+      "added_point": [
+        356,
+        73
+      ],
+      "score": 548381.1970932904,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 71,
+      "interior_vertices": 29,
+      "triangle_count": 127,
+      "move_type": "boundary",
+      "added_point": [
+        316,
+        144
+      ],
+      "score": 553456.8291590074,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 112,
+      "interior_vertices": 288,
+      "triangle_count": 686,
+      "move_type": "interior",
+      "added_point": [
+        110,
+        419
+      ],
+      "score": 568037.4895450368,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "width": 900,
+  "height": 539,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 8,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    62,
+    264
+  ],
+  "added_vertex_id": 237662,
+  "score": 684999.0506956459,
+  "vertices": [
+    {
+      "id": 30098,
+      "x": 398,
+      "y": 33,
+      "type": "boundary"
+    },
+    {
+      "id": 237662,
+      "x": 62,
+      "y": 264,
+      "type": "boundary"
+    },
+    {
+      "id": 288760,
+      "x": 760,
+      "y": 320,
+      "type": "boundary"
+    },
+    {
+      "id": 334822,
+      "x": 22,
+      "y": 372,
+      "type": "boundary"
+    },
+    {
+      "id": 391342,
+      "x": 742,
+      "y": 434,
+      "type": "boundary"
+    },
+    {
+      "id": 398678,
+      "x": 878,
+      "y": 442,
+      "type": "boundary"
+    },
+    {
+      "id": 466222,
+      "x": 22,
+      "y": 518,
+      "type": "boundary"
+    },
+    {
+      "id": 467077,
+      "x": 877,
+      "y": 518,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        391342,
+        334822,
+        237662
+      ],
+      "colour": [
+        114,
+        119,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        391342,
+        466222,
+        334822
+      ],
+      "colour": [
+        167,
+        163,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        237662,
+        30098,
+        391342
+      ],
+      "colour": [
+        138,
+        132,
+        118
+      ]
+    },
+    {
+      "vertices": [
+        288760,
+        391342,
+        30098
+      ],
+      "colour": [
+        134,
+        124,
+        112
+      ]
+    },
+    {
+      "vertices": [
+        398678,
+        467077,
+        391342
+      ],
+      "colour": [
+        178,
+        174,
+        172
+      ]
+    },
+    {
+      "vertices": [
+        391342,
+        467077,
+        466222
+      ],
+      "colour": [
+        181,
+        178,
+        175
+      ]
+    }
+  ]
+}

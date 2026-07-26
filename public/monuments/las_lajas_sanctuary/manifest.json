@@ -1,0 +1,117 @@
+{
+  "monument_name": "las_lajas_sanctuary",
+  "source_file": "las_lajas_sanctuary.png",
+  "prepared_width": 703,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 66.43572940000013,
+  "final_boundary_vertices": 174,
+  "final_interior_vertices": 226,
+  "final_total_vertices": 400,
+  "final_triangle_count": 624,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 727961.4916130515,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        686,
+        312
+      ],
+      "score": 714380.0887637867,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        22,
+        505
+      ],
+      "score": 992223.821897978,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        202,
+        167
+      ],
+      "score": 1020294.6539522059,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 48,
+      "move_type": "boundary",
+      "added_point": [
+        16,
+        531
+      ],
+      "score": 1030770.6438189339,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 98,
+      "interior_vertices": 2,
+      "triangle_count": 100,
+      "move_type": "boundary",
+      "added_point": [
+        254,
+        146
+      ],
+      "score": 1035980.9634880514,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 174,
+      "interior_vertices": 226,
+      "triangle_count": 624,
+      "move_type": "boundary",
+      "added_point": [
+        156,
+        463
+      ],
+      "score": 1042430.2410386029,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}

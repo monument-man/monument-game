@@ -1,0 +1,10077 @@
+{
+  "width": 900,
+  "height": 453,
+  "total_vertices": 400,
+  "boundary_vertices": 160,
+  "interior_vertices": 240,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 400,
+  "triangle_count": 638,
+  "move_type": "interior",
+  "added_point": [
+    578,
+    47
+  ],
+  "added_vertex_id": 42878,
+  "score": 625072.7165483927,
+  "vertices": [
+    {
+      "id": 20159,
+      "x": 359,
+      "y": 22,
+      "type": "boundary"
+    },
+    {
+      "id": 20288,
+      "x": 488,
+      "y": 22,
+      "type": "boundary"
+    },
+    {
+      "id": 21912,
+      "x": 312,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 21919,
+      "x": 319,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 22121,
+      "x": 521,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 26608,
+      "x": 508,
+      "y": 29,
+      "type": "interior"
+    },
+    {
+      "id": 27310,
+      "x": 310,
+      "y": 30,
+      "type": "boundary"
+    },
+    {
+      "id": 27524,
+      "x": 524,
+      "y": 30,
+      "type": "boundary"
+    },
+    {
+      "id": 29077,
+      "x": 277,
+      "y": 32,
+      "type": "boundary"
+    },
+    {
+      "id": 29104,
+      "x": 304,
+      "y": 32,
+      "type": "boundary"
+    },
+    {
+      "id": 29369,
+      "x": 569,
+      "y": 32,
+      "type": "boundary"
+    },
+    {
+      "id": 29379,
+      "x": 579,
+      "y": 32,
+      "type": "boundary"
+    },
+    {
+      "id": 30827,
+      "x": 227,
+      "y": 34,
+      "type": "boundary"
+    },
+    {
+      "id": 30834,
+      "x": 234,
+      "y": 34,
+      "type": "boundary"
+    },
+    {
+      "id": 32600,
+      "x": 200,
+      "y": 36,
+      "type": "boundary"
+    },
+    {
+      "id": 32610,
+      "x": 210,
+      "y": 36,
+      "type": "boundary"
+    },
+    {
+      "id": 32943,
+      "x": 543,
+      "y": 36,
+      "type": "interior"
+    },
+    {
+      "id": 32957,
+      "x": 557,
+      "y": 36,
+      "type": "interior"
+    },
+    {
+      "id": 33005,
+      "x": 605,
+      "y": 36,
+      "type": "boundary"
+    },
+    {
+      "id": 33038,
+      "x": 638,
+      "y": 36,
+      "type": "boundary"
+    },
+    {
+      "id": 34379,
+      "x": 179,
+      "y": 38,
+      "type": "boundary"
+    },
+    {
+      "id": 34446,
+      "x": 246,
+      "y": 38,
+      "type": "boundary"
+    },
+    {
+      "id": 34826,
+      "x": 626,
+      "y": 38,
+      "type": "boundary"
+    },
+    {
+      "id": 34861,
+      "x": 661,
+      "y": 38,
+      "type": "boundary"
+    },
+    {
+      "id": 36226,
+      "x": 226,
+      "y": 40,
+      "type": "boundary"
+    },
+    {
+      "id": 36632,
+      "x": 632,
+      "y": 40,
+      "type": "boundary"
+    },
+    {
+      "id": 37960,
+      "x": 160,
+      "y": 42,
+      "type": "boundary"
+    },
+    {
+      "id": 37970,
+      "x": 170,
+      "y": 42,
+      "type": "boundary"
+    },
+    {
+      "id": 38469,
+      "x": 669,
+      "y": 42,
+      "type": "boundary"
+    },
+    {
+      "id": 38881,
+      "x": 181,
+      "y": 43,
+      "type": "interior"
+    },
+    {
+      "id": 38961,
+      "x": 261,
+      "y": 43,
+      "type": "interior"
+    },
+    {
+      "id": 38990,
+      "x": 290,
+      "y": 43,
+      "type": "interior"
+    },
+    {
+      "id": 39292,
+      "x": 592,
+      "y": 43,
+      "type": "interior"
+    },
+    {
+      "id": 39754,
+      "x": 154,
+      "y": 44,
+      "type": "boundary"
+    },
+    {
+      "id": 41523,
+      "x": 123,
+      "y": 46,
+      "type": "boundary"
+    },
+    {
+      "id": 42082,
+      "x": 682,
+      "y": 46,
+      "type": "boundary"
+    },
+    {
+      "id": 42466,
+      "x": 166,
+      "y": 47,
+      "type": "interior"
+    },
+    {
+      "id": 42575,
+      "x": 275,
+      "y": 47,
+      "type": "interior"
+    },
+    {
+      "id": 42832,
+      "x": 532,
+      "y": 47,
+      "type": "interior"
+    },
+    {
+      "id": 42878,
+      "x": 578,
+      "y": 47,
+      "type": "interior"
+    },
+    {
+      "id": 42948,
+      "x": 648,
+      "y": 47,
+      "type": "interior"
+    },
+    {
+      "id": 45138,
+      "x": 138,
+      "y": 50,
+      "type": "interior"
+    },
+    {
+      "id": 45152,
+      "x": 152,
+      "y": 50,
+      "type": "interior"
+    },
+    {
+      "id": 45195,
+      "x": 195,
+      "y": 50,
+      "type": "interior"
+    },
+    {
+      "id": 45209,
+      "x": 209,
+      "y": 50,
+      "type": "interior"
+    },
+    {
+      "id": 45237,
+      "x": 237,
+      "y": 50,
+      "type": "interior"
+    },
+    {
+      "id": 45616,
+      "x": 616,
+      "y": 50,
+      "type": "interior"
+    },
+    {
+      "id": 45701,
+      "x": 701,
+      "y": 50,
+      "type": "boundary"
+    },
+    {
+      "id": 48714,
+      "x": 114,
+      "y": 54,
+      "type": "boundary"
+    },
+    {
+      "id": 48720,
+      "x": 120,
+      "y": 54,
+      "type": "boundary"
+    },
+    {
+      "id": 48823,
+      "x": 223,
+      "y": 54,
+      "type": "interior"
+    },
+    {
+      "id": 49231,
+      "x": 631,
+      "y": 54,
+      "type": "interior"
+    },
+    {
+      "id": 49297,
+      "x": 697,
+      "y": 54,
+      "type": "interior"
+    },
+    {
+      "id": 49325,
+      "x": 725,
+      "y": 54,
+      "type": "boundary"
+    },
+    {
+      "id": 51119,
+      "x": 719,
+      "y": 56,
+      "type": "boundary"
+    },
+    {
+      "id": 51137,
+      "x": 737,
+      "y": 56,
+      "type": "boundary"
+    },
+    {
+      "id": 51477,
+      "x": 177,
+      "y": 57,
+      "type": "interior"
+    },
+    {
+      "id": 51973,
+      "x": 673,
+      "y": 57,
+      "type": "interior"
+    },
+    {
+      "id": 52011,
+      "x": 711,
+      "y": 57,
+      "type": "interior"
+    },
+    {
+      "id": 54102,
+      "x": 102,
+      "y": 60,
+      "type": "boundary"
+    },
+    {
+      "id": 57731,
+      "x": 131,
+      "y": 64,
+      "type": "interior"
+    },
+    {
+      "id": 58352,
+      "x": 752,
+      "y": 64,
+      "type": "boundary"
+    },
+    {
+      "id": 61317,
+      "x": 117,
+      "y": 68,
+      "type": "interior"
+    },
+    {
+      "id": 61929,
+      "x": 729,
+      "y": 68,
+      "type": "interior"
+    },
+    {
+      "id": 63102,
+      "x": 102,
+      "y": 70,
+      "type": "boundary"
+    },
+    {
+      "id": 68000,
+      "x": 500,
+      "y": 75,
+      "type": "interior"
+    },
+    {
+      "id": 68015,
+      "x": 515,
+      "y": 75,
+      "type": "interior"
+    },
+    {
+      "id": 68243,
+      "x": 743,
+      "y": 75,
+      "type": "interior"
+    },
+    {
+      "id": 68264,
+      "x": 764,
+      "y": 75,
+      "type": "interior"
+    },
+    {
+      "id": 69190,
+      "x": 790,
+      "y": 76,
+      "type": "boundary"
+    },
+    {
+      "id": 71442,
+      "x": 342,
+      "y": 79,
+      "type": "interior"
+    },
+    {
+      "id": 71667,
+      "x": 567,
+      "y": 79,
+      "type": "interior"
+    },
+    {
+      "id": 71878,
+      "x": 778,
+      "y": 79,
+      "type": "interior"
+    },
+    {
+      "id": 76402,
+      "x": 802,
+      "y": 84,
+      "type": "boundary"
+    },
+    {
+      "id": 77510,
+      "x": 110,
+      "y": 86,
+      "type": "boundary"
+    },
+    {
+      "id": 77524,
+      "x": 124,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77630,
+      "x": 230,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77683,
+      "x": 283,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77700,
+      "x": 300,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77714,
+      "x": 314,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77728,
+      "x": 328,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77925,
+      "x": 525,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77939,
+      "x": 539,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 77953,
+      "x": 553,
+      "y": 86,
+      "type": "interior"
+    },
+    {
+      "id": 79709,
+      "x": 509,
+      "y": 88,
+      "type": "boundary"
+    },
+    {
+      "id": 80590,
+      "x": 490,
+      "y": 89,
+      "type": "interior"
+    },
+    {
+      "id": 80602,
+      "x": 502,
+      "y": 89,
+      "type": "boundary"
+    },
+    {
+      "id": 80908,
+      "x": 808,
+      "y": 89,
+      "type": "boundary"
+    },
+    {
+      "id": 81341,
+      "x": 341,
+      "y": 90,
+      "type": "boundary"
+    },
+    {
+      "id": 81351,
+      "x": 351,
+      "y": 90,
+      "type": "boundary"
+    },
+    {
+      "id": 83068,
+      "x": 268,
+      "y": 92,
+      "type": "boundary"
+    },
+    {
+      "id": 83358,
+      "x": 558,
+      "y": 92,
+      "type": "boundary"
+    },
+    {
+      "id": 83373,
+      "x": 573,
+      "y": 92,
+      "type": "boundary"
+    },
+    {
+      "id": 85179,
+      "x": 579,
+      "y": 94,
+      "type": "boundary"
+    },
+    {
+      "id": 87175,
+      "x": 775,
+      "y": 96,
+      "type": "interior"
+    },
+    {
+      "id": 87189,
+      "x": 789,
+      "y": 96,
+      "type": "interior"
+    },
+    {
+      "id": 87572,
+      "x": 272,
+      "y": 97,
+      "type": "boundary"
+    },
+    {
+      "id": 88784,
+      "x": 584,
+      "y": 98,
+      "type": "boundary"
+    },
+    {
+      "id": 89006,
+      "x": 806,
+      "y": 98,
+      "type": "boundary"
+    },
+    {
+      "id": 90117,
+      "x": 117,
+      "y": 100,
+      "type": "interior"
+    },
+    {
+      "id": 90736,
+      "x": 736,
+      "y": 100,
+      "type": "interior"
+    },
+    {
+      "id": 92958,
+      "x": 258,
+      "y": 103,
+      "type": "interior"
+    },
+    {
+      "id": 93067,
+      "x": 367,
+      "y": 103,
+      "type": "interior"
+    },
+    {
+      "id": 93197,
+      "x": 497,
+      "y": 103,
+      "type": "interior"
+    },
+    {
+      "id": 93299,
+      "x": 599,
+      "y": 103,
+      "type": "interior"
+    },
+    {
+      "id": 94399,
+      "x": 799,
+      "y": 104,
+      "type": "boundary"
+    },
+    {
+      "id": 96533,
+      "x": 233,
+      "y": 107,
+      "type": "interior"
+    },
+    {
+      "id": 97050,
+      "x": 750,
+      "y": 107,
+      "type": "interior"
+    },
+    {
+      "id": 97482,
+      "x": 282,
+      "y": 108,
+      "type": "boundary"
+    },
+    {
+      "id": 97922,
+      "x": 722,
+      "y": 108,
+      "type": "boundary"
+    },
+    {
+      "id": 99572,
+      "x": 572,
+      "y": 110,
+      "type": "boundary"
+    },
+    {
+      "id": 99769,
+      "x": 769,
+      "y": 110,
+      "type": "boundary"
+    },
+    {
+      "id": 99780,
+      "x": 780,
+      "y": 110,
+      "type": "boundary"
+    },
+    {
+      "id": 101535,
+      "x": 735,
+      "y": 112,
+      "type": "boundary"
+    },
+    {
+      "id": 102724,
+      "x": 124,
+      "y": 114,
+      "type": "interior"
+    },
+    {
+      "id": 102868,
+      "x": 268,
+      "y": 114,
+      "type": "interior"
+    },
+    {
+      "id": 102956,
+      "x": 356,
+      "y": 114,
+      "type": "interior"
+    },
+    {
+      "id": 103188,
+      "x": 588,
+      "y": 114,
+      "type": "interior"
+    },
+    {
+      "id": 105797,
+      "x": 497,
+      "y": 117,
+      "type": "interior"
+    },
+    {
+      "id": 105872,
+      "x": 572,
+      "y": 117,
+      "type": "boundary"
+    },
+    {
+      "id": 106022,
+      "x": 722,
+      "y": 117,
+      "type": "boundary"
+    },
+    {
+      "id": 107210,
+      "x": 110,
+      "y": 119,
+      "type": "boundary"
+    },
+    {
+      "id": 109126,
+      "x": 226,
+      "y": 121,
+      "type": "interior"
+    },
+    {
+      "id": 111878,
+      "x": 278,
+      "y": 124,
+      "type": "boundary"
+    },
+    {
+      "id": 112174,
+      "x": 574,
+      "y": 124,
+      "type": "boundary"
+    },
+    {
+      "id": 115465,
+      "x": 265,
+      "y": 128,
+      "type": "interior"
+    },
+    {
+      "id": 115556,
+      "x": 356,
+      "y": 128,
+      "type": "interior"
+    },
+    {
+      "id": 118397,
+      "x": 497,
+      "y": 131,
+      "type": "interior"
+    },
+    {
+      "id": 118622,
+      "x": 722,
+      "y": 131,
+      "type": "interior"
+    },
+    {
+      "id": 119376,
+      "x": 576,
+      "y": 132,
+      "type": "boundary"
+    },
+    {
+      "id": 121614,
+      "x": 114,
+      "y": 135,
+      "type": "interior"
+    },
+    {
+      "id": 121740,
+      "x": 240,
+      "y": 135,
+      "type": "interior"
+    },
+    {
+      "id": 122085,
+      "x": 585,
+      "y": 135,
+      "type": "interior"
+    },
+    {
+      "id": 127908,
+      "x": 108,
+      "y": 142,
+      "type": "boundary"
+    },
+    {
+      "id": 128072,
+      "x": 272,
+      "y": 142,
+      "type": "interior"
+    },
+    {
+      "id": 128156,
+      "x": 356,
+      "y": 142,
+      "type": "interior"
+    },
+    {
+      "id": 129430,
+      "x": 730,
+      "y": 143,
+      "type": "boundary"
+    },
+    {
+      "id": 130997,
+      "x": 497,
+      "y": 145,
+      "type": "interior"
+    },
+    {
+      "id": 131225,
+      "x": 725,
+      "y": 145,
+      "type": "interior"
+    },
+    {
+      "id": 134221,
+      "x": 121,
+      "y": 149,
+      "type": "interior"
+    },
+    {
+      "id": 134358,
+      "x": 258,
+      "y": 149,
+      "type": "interior"
+    },
+    {
+      "id": 134681,
+      "x": 581,
+      "y": 149,
+      "type": "interior"
+    },
+    {
+      "id": 137074,
+      "x": 274,
+      "y": 152,
+      "type": "boundary"
+    },
+    {
+      "id": 137167,
+      "x": 367,
+      "y": 152,
+      "type": "interior"
+    },
+    {
+      "id": 137378,
+      "x": 578,
+      "y": 152,
+      "type": "boundary"
+    },
+    {
+      "id": 140995,
+      "x": 595,
+      "y": 156,
+      "type": "interior"
+    },
+    {
+      "id": 143210,
+      "x": 110,
+      "y": 159,
+      "type": "interior"
+    },
+    {
+      "id": 143368,
+      "x": 268,
+      "y": 159,
+      "type": "interior"
+    },
+    {
+      "id": 143822,
+      "x": 722,
+      "y": 159,
+      "type": "interior"
+    },
+    {
+      "id": 146940,
+      "x": 240,
+      "y": 163,
+      "type": "interior"
+    },
+    {
+      "id": 146954,
+      "x": 254,
+      "y": 163,
+      "type": "interior"
+    },
+    {
+      "id": 147197,
+      "x": 497,
+      "y": 163,
+      "type": "interior"
+    },
+    {
+      "id": 149756,
+      "x": 356,
+      "y": 166,
+      "type": "interior"
+    },
+    {
+      "id": 150136,
+      "x": 736,
+      "y": 166,
+      "type": "boundary"
+    },
+    {
+      "id": 153121,
+      "x": 121,
+      "y": 170,
+      "type": "interior"
+    },
+    {
+      "id": 153585,
+      "x": 585,
+      "y": 170,
+      "type": "interior"
+    },
+    {
+      "id": 153733,
+      "x": 733,
+      "y": 170,
+      "type": "interior"
+    },
+    {
+      "id": 155965,
+      "x": 265,
+      "y": 173,
+      "type": "interior"
+    },
+    {
+      "id": 156280,
+      "x": 580,
+      "y": 173,
+      "type": "boundary"
+    },
+    {
+      "id": 158670,
+      "x": 270,
+      "y": 176,
+      "type": "boundary"
+    },
+    {
+      "id": 159537,
+      "x": 237,
+      "y": 177,
+      "type": "interior"
+    },
+    {
+      "id": 159551,
+      "x": 251,
+      "y": 177,
+      "type": "interior"
+    },
+    {
+      "id": 159797,
+      "x": 497,
+      "y": 177,
+      "type": "interior"
+    },
+    {
+      "id": 162104,
+      "x": 104,
+      "y": 180,
+      "type": "boundary"
+    },
+    {
+      "id": 162356,
+      "x": 356,
+      "y": 180,
+      "type": "interior"
+    },
+    {
+      "id": 162599,
+      "x": 599,
+      "y": 180,
+      "type": "interior"
+    },
+    {
+      "id": 166333,
+      "x": 733,
+      "y": 184,
+      "type": "interior"
+    },
+    {
+      "id": 168526,
+      "x": 226,
+      "y": 187,
+      "type": "interior"
+    },
+    {
+      "id": 168565,
+      "x": 265,
+      "y": 187,
+      "type": "interior"
+    },
+    {
+      "id": 168670,
+      "x": 370,
+      "y": 187,
+      "type": "interior"
+    },
+    {
+      "id": 168882,
+      "x": 582,
+      "y": 187,
+      "type": "boundary"
+    },
+    {
+      "id": 169302,
+      "x": 102,
+      "y": 188,
+      "type": "boundary"
+    },
+    {
+      "id": 172017,
+      "x": 117,
+      "y": 191,
+      "type": "interior"
+    },
+    {
+      "id": 172397,
+      "x": 497,
+      "y": 191,
+      "type": "interior"
+    },
+    {
+      "id": 174702,
+      "x": 102,
+      "y": 194,
+      "type": "boundary"
+    },
+    {
+      "id": 174956,
+      "x": 356,
+      "y": 194,
+      "type": "interior"
+    },
+    {
+      "id": 175199,
+      "x": 599,
+      "y": 194,
+      "type": "interior"
+    },
+    {
+      "id": 176084,
+      "x": 584,
+      "y": 195,
+      "type": "boundary"
+    },
+    {
+      "id": 178437,
+      "x": 237,
+      "y": 198,
+      "type": "interior"
+    },
+    {
+      "id": 178451,
+      "x": 251,
+      "y": 198,
+      "type": "interior"
+    },
+    {
+      "id": 178940,
+      "x": 740,
+      "y": 198,
+      "type": "interior"
+    },
+    {
+      "id": 179368,
+      "x": 268,
+      "y": 199,
+      "type": "boundary"
+    },
+    {
+      "id": 181900,
+      "x": 100,
+      "y": 202,
+      "type": "boundary"
+    },
+    {
+      "id": 184614,
+      "x": 114,
+      "y": 205,
+      "type": "interior"
+    },
+    {
+      "id": 184867,
+      "x": 367,
+      "y": 205,
+      "type": "interior"
+    },
+    {
+      "id": 184990,
+      "x": 490,
+      "y": 205,
+      "type": "interior"
+    },
+    {
+      "id": 185666,
+      "x": 266,
+      "y": 206,
+      "type": "boundary"
+    },
+    {
+      "id": 187461,
+      "x": 261,
+      "y": 208,
+      "type": "interior"
+    },
+    {
+      "id": 187792,
+      "x": 592,
+      "y": 208,
+      "type": "interior"
+    },
+    {
+      "id": 188200,
+      "x": 100,
+      "y": 209,
+      "type": "boundary"
+    },
+    {
+      "id": 189502,
+      "x": 502,
+      "y": 210,
+      "type": "boundary"
+    },
+    {
+      "id": 191033,
+      "x": 233,
+      "y": 212,
+      "type": "interior"
+    },
+    {
+      "id": 191047,
+      "x": 247,
+      "y": 212,
+      "type": "interior"
+    },
+    {
+      "id": 193348,
+      "x": 748,
+      "y": 214,
+      "type": "boundary"
+    },
+    {
+      "id": 193850,
+      "x": 350,
+      "y": 215,
+      "type": "boundary"
+    },
+    {
+      "id": 194243,
+      "x": 743,
+      "y": 215,
+      "type": "interior"
+    },
+    {
+      "id": 195804,
+      "x": 504,
+      "y": 217,
+      "type": "boundary"
+    },
+    {
+      "id": 197214,
+      "x": 114,
+      "y": 219,
+      "type": "interior"
+    },
+    {
+      "id": 197467,
+      "x": 367,
+      "y": 219,
+      "type": "interior"
+    },
+    {
+      "id": 197590,
+      "x": 490,
+      "y": 219,
+      "type": "interior"
+    },
+    {
+      "id": 197706,
+      "x": 606,
+      "y": 219,
+      "type": "interior"
+    },
+    {
+      "id": 200058,
+      "x": 258,
+      "y": 222,
+      "type": "interior"
+    },
+    {
+      "id": 200386,
+      "x": 586,
+      "y": 222,
+      "type": "boundary"
+    },
+    {
+      "id": 202598,
+      "x": 98,
+      "y": 225,
+      "type": "boundary"
+    },
+    {
+      "id": 203630,
+      "x": 230,
+      "y": 226,
+      "type": "interior"
+    },
+    {
+      "id": 203644,
+      "x": 244,
+      "y": 226,
+      "type": "interior"
+    },
+    {
+      "id": 203992,
+      "x": 592,
+      "y": 226,
+      "type": "interior"
+    },
+    {
+      "id": 204564,
+      "x": 264,
+      "y": 227,
+      "type": "boundary"
+    },
+    {
+      "id": 207356,
+      "x": 356,
+      "y": 230,
+      "type": "interior"
+    },
+    {
+      "id": 207504,
+      "x": 504,
+      "y": 230,
+      "type": "boundary"
+    },
+    {
+      "id": 207740,
+      "x": 740,
+      "y": 230,
+      "type": "interior"
+    },
+    {
+      "id": 207996,
+      "x": 96,
+      "y": 231,
+      "type": "boundary"
+    },
+    {
+      "id": 211762,
+      "x": 262,
+      "y": 235,
+      "type": "boundary"
+    },
+    {
+      "id": 212254,
+      "x": 754,
+      "y": 235,
+      "type": "boundary"
+    },
+    {
+      "id": 213410,
+      "x": 110,
+      "y": 237,
+      "type": "interior"
+    },
+    {
+      "id": 213558,
+      "x": 258,
+      "y": 237,
+      "type": "interior"
+    },
+    {
+      "id": 213902,
+      "x": 602,
+      "y": 237,
+      "type": "interior"
+    },
+    {
+      "id": 216237,
+      "x": 237,
+      "y": 240,
+      "type": "interior"
+    },
+    {
+      "id": 219963,
+      "x": 363,
+      "y": 244,
+      "type": "interior"
+    },
+    {
+      "id": 219984,
+      "x": 384,
+      "y": 244,
+      "type": "interior"
+    },
+    {
+      "id": 220097,
+      "x": 497,
+      "y": 244,
+      "type": "interior"
+    },
+    {
+      "id": 220340,
+      "x": 740,
+      "y": 244,
+      "type": "interior"
+    },
+    {
+      "id": 221748,
+      "x": 348,
+      "y": 246,
+      "type": "boundary"
+    },
+    {
+      "id": 222396,
+      "x": 96,
+      "y": 247,
+      "type": "interior"
+    },
+    {
+      "id": 222890,
+      "x": 590,
+      "y": 247,
+      "type": "boundary"
+    },
+    {
+      "id": 226147,
+      "x": 247,
+      "y": 251,
+      "type": "interior"
+    },
+    {
+      "id": 226299,
+      "x": 399,
+      "y": 251,
+      "type": "interior"
+    },
+    {
+      "id": 226654,
+      "x": 754,
+      "y": 251,
+      "type": "interior"
+    },
+    {
+      "id": 228460,
+      "x": 760,
+      "y": 253,
+      "type": "boundary"
+    },
+    {
+      "id": 228833,
+      "x": 233,
+      "y": 254,
+      "type": "interior"
+    },
+    {
+      "id": 229108,
+      "x": 508,
+      "y": 254,
+      "type": "boundary"
+    },
+    {
+      "id": 229206,
+      "x": 606,
+      "y": 254,
+      "type": "interior"
+    },
+    {
+      "id": 229238,
+      "x": 638,
+      "y": 254,
+      "type": "interior"
+    },
+    {
+      "id": 230992,
+      "x": 592,
+      "y": 256,
+      "type": "boundary"
+    },
+    {
+      "id": 232307,
+      "x": 107,
+      "y": 258,
+      "type": "interior"
+    },
+    {
+      "id": 232567,
+      "x": 367,
+      "y": 258,
+      "type": "interior"
+    },
+    {
+      "id": 232693,
+      "x": 493,
+      "y": 258,
+      "type": "interior"
+    },
+    {
+      "id": 234510,
+      "x": 510,
+      "y": 260,
+      "type": "boundary"
+    },
+    {
+      "id": 235158,
+      "x": 258,
+      "y": 261,
+      "type": "boundary"
+    },
+    {
+      "id": 235248,
+      "x": 348,
+      "y": 261,
+      "type": "boundary"
+    },
+    {
+      "id": 235253,
+      "x": 353,
+      "y": 261,
+      "type": "interior"
+    },
+    {
+      "id": 238593,
+      "x": 93,
+      "y": 265,
+      "type": "interior"
+    },
+    {
+      "id": 239092,
+      "x": 592,
+      "y": 265,
+      "type": "boundary"
+    },
+    {
+      "id": 239257,
+      "x": 757,
+      "y": 265,
+      "type": "interior"
+    },
+    {
+      "id": 241426,
+      "x": 226,
+      "y": 268,
+      "type": "interior"
+    },
+    {
+      "id": 241444,
+      "x": 244,
+      "y": 268,
+      "type": "interior"
+    },
+    {
+      "id": 241458,
+      "x": 258,
+      "y": 268,
+      "type": "boundary"
+    },
+    {
+      "id": 241799,
+      "x": 599,
+      "y": 268,
+      "type": "interior"
+    },
+    {
+      "id": 241813,
+      "x": 613,
+      "y": 268,
+      "type": "interior"
+    },
+    {
+      "id": 244412,
+      "x": 512,
+      "y": 271,
+      "type": "boundary"
+    },
+    {
+      "id": 245308,
+      "x": 508,
+      "y": 272,
+      "type": "interior"
+    },
+    {
+      "id": 246294,
+      "x": 594,
+      "y": 273,
+      "type": "boundary"
+    },
+    {
+      "id": 247603,
+      "x": 103,
+      "y": 275,
+      "type": "interior"
+    },
+    {
+      "id": 247853,
+      "x": 353,
+      "y": 275,
+      "type": "interior"
+    },
+    {
+      "id": 248127,
+      "x": 627,
+      "y": 275,
+      "type": "interior"
+    },
+    {
+      "id": 249556,
+      "x": 256,
+      "y": 277,
+      "type": "boundary"
+    },
+    {
+      "id": 249814,
+      "x": 514,
+      "y": 277,
+      "type": "boundary"
+    },
+    {
+      "id": 250066,
+      "x": 766,
+      "y": 277,
+      "type": "boundary"
+    },
+    {
+      "id": 251189,
+      "x": 89,
+      "y": 279,
+      "type": "interior"
+    },
+    {
+      "id": 251854,
+      "x": 754,
+      "y": 279,
+      "type": "interior"
+    },
+    {
+      "id": 254051,
+      "x": 251,
+      "y": 282,
+      "type": "interior"
+    },
+    {
+      "id": 254394,
+      "x": 594,
+      "y": 282,
+      "type": "boundary"
+    },
+    {
+      "id": 254413,
+      "x": 613,
+      "y": 282,
+      "type": "interior"
+    },
+    {
+      "id": 256368,
+      "x": 768,
+      "y": 284,
+      "type": "boundary"
+    },
+    {
+      "id": 256756,
+      "x": 256,
+      "y": 285,
+      "type": "boundary"
+    },
+    {
+      "id": 257999,
+      "x": 599,
+      "y": 286,
+      "type": "interior"
+    },
+    {
+      "id": 260453,
+      "x": 353,
+      "y": 289,
+      "type": "interior"
+    },
+    {
+      "id": 262496,
+      "x": 596,
+      "y": 291,
+      "type": "boundary"
+    },
+    {
+      "id": 263796,
+      "x": 96,
+      "y": 293,
+      "type": "interior"
+    },
+    {
+      "id": 264211,
+      "x": 511,
+      "y": 293,
+      "type": "interior"
+    },
+    {
+      "id": 264680,
+      "x": 80,
+      "y": 294,
+      "type": "boundary"
+    },
+    {
+      "id": 266651,
+      "x": 251,
+      "y": 296,
+      "type": "interior"
+    },
+    {
+      "id": 267013,
+      "x": 613,
+      "y": 296,
+      "type": "interior"
+    },
+    {
+      "id": 270363,
+      "x": 363,
+      "y": 300,
+      "type": "interior"
+    },
+    {
+      "id": 270764,
+      "x": 764,
+      "y": 300,
+      "type": "interior"
+    },
+    {
+      "id": 271876,
+      "x": 76,
+      "y": 302,
+      "type": "boundary"
+    },
+    {
+      "id": 273046,
+      "x": 346,
+      "y": 303,
+      "type": "boundary"
+    },
+    {
+      "id": 276540,
+      "x": 240,
+      "y": 307,
+      "type": "interior"
+    },
+    {
+      "id": 276931,
+      "x": 631,
+      "y": 307,
+      "type": "interior"
+    },
+    {
+      "id": 277015,
+      "x": 715,
+      "y": 307,
+      "type": "interior"
+    },
+    {
+      "id": 277974,
+      "x": 774,
+      "y": 308,
+      "type": "boundary"
+    },
+    {
+      "id": 279086,
+      "x": 86,
+      "y": 310,
+      "type": "interior"
+    },
+    {
+      "id": 279349,
+      "x": 349,
+      "y": 310,
+      "type": "interior"
+    },
+    {
+      "id": 279515,
+      "x": 515,
+      "y": 310,
+      "type": "interior"
+    },
+    {
+      "id": 279602,
+      "x": 602,
+      "y": 310,
+      "type": "interior"
+    },
+    {
+      "id": 279616,
+      "x": 616,
+      "y": 310,
+      "type": "interior"
+    },
+    {
+      "id": 279701,
+      "x": 701,
+      "y": 310,
+      "type": "interior"
+    },
+    {
+      "id": 281772,
+      "x": 72,
+      "y": 313,
+      "type": "boundary"
+    },
+    {
+      "id": 282963,
+      "x": 363,
+      "y": 314,
+      "type": "interior"
+    },
+    {
+      "id": 283361,
+      "x": 761,
+      "y": 314,
+      "type": "interior"
+    },
+    {
+      "id": 286452,
+      "x": 252,
+      "y": 318,
+      "type": "boundary"
+    },
+    {
+      "id": 289147,
+      "x": 247,
+      "y": 321,
+      "type": "interior"
+    },
+    {
+      "id": 289590,
+      "x": 690,
+      "y": 321,
+      "type": "interior"
+    },
+    {
+      "id": 291686,
+      "x": 86,
+      "y": 324,
+      "type": "interior"
+    },
+    {
+      "id": 291949,
+      "x": 349,
+      "y": 324,
+      "type": "interior"
+    },
+    {
+      "id": 292108,
+      "x": 508,
+      "y": 324,
+      "type": "interior"
+    },
+    {
+      "id": 292202,
+      "x": 602,
+      "y": 324,
+      "type": "interior"
+    },
+    {
+      "id": 292375,
+      "x": 775,
+      "y": 324,
+      "type": "interior"
+    },
+    {
+      "id": 293280,
+      "x": 780,
+      "y": 325,
+      "type": "boundary"
+    },
+    {
+      "id": 294550,
+      "x": 250,
+      "y": 327,
+      "type": "boundary"
+    },
+    {
+      "id": 295272,
+      "x": 72,
+      "y": 328,
+      "type": "interior"
+    },
+    {
+      "id": 295816,
+      "x": 616,
+      "y": 328,
+      "type": "interior"
+    },
+    {
+      "id": 297522,
+      "x": 522,
+      "y": 330,
+      "type": "boundary"
+    },
+    {
+      "id": 297598,
+      "x": 598,
+      "y": 330,
+      "type": "boundary"
+    },
+    {
+      "id": 298580,
+      "x": 680,
+      "y": 331,
+      "type": "interior"
+    },
+    {
+      "id": 300850,
+      "x": 250,
+      "y": 334,
+      "type": "boundary"
+    },
+    {
+      "id": 302924,
+      "x": 524,
+      "y": 336,
+      "type": "boundary"
+    },
+    {
+      "id": 304549,
+      "x": 349,
+      "y": 338,
+      "type": "interior"
+    },
+    {
+      "id": 304968,
+      "x": 768,
+      "y": 338,
+      "type": "interior"
+    },
+    {
+      "id": 306600,
+      "x": 600,
+      "y": 340,
+      "type": "boundary"
+    },
+    {
+      "id": 307862,
+      "x": 62,
+      "y": 342,
+      "type": "boundary"
+    },
+    {
+      "id": 307879,
+      "x": 79,
+      "y": 342,
+      "type": "interior"
+    },
+    {
+      "id": 308044,
+      "x": 244,
+      "y": 342,
+      "type": "interior"
+    },
+    {
+      "id": 308311,
+      "x": 511,
+      "y": 342,
+      "type": "interior"
+    },
+    {
+      "id": 308406,
+      "x": 606,
+      "y": 342,
+      "type": "interior"
+    },
+    {
+      "id": 308420,
+      "x": 620,
+      "y": 342,
+      "type": "interior"
+    },
+    {
+      "id": 308948,
+      "x": 248,
+      "y": 343,
+      "type": "boundary"
+    },
+    {
+      "id": 311282,
+      "x": 782,
+      "y": 345,
+      "type": "interior"
+    },
+    {
+      "id": 313986,
+      "x": 786,
+      "y": 348,
+      "type": "boundary"
+    },
+    {
+      "id": 314263,
+      "x": 163,
+      "y": 349,
+      "type": "interior"
+    },
+    {
+      "id": 314460,
+      "x": 360,
+      "y": 349,
+      "type": "interior"
+    },
+    {
+      "id": 317002,
+      "x": 202,
+      "y": 352,
+      "type": "interior"
+    },
+    {
+      "id": 317322,
+      "x": 522,
+      "y": 352,
+      "type": "interior"
+    },
+    {
+      "id": 317568,
+      "x": 768,
+      "y": 352,
+      "type": "interior"
+    },
+    {
+      "id": 318226,
+      "x": 526,
+      "y": 353,
+      "type": "boundary"
+    },
+    {
+      "id": 318944,
+      "x": 344,
+      "y": 354,
+      "type": "boundary"
+    },
+    {
+      "id": 320468,
+      "x": 68,
+      "y": 356,
+      "type": "interior"
+    },
+    {
+      "id": 320644,
+      "x": 244,
+      "y": 356,
+      "type": "interior"
+    },
+    {
+      "id": 321006,
+      "x": 606,
+      "y": 356,
+      "type": "interior"
+    },
+    {
+      "id": 321020,
+      "x": 620,
+      "y": 356,
+      "type": "interior"
+    },
+    {
+      "id": 323152,
+      "x": 52,
+      "y": 359,
+      "type": "boundary"
+    },
+    {
+      "id": 323210,
+      "x": 110,
+      "y": 359,
+      "type": "interior"
+    },
+    {
+      "id": 323628,
+      "x": 528,
+      "y": 359,
+      "type": "boundary"
+    },
+    {
+      "id": 323882,
+      "x": 782,
+      "y": 359,
+      "type": "interior"
+    },
+    {
+      "id": 327060,
+      "x": 360,
+      "y": 363,
+      "type": "interior"
+    },
+    {
+      "id": 329609,
+      "x": 209,
+      "y": 366,
+      "type": "interior"
+    },
+    {
+      "id": 329744,
+      "x": 344,
+      "y": 366,
+      "type": "boundary"
+    },
+    {
+      "id": 329915,
+      "x": 515,
+      "y": 366,
+      "type": "interior"
+    },
+    {
+      "id": 331092,
+      "x": 792,
+      "y": 367,
+      "type": "boundary"
+    },
+    {
+      "id": 333121,
+      "x": 121,
+      "y": 370,
+      "type": "interior"
+    },
+    {
+      "id": 333233,
+      "x": 233,
+      "y": 370,
+      "type": "interior"
+    },
+    {
+      "id": 333246,
+      "x": 246,
+      "y": 370,
+      "type": "boundary"
+    },
+    {
+      "id": 333616,
+      "x": 616,
+      "y": 370,
+      "type": "interior"
+    },
+    {
+      "id": 335761,
+      "x": 61,
+      "y": 373,
+      "type": "interior"
+    },
+    {
+      "id": 335835,
+      "x": 135,
+      "y": 373,
+      "type": "interior"
+    },
+    {
+      "id": 338444,
+      "x": 44,
+      "y": 376,
+      "type": "boundary"
+    },
+    {
+      "id": 339656,
+      "x": 356,
+      "y": 377,
+      "type": "interior"
+    },
+    {
+      "id": 339825,
+      "x": 525,
+      "y": 377,
+      "type": "interior"
+    },
+    {
+      "id": 339934,
+      "x": 634,
+      "y": 377,
+      "type": "interior"
+    },
+    {
+      "id": 340444,
+      "x": 244,
+      "y": 378,
+      "type": "boundary"
+    },
+    {
+      "id": 341704,
+      "x": 604,
+      "y": 379,
+      "type": "boundary"
+    },
+    {
+      "id": 343682,
+      "x": 782,
+      "y": 381,
+      "type": "interior"
+    },
+    {
+      "id": 345498,
+      "x": 798,
+      "y": 383,
+      "type": "boundary"
+    },
+    {
+      "id": 345745,
+      "x": 145,
+      "y": 384,
+      "type": "interior"
+    },
+    {
+      "id": 345830,
+      "x": 230,
+      "y": 384,
+      "type": "interior"
+    },
+    {
+      "id": 345844,
+      "x": 244,
+      "y": 384,
+      "type": "boundary"
+    },
+    {
+      "id": 347742,
+      "x": 342,
+      "y": 386,
+      "type": "boundary"
+    },
+    {
+      "id": 349258,
+      "x": 58,
+      "y": 388,
+      "type": "interior"
+    },
+    {
+      "id": 349824,
+      "x": 624,
+      "y": 388,
+      "type": "interior"
+    },
+    {
+      "id": 352142,
+      "x": 242,
+      "y": 391,
+      "type": "boundary"
+    },
+    {
+      "id": 352256,
+      "x": 356,
+      "y": 391,
+      "type": "interior"
+    },
+    {
+      "id": 352509,
+      "x": 609,
+      "y": 391,
+      "type": "interior"
+    },
+    {
+      "id": 352696,
+      "x": 796,
+      "y": 391,
+      "type": "interior"
+    },
+    {
+      "id": 355543,
+      "x": 43,
+      "y": 395,
+      "type": "interior"
+    },
+    {
+      "id": 355709,
+      "x": 209,
+      "y": 395,
+      "type": "interior"
+    },
+    {
+      "id": 356029,
+      "x": 529,
+      "y": 395,
+      "type": "interior"
+    },
+    {
+      "id": 357542,
+      "x": 242,
+      "y": 397,
+      "type": "boundary"
+    },
+    {
+      "id": 357640,
+      "x": 340,
+      "y": 397,
+      "type": "boundary"
+    },
+    {
+      "id": 358345,
+      "x": 145,
+      "y": 398,
+      "type": "interior"
+    },
+    {
+      "id": 358430,
+      "x": 230,
+      "y": 398,
+      "type": "interior"
+    },
+    {
+      "id": 361984,
+      "x": 184,
+      "y": 402,
+      "type": "interior"
+    },
+    {
+      "id": 362420,
+      "x": 620,
+      "y": 402,
+      "type": "interior"
+    },
+    {
+      "id": 364856,
+      "x": 356,
+      "y": 405,
+      "type": "interior"
+    },
+    {
+      "id": 365289,
+      "x": 789,
+      "y": 405,
+      "type": "interior"
+    },
+    {
+      "id": 365934,
+      "x": 534,
+      "y": 406,
+      "type": "boundary"
+    },
+    {
+      "id": 367540,
+      "x": 340,
+      "y": 408,
+      "type": "boundary"
+    },
+    {
+      "id": 368309,
+      "x": 209,
+      "y": 409,
+      "type": "interior"
+    },
+    {
+      "id": 369538,
+      "x": 538,
+      "y": 410,
+      "type": "boundary"
+    },
+    {
+      "id": 370140,
+      "x": 240,
+      "y": 411,
+      "type": "boundary"
+    },
+    {
+      "id": 370836,
+      "x": 36,
+      "y": 412,
+      "type": "interior"
+    },
+    {
+      "id": 371026,
+      "x": 226,
+      "y": 412,
+      "type": "interior"
+    },
+    {
+      "id": 371408,
+      "x": 608,
+      "y": 412,
+      "type": "boundary"
+    },
+    {
+      "id": 371603,
+      "x": 803,
+      "y": 412,
+      "type": "interior"
+    },
+    {
+      "id": 374588,
+      "x": 188,
+      "y": 416,
+      "type": "interior"
+    },
+    {
+      "id": 374938,
+      "x": 538,
+      "y": 416,
+      "type": "boundary"
+    },
+    {
+      "id": 375024,
+      "x": 624,
+      "y": 416,
+      "type": "interior"
+    },
+    {
+      "id": 376538,
+      "x": 338,
+      "y": 418,
+      "type": "boundary"
+    },
+    {
+      "id": 377453,
+      "x": 353,
+      "y": 419,
+      "type": "interior"
+    },
+    {
+      "id": 377625,
+      "x": 525,
+      "y": 419,
+      "type": "interior"
+    },
+    {
+      "id": 378608,
+      "x": 608,
+      "y": 420,
+      "type": "boundary"
+    },
+    {
+      "id": 383626,
+      "x": 226,
+      "y": 426,
+      "type": "interior"
+    },
+    {
+      "id": 384199,
+      "x": 799,
+      "y": 426,
+      "type": "interior"
+    },
+    {
+      "id": 384212,
+      "x": 812,
+      "y": 426,
+      "type": "boundary"
+    },
+    {
+      "id": 386030,
+      "x": 830,
+      "y": 428,
+      "type": "boundary"
+    },
+    {
+      "id": 386338,
+      "x": 238,
+      "y": 429,
+      "type": "boundary"
+    },
+    {
+      "id": 386438,
+      "x": 338,
+      "y": 429,
+      "type": "boundary"
+    },
+    {
+      "id": 386644,
+      "x": 544,
+      "y": 429,
+      "type": "boundary"
+    },
+    {
+      "id": 387023,
+      "x": 23,
+      "y": 430,
+      "type": "boundary"
+    },
+    {
+      "id": 387610,
+      "x": 610,
+      "y": 430,
+      "type": "boundary"
+    },
+    {
+      "id": 387876,
+      "x": 876,
+      "y": 430,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        45138,
+        39754,
+        45152
+      ],
+      "colour": [
+        60,
+        73,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        39754,
+        45138,
+        41523
+      ],
+      "colour": [
+        67,
+        81,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        45138,
+        45152,
+        57731
+      ],
+      "colour": [
+        91,
+        110,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        41523,
+        45138,
+        48720
+      ],
+      "colour": [
+        74,
+        90,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        37960,
+        42466,
+        45152
+      ],
+      "colour": [
+        60,
+        74,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        42466,
+        37960,
+        37970
+      ],
+      "colour": [
+        45,
+        60,
+        83
+      ]
+    },
+    {
+      "vertices": [
+        37960,
+        45152,
+        39754
+      ],
+      "colour": [
+        48,
+        60,
+        85
+      ]
+    },
+    {
+      "vertices": [
+        57731,
+        45152,
+        51477
+      ],
+      "colour": [
+        101,
+        116,
+        139
+      ]
+    },
+    {
+      "vertices": [
+        63102,
+        54102,
+        61317
+      ],
+      "colour": [
+        85,
+        94,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        61317,
+        54102,
+        48714
+      ],
+      "colour": [
+        82,
+        99,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        61317,
+        48720,
+        57731
+      ],
+      "colour": [
+        93,
+        105,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        48720,
+        61317,
+        48714
+      ],
+      "colour": [
+        88,
+        108,
+        142
+      ]
+    },
+    {
+      "vertices": [
+        57731,
+        48720,
+        45138
+      ],
+      "colour": [
+        88,
+        108,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        77524,
+        61317,
+        57731
+      ],
+      "colour": [
+        108,
+        111,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        77510,
+        63102,
+        61317
+      ],
+      "colour": [
+        127,
+        126,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        45152,
+        42466,
+        51477
+      ],
+      "colour": [
+        95,
+        116,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        32600,
+        38881,
+        34379
+      ],
+      "colour": [
+        87,
+        108,
+        140
+      ]
+    },
+    {
+      "vertices": [
+        32610,
+        45209,
+        32600
+      ],
+      "colour": [
+        64,
+        83,
+        117
+      ]
+    },
+    {
+      "vertices": [
+        36226,
+        30827,
+        30834
+      ],
+      "colour": [
+        46,
+        69,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        36226,
+        30834,
+        45237
+      ],
+      "colour": [
+        76,
+        95,
+        128
+      ]
+    },
+    {
+      "vertices": [
+        36226,
+        45209,
+        32610
+      ],
+      "colour": [
+        90,
+        114,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        37970,
+        38881,
+        51477
+      ],
+      "colour": [
+        81,
+        103,
+        139
+      ]
+    },
+    {
+      "vertices": [
+        38881,
+        37970,
+        34379
+      ],
+      "colour": [
+        59,
+        77,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        51477,
+        38881,
+        45195
+      ],
+      "colour": [
+        98,
+        117,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        37970,
+        51477,
+        42466
+      ],
+      "colour": [
+        85,
+        105,
+        140
+      ]
+    },
+    {
+      "vertices": [
+        77630,
+        45195,
+        45209
+      ],
+      "colour": [
+        81,
+        96,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        45195,
+        38881,
+        32600
+      ],
+      "colour": [
+        66,
+        89,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        48823,
+        45237,
+        77630
+      ],
+      "colour": [
+        76,
+        87,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        48823,
+        45209,
+        36226
+      ],
+      "colour": [
+        104,
+        120,
+        145
+      ]
+    },
+    {
+      "vertices": [
+        32600,
+        45209,
+        45195
+      ],
+      "colour": [
+        86,
+        106,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        45195,
+        77630,
+        51477
+      ],
+      "colour": [
+        80,
+        93,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        45237,
+        48823,
+        36226
+      ],
+      "colour": [
+        104,
+        119,
+        139
+      ]
+    },
+    {
+      "vertices": [
+        77524,
+        57731,
+        51477
+      ],
+      "colour": [
+        80,
+        89,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        30834,
+        34446,
+        45237
+      ],
+      "colour": [
+        90,
+        111,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        45209,
+        48823,
+        77630
+      ],
+      "colour": [
+        82,
+        95,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        162104,
+        127908,
+        143210
+      ],
+      "colour": [
+        51,
+        68,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        127908,
+        134221,
+        143210
+      ],
+      "colour": [
+        54,
+        68,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        102724,
+        121614,
+        107210
+      ],
+      "colour": [
+        56,
+        69,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        153121,
+        162104,
+        143210
+      ],
+      "colour": [
+        57,
+        73,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        121614,
+        127908,
+        107210
+      ],
+      "colour": [
+        50,
+        66,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        107210,
+        77510,
+        90117
+      ],
+      "colour": [
+        47,
+        59,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        172017,
+        169302,
+        162104
+      ],
+      "colour": [
+        57,
+        72,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        188200,
+        181900,
+        184614
+      ],
+      "colour": [
+        68,
+        82,
+        112
+      ]
+    },
+    {
+      "vertices": [
+        184614,
+        197214,
+        188200
+      ],
+      "colour": [
+        56,
+        69,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        172017,
+        184614,
+        174702
+      ],
+      "colour": [
+        66,
+        79,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        197214,
+        184614,
+        168526
+      ],
+      "colour": [
+        65,
+        78,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        184614,
+        181900,
+        174702
+      ],
+      "colour": [
+        54,
+        70,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        172017,
+        174702,
+        169302
+      ],
+      "colour": [
+        60,
+        73,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        188200,
+        197214,
+        202598
+      ],
+      "colour": [
+        58,
+        71,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        134221,
+        127908,
+        121614
+      ],
+      "colour": [
+        57,
+        70,
+        94
+      ]
+    },
+    {
+      "vertices": [
+        90117,
+        77524,
+        102724
+      ],
+      "colour": [
+        60,
+        74,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        77524,
+        90117,
+        77510
+      ],
+      "colour": [
+        55,
+        66,
+        89
+      ]
+    },
+    {
+      "vertices": [
+        77524,
+        51477,
+        102724
+      ],
+      "colour": [
+        59,
+        77,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        102724,
+        134221,
+        121614
+      ],
+      "colour": [
+        65,
+        80,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        109126,
+        77630,
+        96533
+      ],
+      "colour": [
+        123,
+        139,
+        170
+      ]
+    },
+    {
+      "vertices": [
+        102724,
+        51477,
+        109126
+      ],
+      "colour": [
+        64,
+        80,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        92958,
+        96533,
+        77630
+      ],
+      "colour": [
+        88,
+        105,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        146940,
+        168526,
+        109126
+      ],
+      "colour": [
+        104,
+        119,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        51477,
+        77630,
+        109126
+      ],
+      "colour": [
+        68,
+        84,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        102724,
+        109126,
+        134221
+      ],
+      "colour": [
+        64,
+        79,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        162104,
+        153121,
+        172017
+      ],
+      "colour": [
+        65,
+        79,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        143210,
+        134221,
+        153121
+      ],
+      "colour": [
+        60,
+        75,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        153121,
+        134221,
+        168526
+      ],
+      "colour": [
+        66,
+        81,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        172017,
+        153121,
+        168526
+      ],
+      "colour": [
+        66,
+        80,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        168526,
+        159537,
+        178437
+      ],
+      "colour": [
+        129,
+        144,
+        174
+      ]
+    },
+    {
+      "vertices": [
+        168526,
+        134221,
+        109126
+      ],
+      "colour": [
+        67,
+        82,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        191033,
+        178437,
+        191047
+      ],
+      "colour": [
+        101,
+        118,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        178437,
+        191033,
+        168526
+      ],
+      "colour": [
+        129,
+        144,
+        173
+      ]
+    },
+    {
+      "vertices": [
+        159537,
+        159551,
+        178437
+      ],
+      "colour": [
+        78,
+        96,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        168526,
+        203630,
+        197214
+      ],
+      "colour": [
+        67,
+        82,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        168526,
+        146940,
+        159537
+      ],
+      "colour": [
+        120,
+        136,
+        166
+      ]
+    },
+    {
+      "vertices": [
+        168526,
+        184614,
+        172017
+      ],
+      "colour": [
+        67,
+        82,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        121740,
+        109126,
+        96533
+      ],
+      "colour": [
+        123,
+        140,
+        171
+      ]
+    },
+    {
+      "vertices": [
+        107210,
+        90117,
+        102724
+      ],
+      "colour": [
+        49,
+        63,
+        87
+      ]
+    },
+    {
+      "vertices": [
+        77510,
+        61317,
+        77524
+      ],
+      "colour": [
+        133,
+        136,
+        142
+      ]
+    },
+    {
+      "vertices": [
+        191033,
+        203630,
+        168526
+      ],
+      "colour": [
+        121,
+        136,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        83068,
+        77630,
+        45237
+      ],
+      "colour": [
+        62,
+        76,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        38961,
+        29077,
+        42575
+      ],
+      "colour": [
+        94,
+        115,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        29077,
+        38961,
+        34446
+      ],
+      "colour": [
+        89,
+        113,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        83068,
+        38961,
+        42575
+      ],
+      "colour": [
+        107,
+        115,
+        128
+      ]
+    },
+    {
+      "vertices": [
+        45237,
+        38961,
+        83068
+      ],
+      "colour": [
+        94,
+        104,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        38990,
+        77683,
+        42575
+      ],
+      "colour": [
+        122,
+        128,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        38990,
+        29077,
+        29104
+      ],
+      "colour": [
+        84,
+        106,
+        147
+      ]
+    },
+    {
+      "vertices": [
+        77714,
+        83068,
+        77700
+      ],
+      "colour": [
+        119,
+        128,
+        140
+      ]
+    },
+    {
+      "vertices": [
+        38990,
+        42575,
+        29077
+      ],
+      "colour": [
+        94,
+        113,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        77683,
+        83068,
+        42575
+      ],
+      "colour": [
+        111,
+        118,
+        131
+      ]
+    },
+    {
+      "vertices": [
+        102868,
+        92958,
+        87572
+      ],
+      "colour": [
+        111,
+        126,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        92958,
+        77630,
+        83068
+      ],
+      "colour": [
+        48,
+        68,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        87572,
+        92958,
+        83068
+      ],
+      "colour": [
+        94,
+        112,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        92958,
+        102868,
+        115465
+      ],
+      "colour": [
+        98,
+        113,
+        143
+      ]
+    },
+    {
+      "vertices": [
+        97482,
+        111878,
+        102868
+      ],
+      "colour": [
+        132,
+        142,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        77683,
+        77700,
+        83068
+      ],
+      "colour": [
+        111,
+        120,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        97482,
+        102868,
+        87572
+      ],
+      "colour": [
+        137,
+        146,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        102868,
+        111878,
+        115465
+      ],
+      "colour": [
+        143,
+        150,
+        167
+      ]
+    },
+    {
+      "vertices": [
+        77683,
+        38990,
+        77700
+      ],
+      "colour": [
+        134,
+        140,
+        147
+      ]
+    },
+    {
+      "vertices": [
+        92958,
+        121740,
+        96533
+      ],
+      "colour": [
+        68,
+        87,
+        122
+      ]
+    },
+    {
+      "vertices": [
+        27310,
+        21912,
+        21919
+      ],
+      "colour": [
+        123,
+        142,
+        172
+      ]
+    },
+    {
+      "vertices": [
+        77714,
+        29104,
+        27310
+      ],
+      "colour": [
+        119,
+        130,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        21919,
+        20159,
+        71442
+      ],
+      "colour": [
+        111,
+        123,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        71442,
+        20159,
+        81351
+      ],
+      "colour": [
+        125,
+        135,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        21919,
+        71442,
+        27310
+      ],
+      "colour": [
+        113,
+        125,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        77728,
+        27310,
+        71442
+      ],
+      "colour": [
+        143,
+        149,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        77700,
+        38990,
+        77714
+      ],
+      "colour": [
+        140,
+        146,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        77728,
+        77714,
+        27310
+      ],
+      "colour": [
+        140,
+        146,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        102956,
+        115556,
+        81351
+      ],
+      "colour": [
+        59,
+        74,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        81341,
+        77728,
+        71442
+      ],
+      "colour": [
+        134,
+        141,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        102956,
+        93067,
+        115556
+      ],
+      "colour": [
+        64,
+        81,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        93067,
+        102956,
+        81351
+      ],
+      "colour": [
+        62,
+        78,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        81351,
+        20159,
+        93067
+      ],
+      "colour": [
+        75,
+        91,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        71442,
+        81351,
+        81341
+      ],
+      "colour": [
+        144,
+        151,
+        161
+      ]
+    },
+    {
+      "vertices": [
+        83068,
+        77714,
+        81341
+      ],
+      "colour": [
+        124,
+        132,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        20159,
+        20288,
+        93067
+      ],
+      "colour": [
+        79,
+        97,
+        126
+      ]
+    },
+    {
+      "vertices": [
+        77714,
+        38990,
+        29104
+      ],
+      "colour": [
+        123,
+        132,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        115556,
+        128156,
+        81351
+      ],
+      "colour": [
+        58,
+        72,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        146940,
+        134358,
+        146954
+      ],
+      "colour": [
+        31,
+        49,
+        82
+      ]
+    },
+    {
+      "vertices": [
+        134358,
+        146940,
+        121740
+      ],
+      "colour": [
+        52,
+        71,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        159551,
+        146940,
+        146954
+      ],
+      "colour": [
+        35,
+        55,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        121740,
+        146940,
+        109126
+      ],
+      "colour": [
+        114,
+        133,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        143368,
+        146954,
+        134358
+      ],
+      "colour": [
+        100,
+        114,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        115465,
+        134358,
+        121740
+      ],
+      "colour": [
+        47,
+        66,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        158670,
+        168565,
+        155965
+      ],
+      "colour": [
+        134,
+        144,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        146954,
+        143368,
+        155965
+      ],
+      "colour": [
+        133,
+        143,
+        163
+      ]
+    },
+    {
+      "vertices": [
+        121740,
+        92958,
+        115465
+      ],
+      "colour": [
+        41,
+        61,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        159551,
+        146954,
+        155965
+      ],
+      "colour": [
+        81,
+        96,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        178451,
+        191047,
+        178437
+      ],
+      "colour": [
+        41,
+        55,
+        86
+      ]
+    },
+    {
+      "vertices": [
+        178437,
+        159551,
+        178451
+      ],
+      "colour": [
+        40,
+        58,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        178451,
+        159551,
+        168565
+      ],
+      "colour": [
+        89,
+        104,
+        131
+      ]
+    },
+    {
+      "vertices": [
+        191047,
+        178451,
+        187461
+      ],
+      "colour": [
+        85,
+        98,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        187461,
+        179368,
+        185666
+      ],
+      "colour": [
+        121,
+        133,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        178451,
+        179368,
+        187461
+      ],
+      "colour": [
+        134,
+        145,
+        167
+      ]
+    },
+    {
+      "vertices": [
+        168565,
+        179368,
+        178451
+      ],
+      "colour": [
+        133,
+        144,
+        166
+      ]
+    },
+    {
+      "vertices": [
+        200058,
+        187461,
+        185666
+      ],
+      "colour": [
+        136,
+        144,
+        168
+      ]
+    },
+    {
+      "vertices": [
+        159551,
+        155965,
+        168565
+      ],
+      "colour": [
+        128,
+        139,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        200058,
+        191047,
+        187461
+      ],
+      "colour": [
+        122,
+        135,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        128072,
+        134358,
+        115465
+      ],
+      "colour": [
+        139,
+        148,
+        167
+      ]
+    },
+    {
+      "vertices": [
+        159537,
+        146940,
+        159551
+      ],
+      "colour": [
+        70,
+        88,
+        122
+      ]
+    },
+    {
+      "vertices": [
+        134358,
+        137074,
+        143368
+      ],
+      "colour": [
+        137,
+        147,
+        166
+      ]
+    },
+    {
+      "vertices": [
+        137074,
+        134358,
+        128072
+      ],
+      "colour": [
+        135,
+        145,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        128072,
+        111878,
+        137074
+      ],
+      "colour": [
+        115,
+        133,
+        166
+      ]
+    },
+    {
+      "vertices": [
+        158670,
+        143368,
+        137074
+      ],
+      "colour": [
+        118,
+        136,
+        163
+      ]
+    },
+    {
+      "vertices": [
+        115556,
+        137167,
+        128156
+      ],
+      "colour": [
+        69,
+        86,
+        114
+      ]
+    },
+    {
+      "vertices": [
+        137167,
+        115556,
+        93067
+      ],
+      "colour": [
+        67,
+        83,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        128156,
+        149756,
+        193850
+      ],
+      "colour": [
+        62,
+        80,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        115465,
+        111878,
+        128072
+      ],
+      "colour": [
+        139,
+        149,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        137167,
+        149756,
+        128156
+      ],
+      "colour": [
+        69,
+        88,
+        118
+      ]
+    },
+    {
+      "vertices": [
+        179368,
+        168565,
+        158670
+      ],
+      "colour": [
+        116,
+        131,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        162356,
+        193850,
+        149756
+      ],
+      "colour": [
+        62,
+        80,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        162356,
+        149756,
+        168670
+      ],
+      "colour": [
+        72,
+        91,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        174956,
+        184867,
+        193850
+      ],
+      "colour": [
+        62,
+        79,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        168670,
+        184867,
+        174956
+      ],
+      "colour": [
+        68,
+        86,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        174956,
+        162356,
+        168670
+      ],
+      "colour": [
+        70,
+        90,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        174956,
+        193850,
+        162356
+      ],
+      "colour": [
+        64,
+        82,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        77714,
+        77728,
+        81341
+      ],
+      "colour": [
+        132,
+        139,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        207356,
+        193850,
+        197467
+      ],
+      "colour": [
+        62,
+        80,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        168670,
+        149756,
+        137167
+      ],
+      "colour": [
+        66,
+        82,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        158670,
+        155965,
+        143368
+      ],
+      "colour": [
+        135,
+        144,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        193850,
+        81351,
+        128156
+      ],
+      "colour": [
+        56,
+        72,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        203644,
+        191033,
+        191047
+      ],
+      "colour": [
+        69,
+        85,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        93067,
+        118397,
+        137167
+      ],
+      "colour": [
+        67,
+        81,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        34446,
+        38961,
+        45237
+      ],
+      "colour": [
+        99,
+        119,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        271876,
+        264680,
+        279086
+      ],
+      "colour": [
+        54,
+        68,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        263796,
+        279086,
+        264680
+      ],
+      "colour": [
+        51,
+        62,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        271876,
+        279086,
+        281772
+      ],
+      "colour": [
+        53,
+        69,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        264680,
+        238593,
+        251189
+      ],
+      "colour": [
+        48,
+        61,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        222396,
+        238593,
+        264680
+      ],
+      "colour": [
+        50,
+        64,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        222396,
+        264680,
+        207996
+      ],
+      "colour": [
+        59,
+        75,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        263796,
+        264680,
+        251189
+      ],
+      "colour": [
+        59,
+        72,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        291686,
+        279086,
+        263796
+      ],
+      "colour": [
+        52,
+        66,
+        96
+      ]
+    },
+    {
+      "vertices": [
+        320468,
+        307862,
+        307879
+      ],
+      "colour": [
+        57,
+        74,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        295272,
+        307862,
+        281772
+      ],
+      "colour": [
+        58,
+        73,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        307862,
+        320468,
+        323152
+      ],
+      "colour": [
+        68,
+        84,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        295272,
+        291686,
+        307879
+      ],
+      "colour": [
+        60,
+        78,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        291686,
+        295272,
+        281772
+      ],
+      "colour": [
+        58,
+        75,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        323210,
+        307879,
+        291686
+      ],
+      "colour": [
+        65,
+        84,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        295272,
+        307879,
+        307862
+      ],
+      "colour": [
+        61,
+        79,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        281772,
+        279086,
+        291686
+      ],
+      "colour": [
+        64,
+        79,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        323210,
+        320468,
+        307879
+      ],
+      "colour": [
+        78,
+        94,
+        114
+      ]
+    },
+    {
+      "vertices": [
+        247603,
+        251189,
+        238593
+      ],
+      "colour": [
+        53,
+        64,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        207996,
+        213410,
+        222396
+      ],
+      "colour": [
+        57,
+        70,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        213410,
+        207996,
+        202598
+      ],
+      "colour": [
+        59,
+        73,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        202598,
+        197214,
+        213410
+      ],
+      "colour": [
+        64,
+        80,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        232307,
+        222396,
+        213410
+      ],
+      "colour": [
+        60,
+        74,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        203630,
+        216237,
+        228833
+      ],
+      "colour": [
+        139,
+        153,
+        181
+      ]
+    },
+    {
+      "vertices": [
+        216237,
+        203630,
+        203644
+      ],
+      "colour": [
+        122,
+        137,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        241444,
+        241426,
+        228833
+      ],
+      "colour": [
+        120,
+        136,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        213410,
+        203630,
+        241426
+      ],
+      "colour": [
+        70,
+        85,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        203630,
+        213410,
+        197214
+      ],
+      "colour": [
+        60,
+        76,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        228833,
+        241426,
+        203630
+      ],
+      "colour": [
+        138,
+        153,
+        181
+      ]
+    },
+    {
+      "vertices": [
+        247603,
+        263796,
+        251189
+      ],
+      "colour": [
+        60,
+        74,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        238593,
+        232307,
+        247603
+      ],
+      "colour": [
+        62,
+        75,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        247603,
+        232307,
+        241426
+      ],
+      "colour": [
+        57,
+        71,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        263796,
+        247603,
+        314263
+      ],
+      "colour": [
+        62,
+        78,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        241426,
+        276540,
+        317002
+      ],
+      "colour": [
+        123,
+        139,
+        168
+      ]
+    },
+    {
+      "vertices": [
+        254051,
+        276540,
+        241426
+      ],
+      "colour": [
+        112,
+        129,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        263796,
+        314263,
+        323210
+      ],
+      "colour": [
+        71,
+        89,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        317002,
+        314263,
+        241426
+      ],
+      "colour": [
+        73,
+        90,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        329609,
+        317002,
+        320644
+      ],
+      "colour": [
+        140,
+        154,
+        178
+      ]
+    },
+    {
+      "vertices": [
+        241426,
+        314263,
+        247603
+      ],
+      "colour": [
+        64,
+        80,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        232307,
+        213410,
+        241426
+      ],
+      "colour": [
+        62,
+        76,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        291686,
+        263796,
+        323210
+      ],
+      "colour": [
+        62,
+        81,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        228833,
+        216237,
+        226147
+      ],
+      "colour": [
+        97,
+        112,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        238593,
+        222396,
+        232307
+      ],
+      "colour": [
+        58,
+        71,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        329609,
+        314263,
+        317002
+      ],
+      "colour": [
+        102,
+        116,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        338444,
+        323152,
+        335761
+      ],
+      "colour": [
+        92,
+        102,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        323152,
+        320468,
+        335761
+      ],
+      "colour": [
+        101,
+        111,
+        118
+      ]
+    },
+    {
+      "vertices": [
+        349258,
+        338444,
+        335761
+      ],
+      "colour": [
+        103,
+        118,
+        73
+      ]
+    },
+    {
+      "vertices": [
+        323210,
+        335835,
+        333121
+      ],
+      "colour": [
+        90,
+        101,
+        114
+      ]
+    },
+    {
+      "vertices": [
+        323210,
+        314263,
+        335835
+      ],
+      "colour": [
+        102,
+        114,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        349258,
+        323210,
+        333121
+      ],
+      "colour": [
+        105,
+        118,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        335761,
+        323210,
+        349258
+      ],
+      "colour": [
+        110,
+        122,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        320468,
+        323210,
+        335761
+      ],
+      "colour": [
+        101,
+        113,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        335835,
+        358345,
+        333121
+      ],
+      "colour": [
+        110,
+        122,
+        126
+      ]
+    },
+    {
+      "vertices": [
+        338444,
+        370836,
+        387023
+      ],
+      "colour": [
+        55,
+        72,
+        46
+      ]
+    },
+    {
+      "vertices": [
+        370836,
+        338444,
+        355543
+      ],
+      "colour": [
+        69,
+        85,
+        59
+      ]
+    },
+    {
+      "vertices": [
+        370836,
+        355543,
+        349258
+      ],
+      "colour": [
+        71,
+        86,
+        60
+      ]
+    },
+    {
+      "vertices": [
+        387023,
+        370836,
+        358345
+      ],
+      "colour": [
+        56,
+        69,
+        51
+      ]
+    },
+    {
+      "vertices": [
+        333121,
+        358345,
+        349258
+      ],
+      "colour": [
+        104,
+        116,
+        76
+      ]
+    },
+    {
+      "vertices": [
+        358345,
+        335835,
+        345745
+      ],
+      "colour": [
+        94,
+        106,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        358345,
+        345745,
+        361984
+      ],
+      "colour": [
+        114,
+        126,
+        122
+      ]
+    },
+    {
+      "vertices": [
+        349258,
+        358345,
+        370836
+      ],
+      "colour": [
+        68,
+        82,
+        56
+      ]
+    },
+    {
+      "vertices": [
+        355543,
+        338444,
+        349258
+      ],
+      "colour": [
+        65,
+        86,
+        50
+      ]
+    },
+    {
+      "vertices": [
+        387023,
+        358345,
+        374588
+      ],
+      "colour": [
+        89,
+        102,
+        86
+      ]
+    },
+    {
+      "vertices": [
+        314263,
+        345745,
+        335835
+      ],
+      "colour": [
+        98,
+        112,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        329609,
+        345830,
+        355709
+      ],
+      "colour": [
+        75,
+        93,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        345830,
+        329609,
+        333233
+      ],
+      "colour": [
+        66,
+        86,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        355709,
+        345830,
+        358430
+      ],
+      "colour": [
+        39,
+        56,
+        76
+      ]
+    },
+    {
+      "vertices": [
+        329609,
+        355709,
+        361984
+      ],
+      "colour": [
+        191,
+        195,
+        203
+      ]
+    },
+    {
+      "vertices": [
+        345830,
+        352142,
+        358430
+      ],
+      "colour": [
+        37,
+        60,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        345844,
+        352142,
+        345830
+      ],
+      "colour": [
+        37,
+        60,
+        96
+      ]
+    },
+    {
+      "vertices": [
+        333233,
+        340444,
+        345830
+      ],
+      "colour": [
+        48,
+        70,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        370140,
+        358430,
+        357542
+      ],
+      "colour": [
+        37,
+        61,
+        63
+      ]
+    },
+    {
+      "vertices": [
+        333233,
+        329609,
+        320644
+      ],
+      "colour": [
+        125,
+        141,
+        169
+      ]
+    },
+    {
+      "vertices": [
+        355709,
+        358430,
+        368309
+      ],
+      "colour": [
+        49,
+        64,
+        88
+      ]
+    },
+    {
+      "vertices": [
+        361984,
+        368309,
+        374588
+      ],
+      "colour": [
+        162,
+        171,
+        174
+      ]
+    },
+    {
+      "vertices": [
+        361984,
+        355709,
+        368309
+      ],
+      "colour": [
+        194,
+        197,
+        208
+      ]
+    },
+    {
+      "vertices": [
+        374588,
+        368309,
+        383626
+      ],
+      "colour": [
+        101,
+        112,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        361984,
+        374588,
+        358345
+      ],
+      "colour": [
+        89,
+        110,
+        80
+      ]
+    },
+    {
+      "vertices": [
+        371026,
+        370140,
+        383626
+      ],
+      "colour": [
+        84,
+        99,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        371026,
+        368309,
+        358430
+      ],
+      "colour": [
+        45,
+        63,
+        81
+      ]
+    },
+    {
+      "vertices": [
+        383626,
+        386338,
+        387023
+      ],
+      "colour": [
+        81,
+        94,
+        77
+      ]
+    },
+    {
+      "vertices": [
+        386338,
+        383626,
+        370140
+      ],
+      "colour": [
+        82,
+        96,
+        69
+      ]
+    },
+    {
+      "vertices": [
+        371026,
+        383626,
+        368309
+      ],
+      "colour": [
+        99,
+        109,
+        85
+      ]
+    },
+    {
+      "vertices": [
+        370140,
+        371026,
+        358430
+      ],
+      "colour": [
+        34,
+        57,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        374588,
+        383626,
+        387023
+      ],
+      "colour": [
+        80,
+        96,
+        81
+      ]
+    },
+    {
+      "vertices": [
+        358430,
+        352142,
+        357542
+      ],
+      "colour": [
+        67,
+        95,
+        89
+      ]
+    },
+    {
+      "vertices": [
+        361984,
+        345745,
+        314263
+      ],
+      "colour": [
+        104,
+        115,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        361984,
+        314263,
+        329609
+      ],
+      "colour": [
+        104,
+        116,
+        128
+      ]
+    },
+    {
+      "vertices": [
+        289147,
+        317002,
+        276540
+      ],
+      "colour": [
+        118,
+        132,
+        162
+      ]
+    },
+    {
+      "vertices": [
+        226147,
+        241444,
+        228833
+      ],
+      "colour": [
+        54,
+        70,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        216237,
+        213558,
+        226147
+      ],
+      "colour": [
+        84,
+        96,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        241444,
+        226147,
+        235158
+      ],
+      "colour": [
+        123,
+        135,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        254051,
+        241426,
+        241444
+      ],
+      "colour": [
+        97,
+        113,
+        143
+      ]
+    },
+    {
+      "vertices": [
+        200058,
+        213558,
+        203644
+      ],
+      "colour": [
+        119,
+        131,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        213558,
+        200058,
+        211762
+      ],
+      "colour": [
+        132,
+        144,
+        166
+      ]
+    },
+    {
+      "vertices": [
+        235158,
+        213558,
+        211762
+      ],
+      "colour": [
+        116,
+        128,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        213558,
+        235158,
+        226147
+      ],
+      "colour": [
+        133,
+        145,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        203630,
+        191033,
+        203644
+      ],
+      "colour": [
+        125,
+        141,
+        170
+      ]
+    },
+    {
+      "vertices": [
+        241444,
+        235158,
+        241458
+      ],
+      "colour": [
+        126,
+        137,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        266651,
+        256756,
+        286452
+      ],
+      "colour": [
+        113,
+        128,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        256756,
+        266651,
+        254051
+      ],
+      "colour": [
+        122,
+        133,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        286452,
+        276540,
+        266651
+      ],
+      "colour": [
+        123,
+        134,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        266651,
+        276540,
+        254051
+      ],
+      "colour": [
+        128,
+        138,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        249556,
+        254051,
+        241444
+      ],
+      "colour": [
+        128,
+        139,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        249556,
+        256756,
+        254051
+      ],
+      "colour": [
+        118,
+        131,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        241444,
+        241458,
+        249556
+      ],
+      "colour": [
+        124,
+        135,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        276540,
+        286452,
+        289147
+      ],
+      "colour": [
+        122,
+        134,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        204564,
+        211762,
+        200058
+      ],
+      "colour": [
+        121,
+        135,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        235248,
+        221748,
+        235253
+      ],
+      "colour": [
+        59,
+        74,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        219963,
+        221748,
+        207356
+      ],
+      "colour": [
+        68,
+        84,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        197467,
+        219963,
+        207356
+      ],
+      "colour": [
+        70,
+        86,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        235253,
+        221748,
+        219963
+      ],
+      "colour": [
+        54,
+        69,
+        93
+      ]
+    },
+    {
+      "vertices": [
+        200058,
+        185666,
+        204564
+      ],
+      "colour": [
+        120,
+        136,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        279349,
+        273046,
+        270363
+      ],
+      "colour": [
+        48,
+        62,
+        86
+      ]
+    },
+    {
+      "vertices": [
+        247853,
+        235248,
+        235253
+      ],
+      "colour": [
+        52,
+        71,
+        94
+      ]
+    },
+    {
+      "vertices": [
+        273046,
+        235248,
+        247853
+      ],
+      "colour": [
+        59,
+        73,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        291949,
+        318944,
+        273046
+      ],
+      "colour": [
+        61,
+        84,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        247853,
+        260453,
+        273046
+      ],
+      "colour": [
+        50,
+        65,
+        90
+      ]
+    },
+    {
+      "vertices": [
+        260453,
+        247853,
+        270363
+      ],
+      "colour": [
+        58,
+        75,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        282963,
+        279349,
+        270363
+      ],
+      "colour": [
+        66,
+        88,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        226299,
+        282963,
+        270363
+      ],
+      "colour": [
+        62,
+        80,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        247853,
+        235253,
+        232567
+      ],
+      "colour": [
+        57,
+        76,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        270363,
+        273046,
+        260453
+      ],
+      "colour": [
+        62,
+        77,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        247853,
+        232567,
+        270363
+      ],
+      "colour": [
+        65,
+        84,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        291949,
+        273046,
+        279349
+      ],
+      "colour": [
+        57,
+        82,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        219963,
+        232567,
+        235253
+      ],
+      "colour": [
+        69,
+        85,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        207356,
+        221748,
+        193850
+      ],
+      "colour": [
+        57,
+        74,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        291949,
+        279349,
+        282963
+      ],
+      "colour": [
+        61,
+        90,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        320644,
+        308044,
+        308948
+      ],
+      "colour": [
+        122,
+        135,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        308044,
+        317002,
+        289147
+      ],
+      "colour": [
+        123,
+        138,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        294550,
+        308044,
+        289147
+      ],
+      "colour": [
+        119,
+        132,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        333233,
+        320644,
+        333246
+      ],
+      "colour": [
+        128,
+        142,
+        170
+      ]
+    },
+    {
+      "vertices": [
+        308044,
+        300850,
+        308948
+      ],
+      "colour": [
+        115,
+        125,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        300850,
+        308044,
+        294550
+      ],
+      "colour": [
+        116,
+        127,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        320644,
+        308948,
+        333246
+      ],
+      "colour": [
+        118,
+        129,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        345830,
+        340444,
+        345844
+      ],
+      "colour": [
+        32,
+        53,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        386438,
+        376538,
+        377453
+      ],
+      "colour": [
+        84,
+        101,
+        60
+      ]
+    },
+    {
+      "vertices": [
+        333233,
+        333246,
+        340444
+      ],
+      "colour": [
+        81,
+        110,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        289147,
+        286452,
+        294550
+      ],
+      "colour": [
+        109,
+        123,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        317002,
+        308044,
+        320644
+      ],
+      "colour": [
+        125,
+        140,
+        167
+      ]
+    },
+    {
+      "vertices": [
+        329744,
+        318944,
+        327060
+      ],
+      "colour": [
+        61,
+        85,
+        117
+      ]
+    },
+    {
+      "vertices": [
+        314460,
+        327060,
+        318944
+      ],
+      "colour": [
+        69,
+        96,
+        130
+      ]
+    },
+    {
+      "vertices": [
+        304549,
+        291949,
+        282963
+      ],
+      "colour": [
+        60,
+        85,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        308311,
+        327060,
+        314460
+      ],
+      "colour": [
+        69,
+        98,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        314460,
+        318944,
+        304549
+      ],
+      "colour": [
+        56,
+        82,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        282963,
+        314460,
+        304549
+      ],
+      "colour": [
+        68,
+        92,
+        125
+      ]
+    },
+    {
+      "vertices": [
+        329744,
+        327060,
+        339656
+      ],
+      "colour": [
+        65,
+        95,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        367540,
+        357640,
+        364856
+      ],
+      "colour": [
+        68,
+        85,
+        68
+      ]
+    },
+    {
+      "vertices": [
+        352256,
+        357640,
+        347742
+      ],
+      "colour": [
+        90,
+        118,
+        130
+      ]
+    },
+    {
+      "vertices": [
+        364856,
+        357640,
+        352256
+      ],
+      "colour": [
+        129,
+        147,
+        131
+      ]
+    },
+    {
+      "vertices": [
+        352256,
+        339656,
+        327060
+      ],
+      "colour": [
+        88,
+        118,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        377453,
+        364856,
+        377625
+      ],
+      "colour": [
+        106,
+        131,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        377453,
+        367540,
+        364856
+      ],
+      "colour": [
+        82,
+        100,
+        90
+      ]
+    },
+    {
+      "vertices": [
+        364856,
+        352256,
+        329915
+      ],
+      "colour": [
+        91,
+        121,
+        143
+      ]
+    },
+    {
+      "vertices": [
+        352256,
+        347742,
+        339656
+      ],
+      "colour": [
+        76,
+        106,
+        135
+      ]
+    },
+    {
+      "vertices": [
+        347742,
+        329744,
+        339656
+      ],
+      "colour": [
+        61,
+        91,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        367540,
+        377453,
+        376538
+      ],
+      "colour": [
+        71,
+        87,
+        69
+      ]
+    },
+    {
+      "vertices": [
+        352256,
+        327060,
+        329915
+      ],
+      "colour": [
+        76,
+        106,
+        136
+      ]
+    },
+    {
+      "vertices": [
+        318944,
+        291949,
+        304549
+      ],
+      "colour": [
+        51,
+        76,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        386438,
+        377453,
+        377625
+      ],
+      "colour": [
+        105,
+        124,
+        125
+      ]
+    },
+    {
+      "vertices": [
+        314460,
+        282963,
+        292108
+      ],
+      "colour": [
+        69,
+        97,
+        130
+      ]
+    },
+    {
+      "vertices": [
+        203644,
+        213558,
+        216237
+      ],
+      "colour": [
+        68,
+        82,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        200058,
+        203644,
+        191047
+      ],
+      "colour": [
+        66,
+        80,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        193850,
+        184867,
+        197467
+      ],
+      "colour": [
+        70,
+        88,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        20288,
+        26608,
+        68000
+      ],
+      "colour": [
+        101,
+        114,
+        137
+      ]
+    },
+    {
+      "vertices": [
+        26608,
+        20288,
+        22121
+      ],
+      "colour": [
+        88,
+        100,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        68015,
+        68000,
+        26608
+      ],
+      "colour": [
+        140,
+        146,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        20288,
+        68000,
+        80590
+      ],
+      "colour": [
+        81,
+        94,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        27524,
+        42832,
+        26608
+      ],
+      "colour": [
+        95,
+        113,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        42832,
+        27524,
+        32943
+      ],
+      "colour": [
+        105,
+        123,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        27524,
+        26608,
+        22121
+      ],
+      "colour": [
+        67,
+        83,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        68015,
+        26608,
+        42832
+      ],
+      "colour": [
+        123,
+        132,
+        145
+      ]
+    },
+    {
+      "vertices": [
+        80590,
+        80602,
+        93197
+      ],
+      "colour": [
+        38,
+        63,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        80590,
+        68000,
+        80602
+      ],
+      "colour": [
+        63,
+        82,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        80590,
+        93197,
+        105797
+      ],
+      "colour": [
+        39,
+        67,
+        125
+      ]
+    },
+    {
+      "vertices": [
+        79709,
+        68015,
+        77925
+      ],
+      "colour": [
+        145,
+        150,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        79709,
+        80602,
+        68000
+      ],
+      "colour": [
+        123,
+        131,
+        147
+      ]
+    },
+    {
+      "vertices": [
+        77939,
+        77925,
+        68015
+      ],
+      "colour": [
+        147,
+        152,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        77925,
+        83358,
+        79709
+      ],
+      "colour": [
+        136,
+        146,
+        161
+      ]
+    },
+    {
+      "vertices": [
+        68015,
+        79709,
+        68000
+      ],
+      "colour": [
+        147,
+        153,
+        159
+      ]
+    },
+    {
+      "vertices": [
+        68015,
+        42832,
+        77939
+      ],
+      "colour": [
+        160,
+        163,
+        168
+      ]
+    },
+    {
+      "vertices": [
+        105797,
+        93067,
+        80590
+      ],
+      "colour": [
+        67,
+        85,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        32943,
+        27524,
+        29369
+      ],
+      "colour": [
+        106,
+        112,
+        137
+      ]
+    },
+    {
+      "vertices": [
+        29369,
+        32957,
+        32943
+      ],
+      "colour": [
+        108,
+        115,
+        139
+      ]
+    },
+    {
+      "vertices": [
+        32957,
+        29369,
+        42878
+      ],
+      "colour": [
+        102,
+        119,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        42832,
+        32957,
+        71667
+      ],
+      "colour": [
+        122,
+        129,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        42878,
+        29379,
+        39292
+      ],
+      "colour": [
+        97,
+        118,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        29379,
+        42878,
+        29369
+      ],
+      "colour": [
+        91,
+        110,
+        143
+      ]
+    },
+    {
+      "vertices": [
+        39292,
+        29379,
+        33005
+      ],
+      "colour": [
+        103,
+        117,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        42878,
+        39292,
+        71667
+      ],
+      "colour": [
+        112,
+        121,
+        133
+      ]
+    },
+    {
+      "vertices": [
+        71667,
+        32957,
+        42878
+      ],
+      "colour": [
+        113,
+        122,
+        136
+      ]
+    },
+    {
+      "vertices": [
+        77939,
+        77953,
+        83358
+      ],
+      "colour": [
+        135,
+        142,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        42832,
+        77953,
+        77939
+      ],
+      "colour": [
+        156,
+        160,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        83358,
+        77953,
+        71667
+      ],
+      "colour": [
+        139,
+        147,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        77925,
+        77939,
+        83358
+      ],
+      "colour": [
+        133,
+        140,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        71667,
+        83373,
+        83358
+      ],
+      "colour": [
+        132,
+        141,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        83373,
+        71667,
+        85179
+      ],
+      "colour": [
+        120,
+        128,
+        142
+      ]
+    },
+    {
+      "vertices": [
+        85179,
+        71667,
+        39292
+      ],
+      "colour": [
+        110,
+        118,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        85179,
+        45616,
+        88784
+      ],
+      "colour": [
+        83,
+        92,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        71667,
+        77953,
+        42832
+      ],
+      "colour": [
+        156,
+        160,
+        165
+      ]
+    },
+    {
+      "vertices": [
+        88784,
+        93299,
+        103188
+      ],
+      "colour": [
+        117,
+        129,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        32943,
+        32957,
+        42832
+      ],
+      "colour": [
+        100,
+        116,
+        145
+      ]
+    },
+    {
+      "vertices": [
+        118397,
+        130997,
+        137167
+      ],
+      "colour": [
+        65,
+        81,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        93067,
+        105797,
+        118397
+      ],
+      "colour": [
+        65,
+        81,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        130997,
+        118397,
+        80602
+      ],
+      "colour": [
+        39,
+        61,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        130997,
+        147197,
+        137167
+      ],
+      "colour": [
+        63,
+        80,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        147197,
+        168670,
+        137167
+      ],
+      "colour": [
+        68,
+        84,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        147197,
+        130997,
+        189502
+      ],
+      "colour": [
+        40,
+        64,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        147197,
+        189502,
+        159797
+      ],
+      "colour": [
+        62,
+        83,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        147197,
+        159797,
+        168670
+      ],
+      "colour": [
+        66,
+        83,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        80602,
+        189502,
+        130997
+      ],
+      "colour": [
+        46,
+        70,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        168670,
+        159797,
+        184990
+      ],
+      "colour": [
+        68,
+        85,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        184990,
+        226299,
+        168670
+      ],
+      "colour": [
+        68,
+        84,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        184867,
+        226299,
+        219984
+      ],
+      "colour": [
+        64,
+        80,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        197590,
+        184990,
+        189502
+      ],
+      "colour": [
+        56,
+        69,
+        92
+      ]
+    },
+    {
+      "vertices": [
+        226299,
+        184990,
+        197590
+      ],
+      "colour": [
+        66,
+        82,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        189502,
+        172397,
+        159797
+      ],
+      "colour": [
+        70,
+        89,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        189502,
+        195804,
+        197590
+      ],
+      "colour": [
+        43,
+        56,
+        83
+      ]
+    },
+    {
+      "vertices": [
+        172397,
+        189502,
+        184990
+      ],
+      "colour": [
+        54,
+        70,
+        94
+      ]
+    },
+    {
+      "vertices": [
+        159797,
+        172397,
+        184990
+      ],
+      "colour": [
+        55,
+        74,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        195804,
+        207504,
+        197590
+      ],
+      "colour": [
+        62,
+        77,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        105797,
+        80602,
+        118397
+      ],
+      "colour": [
+        40,
+        62,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        226299,
+        184867,
+        168670
+      ],
+      "colour": [
+        63,
+        78,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        105872,
+        103188,
+        112174
+      ],
+      "colour": [
+        128,
+        138,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        103188,
+        105872,
+        99572
+      ],
+      "colour": [
+        127,
+        135,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        93197,
+        80602,
+        105797
+      ],
+      "colour": [
+        39,
+        62,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        112174,
+        122085,
+        119376
+      ],
+      "colour": [
+        121,
+        130,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        122085,
+        112174,
+        103188
+      ],
+      "colour": [
+        124,
+        135,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        140995,
+        134681,
+        122085
+      ],
+      "colour": [
+        120,
+        133,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        119376,
+        122085,
+        134681
+      ],
+      "colour": [
+        116,
+        128,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        99572,
+        88784,
+        103188
+      ],
+      "colour": [
+        126,
+        136,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        156280,
+        137378,
+        153585
+      ],
+      "colour": [
+        113,
+        124,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        134681,
+        137378,
+        119376
+      ],
+      "colour": [
+        119,
+        127,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        140995,
+        153585,
+        137378
+      ],
+      "colour": [
+        119,
+        131,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        176084,
+        168882,
+        175199
+      ],
+      "colour": [
+        113,
+        126,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        153585,
+        168882,
+        156280
+      ],
+      "colour": [
+        106,
+        117,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        175199,
+        187792,
+        176084
+      ],
+      "colour": [
+        117,
+        131,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        153585,
+        162599,
+        168882
+      ],
+      "colour": [
+        115,
+        129,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        140995,
+        137378,
+        134681
+      ],
+      "colour": [
+        119,
+        131,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        103188,
+        93299,
+        122085
+      ],
+      "colour": [
+        117,
+        130,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        176084,
+        187792,
+        200386
+      ],
+      "colour": [
+        108,
+        120,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        39292,
+        45616,
+        85179
+      ],
+      "colour": [
+        91,
+        101,
+        117
+      ]
+    },
+    {
+      "vertices": [
+        80590,
+        93067,
+        20288
+      ],
+      "colour": [
+        74,
+        93,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        45616,
+        33005,
+        34826
+      ],
+      "colour": [
+        91,
+        104,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        49231,
+        34826,
+        36632
+      ],
+      "colour": [
+        88,
+        105,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        42948,
+        33038,
+        34861
+      ],
+      "colour": [
+        57,
+        71,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        33038,
+        42948,
+        36632
+      ],
+      "colour": [
+        81,
+        96,
+        130
+      ]
+    },
+    {
+      "vertices": [
+        42948,
+        34861,
+        38469
+      ],
+      "colour": [
+        77,
+        93,
+        126
+      ]
+    },
+    {
+      "vertices": [
+        34826,
+        49231,
+        45616
+      ],
+      "colour": [
+        93,
+        109,
+        137
+      ]
+    },
+    {
+      "vertices": [
+        49231,
+        36632,
+        42948
+      ],
+      "colour": [
+        94,
+        111,
+        145
+      ]
+    },
+    {
+      "vertices": [
+        49231,
+        42948,
+        51973
+      ],
+      "colour": [
+        90,
+        103,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        45616,
+        49231,
+        93299
+      ],
+      "colour": [
+        73,
+        87,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        51973,
+        42082,
+        49297
+      ],
+      "colour": [
+        93,
+        112,
+        145
+      ]
+    },
+    {
+      "vertices": [
+        51973,
+        42948,
+        38469
+      ],
+      "colour": [
+        96,
+        114,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        49297,
+        42082,
+        45701
+      ],
+      "colour": [
+        87,
+        106,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        97922,
+        51973,
+        49297
+      ],
+      "colour": [
+        75,
+        88,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        38469,
+        42082,
+        51973
+      ],
+      "colour": [
+        90,
+        109,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        93299,
+        49231,
+        51973
+      ],
+      "colour": [
+        69,
+        83,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        45616,
+        93299,
+        88784
+      ],
+      "colour": [
+        101,
+        114,
+        140
+      ]
+    },
+    {
+      "vertices": [
+        45701,
+        51119,
+        52011
+      ],
+      "colour": [
+        77,
+        97,
+        136
+      ]
+    },
+    {
+      "vertices": [
+        61929,
+        52011,
+        51119
+      ],
+      "colour": [
+        76,
+        94,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        45701,
+        52011,
+        49297
+      ],
+      "colour": [
+        87,
+        108,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        61929,
+        49325,
+        51137
+      ],
+      "colour": [
+        63,
+        78,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        49325,
+        61929,
+        51119
+      ],
+      "colour": [
+        69,
+        86,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        58352,
+        68243,
+        51137
+      ],
+      "colour": [
+        68,
+        83,
+        112
+      ]
+    },
+    {
+      "vertices": [
+        51137,
+        68243,
+        61929
+      ],
+      "colour": [
+        75,
+        88,
+        114
+      ]
+    },
+    {
+      "vertices": [
+        58352,
+        68264,
+        68243
+      ],
+      "colour": [
+        70,
+        84,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        97050,
+        68243,
+        68264
+      ],
+      "colour": [
+        106,
+        112,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        61929,
+        97922,
+        52011
+      ],
+      "colour": [
+        114,
+        120,
+        131
+      ]
+    },
+    {
+      "vertices": [
+        87189,
+        71878,
+        69190
+      ],
+      "colour": [
+        68,
+        79,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        69190,
+        71878,
+        68264
+      ],
+      "colour": [
+        63,
+        77,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        87189,
+        69190,
+        76402
+      ],
+      "colour": [
+        64,
+        75,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        87175,
+        68264,
+        71878
+      ],
+      "colour": [
+        84,
+        91,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        58352,
+        69190,
+        68264
+      ],
+      "colour": [
+        58,
+        75,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        68243,
+        90736,
+        61929
+      ],
+      "colour": [
+        116,
+        120,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        49297,
+        52011,
+        97922
+      ],
+      "colour": [
+        101,
+        112,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        76402,
+        80908,
+        89006
+      ],
+      "colour": [
+        56,
+        66,
+        84
+      ]
+    },
+    {
+      "vertices": [
+        51973,
+        106022,
+        93299
+      ],
+      "colour": [
+        68,
+        84,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        51973,
+        97922,
+        106022
+      ],
+      "colour": [
+        66,
+        80,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        93299,
+        106022,
+        118622
+      ],
+      "colour": [
+        74,
+        90,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        118622,
+        129430,
+        131225
+      ],
+      "colour": [
+        66,
+        79,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        129430,
+        118622,
+        106022
+      ],
+      "colour": [
+        49,
+        62,
+        93
+      ]
+    },
+    {
+      "vertices": [
+        131225,
+        129430,
+        143822
+      ],
+      "colour": [
+        62,
+        75,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        93299,
+        118622,
+        140995
+      ],
+      "colour": [
+        79,
+        94,
+        120
+      ]
+    },
+    {
+      "vertices": [
+        143822,
+        118622,
+        131225
+      ],
+      "colour": [
+        70,
+        85,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        162599,
+        175199,
+        168882
+      ],
+      "colour": [
+        112,
+        126,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        162599,
+        140995,
+        143822
+      ],
+      "colour": [
+        81,
+        96,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        175199,
+        162599,
+        143822
+      ],
+      "colour": [
+        82,
+        98,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        162599,
+        153585,
+        140995
+      ],
+      "colour": [
+        110,
+        124,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        143822,
+        153733,
+        166333
+      ],
+      "colour": [
+        65,
+        80,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        150136,
+        153733,
+        143822
+      ],
+      "colour": [
+        61,
+        72,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        166333,
+        153733,
+        150136
+      ],
+      "colour": [
+        60,
+        76,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        175199,
+        143822,
+        197706
+      ],
+      "colour": [
+        82,
+        97,
+        124
+      ]
+    },
+    {
+      "vertices": [
+        140995,
+        118622,
+        143822
+      ],
+      "colour": [
+        70,
+        85,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        166333,
+        229238,
+        143822
+      ],
+      "colour": [
+        70,
+        85,
+        112
+      ]
+    },
+    {
+      "vertices": [
+        143822,
+        129430,
+        150136
+      ],
+      "colour": [
+        59,
+        71,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        93299,
+        140995,
+        122085
+      ],
+      "colour": [
+        115,
+        129,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        68243,
+        97050,
+        90736
+      ],
+      "colour": [
+        123,
+        126,
+        133
+      ]
+    },
+    {
+      "vertices": [
+        97922,
+        61929,
+        90736
+      ],
+      "colour": [
+        131,
+        134,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        99769,
+        97050,
+        87175
+      ],
+      "colour": [
+        109,
+        112,
+        120
+      ]
+    },
+    {
+      "vertices": [
+        90736,
+        97050,
+        101535
+      ],
+      "colour": [
+        128,
+        132,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        87189,
+        89006,
+        94399
+      ],
+      "colour": [
+        73,
+        79,
+        89
+      ]
+    },
+    {
+      "vertices": [
+        89006,
+        87189,
+        76402
+      ],
+      "colour": [
+        69,
+        78,
+        94
+      ]
+    },
+    {
+      "vertices": [
+        87175,
+        87189,
+        99780
+      ],
+      "colour": [
+        96,
+        99,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        87175,
+        71878,
+        87189
+      ],
+      "colour": [
+        90,
+        95,
+        106
+      ]
+    },
+    {
+      "vertices": [
+        94399,
+        99780,
+        87189
+      ],
+      "colour": [
+        81,
+        86,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        150136,
+        178940,
+        166333
+      ],
+      "colour": [
+        55,
+        69,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        99769,
+        101535,
+        97050
+      ],
+      "colour": [
+        114,
+        120,
+        137
+      ]
+    },
+    {
+      "vertices": [
+        193348,
+        178940,
+        150136
+      ],
+      "colour": [
+        49,
+        62,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        99780,
+        99769,
+        87175
+      ],
+      "colour": [
+        97,
+        100,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        194243,
+        193348,
+        207740
+      ],
+      "colour": [
+        47,
+        63,
+        86
+      ]
+    },
+    {
+      "vertices": [
+        194243,
+        178940,
+        193348
+      ],
+      "colour": [
+        60,
+        75,
+        97
+      ]
+    },
+    {
+      "vertices": [
+        166333,
+        178940,
+        207740
+      ],
+      "colour": [
+        61,
+        75,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        90736,
+        101535,
+        97922
+      ],
+      "colour": [
+        135,
+        140,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        87175,
+        97050,
+        68264
+      ],
+      "colour": [
+        108,
+        112,
+        120
+      ]
+    },
+    {
+      "vertices": [
+        187792,
+        175199,
+        197706
+      ],
+      "colour": [
+        109,
+        126,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        45616,
+        39292,
+        33005
+      ],
+      "colour": [
+        92,
+        109,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        194243,
+        207740,
+        178940
+      ],
+      "colour": [
+        60,
+        75,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        232567,
+        219984,
+        226299
+      ],
+      "colour": [
+        61,
+        77,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        232567,
+        219963,
+        219984
+      ],
+      "colour": [
+        50,
+        64,
+        86
+      ]
+    },
+    {
+      "vertices": [
+        197467,
+        184867,
+        219984
+      ],
+      "colour": [
+        60,
+        76,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        282963,
+        226299,
+        292108
+      ],
+      "colour": [
+        67,
+        88,
+        117
+      ]
+    },
+    {
+      "vertices": [
+        220097,
+        207504,
+        229108
+      ],
+      "colour": [
+        45,
+        59,
+        81
+      ]
+    },
+    {
+      "vertices": [
+        232693,
+        197590,
+        220097
+      ],
+      "colour": [
+        56,
+        71,
+        92
+      ]
+    },
+    {
+      "vertices": [
+        197590,
+        232693,
+        226299
+      ],
+      "colour": [
+        65,
+        81,
+        103
+      ]
+    },
+    {
+      "vertices": [
+        207504,
+        220097,
+        197590
+      ],
+      "colour": [
+        57,
+        71,
+        93
+      ]
+    },
+    {
+      "vertices": [
+        229108,
+        232693,
+        220097
+      ],
+      "colour": [
+        55,
+        70,
+        90
+      ]
+    },
+    {
+      "vertices": [
+        232693,
+        234510,
+        245308
+      ],
+      "colour": [
+        55,
+        71,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        234510,
+        232693,
+        229108
+      ],
+      "colour": [
+        45,
+        59,
+        79
+      ]
+    },
+    {
+      "vertices": [
+        245308,
+        234510,
+        244412
+      ],
+      "colour": [
+        72,
+        92,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        232693,
+        245308,
+        264211
+      ],
+      "colour": [
+        55,
+        72,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        245308,
+        249814,
+        264211
+      ],
+      "colour": [
+        51,
+        66,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        249814,
+        245308,
+        244412
+      ],
+      "colour": [
+        69,
+        83,
+        117
+      ]
+    },
+    {
+      "vertices": [
+        279515,
+        264211,
+        249814
+      ],
+      "colour": [
+        57,
+        73,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        226299,
+        232693,
+        292108
+      ],
+      "colour": [
+        64,
+        82,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        264211,
+        292108,
+        232693
+      ],
+      "colour": [
+        59,
+        78,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        200386,
+        203992,
+        222890
+      ],
+      "colour": [
+        101,
+        121,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        200386,
+        187792,
+        203992
+      ],
+      "colour": [
+        113,
+        127,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        222890,
+        203992,
+        213902
+      ],
+      "colour": [
+        115,
+        130,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        229206,
+        213902,
+        229238
+      ],
+      "colour": [
+        108,
+        126,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        197706,
+        213902,
+        203992
+      ],
+      "colour": [
+        109,
+        125,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        241813,
+        241799,
+        229206
+      ],
+      "colour": [
+        111,
+        129,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        213902,
+        229206,
+        222890
+      ],
+      "colour": [
+        108,
+        125,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        222890,
+        229206,
+        230992
+      ],
+      "colour": [
+        109,
+        126,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        239092,
+        241799,
+        246294
+      ],
+      "colour": [
+        102,
+        120,
+        146
+      ]
+    },
+    {
+      "vertices": [
+        241799,
+        239092,
+        230992
+      ],
+      "colour": [
+        103,
+        121,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        246294,
+        257999,
+        254394
+      ],
+      "colour": [
+        97,
+        114,
+        140
+      ]
+    },
+    {
+      "vertices": [
+        257999,
+        246294,
+        241799
+      ],
+      "colour": [
+        111,
+        127,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        279602,
+        262496,
+        267013
+      ],
+      "colour": [
+        107,
+        123,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        257999,
+        262496,
+        254394
+      ],
+      "colour": [
+        97,
+        114,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        257999,
+        241799,
+        254413
+      ],
+      "colour": [
+        110,
+        127,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        230992,
+        229206,
+        241799
+      ],
+      "colour": [
+        113,
+        129,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        262496,
+        257999,
+        267013
+      ],
+      "colour": [
+        110,
+        127,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        197706,
+        203992,
+        187792
+      ],
+      "colour": [
+        116,
+        130,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        308311,
+        292108,
+        297522
+      ],
+      "colour": [
+        60,
+        88,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        279515,
+        292108,
+        264211
+      ],
+      "colour": [
+        52,
+        74,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        297522,
+        292108,
+        279515
+      ],
+      "colour": [
+        53,
+        78,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        308311,
+        314460,
+        292108
+      ],
+      "colour": [
+        70,
+        100,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        302924,
+        317322,
+        308311
+      ],
+      "colour": [
+        79,
+        101,
+        125
+      ]
+    },
+    {
+      "vertices": [
+        317322,
+        302924,
+        318226
+      ],
+      "colour": [
+        128,
+        142,
+        155
+      ]
+    },
+    {
+      "vertices": [
+        302924,
+        308311,
+        297522
+      ],
+      "colour": [
+        68,
+        94,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        297522,
+        279515,
+        249814
+      ],
+      "colour": [
+        79,
+        99,
+        127
+      ]
+    },
+    {
+      "vertices": [
+        308311,
+        317322,
+        329915
+      ],
+      "colour": [
+        72,
+        98,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        377625,
+        329915,
+        356029
+      ],
+      "colour": [
+        81,
+        105,
+        129
+      ]
+    },
+    {
+      "vertices": [
+        339825,
+        329915,
+        323628
+      ],
+      "colour": [
+        80,
+        101,
+        126
+      ]
+    },
+    {
+      "vertices": [
+        356029,
+        329915,
+        339825
+      ],
+      "colour": [
+        80,
+        103,
+        127
+      ]
+    },
+    {
+      "vertices": [
+        377625,
+        364856,
+        329915
+      ],
+      "colour": [
+        91,
+        118,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        323628,
+        356029,
+        339825
+      ],
+      "colour": [
+        80,
+        92,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        329915,
+        317322,
+        323628
+      ],
+      "colour": [
+        77,
+        97,
+        122
+      ]
+    },
+    {
+      "vertices": [
+        317322,
+        318226,
+        323628
+      ],
+      "colour": [
+        109,
+        122,
+        134
+      ]
+    },
+    {
+      "vertices": [
+        377625,
+        356029,
+        365934
+      ],
+      "colour": [
+        87,
+        104,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        329915,
+        327060,
+        308311
+      ],
+      "colour": [
+        73,
+        103,
+        134
+      ]
+    },
+    {
+      "vertices": [
+        306600,
+        297598,
+        308406
+      ],
+      "colour": [
+        99,
+        109,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        292202,
+        297598,
+        279602
+      ],
+      "colour": [
+        103,
+        117,
+        144
+      ]
+    },
+    {
+      "vertices": [
+        306600,
+        321006,
+        341704
+      ],
+      "colour": [
+        93,
+        105,
+        132
+      ]
+    },
+    {
+      "vertices": [
+        308406,
+        321006,
+        306600
+      ],
+      "colour": [
+        103,
+        120,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        292202,
+        295816,
+        297598
+      ],
+      "colour": [
+        105,
+        121,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        333616,
+        341704,
+        321006
+      ],
+      "colour": [
+        104,
+        121,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        295816,
+        308406,
+        297598
+      ],
+      "colour": [
+        106,
+        121,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        279616,
+        292202,
+        279602
+      ],
+      "colour": [
+        104,
+        119,
+        149
+      ]
+    },
+    {
+      "vertices": [
+        365934,
+        369538,
+        374938
+      ],
+      "colour": [
+        132,
+        148,
+        168
+      ]
+    },
+    {
+      "vertices": [
+        356029,
+        323628,
+        365934
+      ],
+      "colour": [
+        85,
+        95,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        365934,
+        374938,
+        377625
+      ],
+      "colour": [
+        97,
+        112,
+        125
+      ]
+    },
+    {
+      "vertices": [
+        352509,
+        371408,
+        341704
+      ],
+      "colour": [
+        92,
+        108,
+        137
+      ]
+    },
+    {
+      "vertices": [
+        371408,
+        375024,
+        378608
+      ],
+      "colour": [
+        98,
+        119,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        374938,
+        386644,
+        377625
+      ],
+      "colour": [
+        106,
+        124,
+        123
+      ]
+    },
+    {
+      "vertices": [
+        308420,
+        321006,
+        308406
+      ],
+      "colour": [
+        105,
+        124,
+        156
+      ]
+    },
+    {
+      "vertices": [
+        279602,
+        297598,
+        262496
+      ],
+      "colour": [
+        93,
+        111,
+        138
+      ]
+    },
+    {
+      "vertices": [
+        377625,
+        386644,
+        386438
+      ],
+      "colour": [
+        109,
+        131,
+        118
+      ]
+    },
+    {
+      "vertices": [
+        229238,
+        213902,
+        197706
+      ],
+      "colour": [
+        105,
+        121,
+        151
+      ]
+    },
+    {
+      "vertices": [
+        232567,
+        226299,
+        270363
+      ],
+      "colour": [
+        59,
+        77,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        267013,
+        257999,
+        254413
+      ],
+      "colour": [
+        108,
+        126,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        254413,
+        241813,
+        248127
+      ],
+      "colour": [
+        120,
+        137,
+        168
+      ]
+    },
+    {
+      "vertices": [
+        267013,
+        254413,
+        248127
+      ],
+      "colour": [
+        114,
+        132,
+        162
+      ]
+    },
+    {
+      "vertices": [
+        279602,
+        267013,
+        279616
+      ],
+      "colour": [
+        103,
+        121,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        279701,
+        248127,
+        229238
+      ],
+      "colour": [
+        66,
+        81,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        229238,
+        248127,
+        241813
+      ],
+      "colour": [
+        79,
+        96,
+        126
+      ]
+    },
+    {
+      "vertices": [
+        229238,
+        197706,
+        143822
+      ],
+      "colour": [
+        72,
+        88,
+        115
+      ]
+    },
+    {
+      "vertices": [
+        267013,
+        248127,
+        276931
+      ],
+      "colour": [
+        99,
+        115,
+        145
+      ]
+    },
+    {
+      "vertices": [
+        241813,
+        229206,
+        229238
+      ],
+      "colour": [
+        105,
+        122,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        229238,
+        220340,
+        279701
+      ],
+      "colour": [
+        70,
+        85,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        279616,
+        276931,
+        295816
+      ],
+      "colour": [
+        113,
+        131,
+        163
+      ]
+    },
+    {
+      "vertices": [
+        276931,
+        279616,
+        267013
+      ],
+      "colour": [
+        114,
+        131,
+        161
+      ]
+    },
+    {
+      "vertices": [
+        308420,
+        295816,
+        276931
+      ],
+      "colour": [
+        113,
+        131,
+        162
+      ]
+    },
+    {
+      "vertices": [
+        295816,
+        292202,
+        279616
+      ],
+      "colour": [
+        100,
+        118,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        289590,
+        279701,
+        277015
+      ],
+      "colour": [
+        65,
+        81,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        279701,
+        289590,
+        276931
+      ],
+      "colour": [
+        66,
+        81,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        279701,
+        276931,
+        248127
+      ],
+      "colour": [
+        67,
+        82,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        317568,
+        289590,
+        277015
+      ],
+      "colour": [
+        67,
+        83,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        279701,
+        220340,
+        277015
+      ],
+      "colour": [
+        69,
+        84,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        289590,
+        298580,
+        276931
+      ],
+      "colour": [
+        69,
+        84,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        220340,
+        229238,
+        207740
+      ],
+      "colour": [
+        71,
+        88,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        308406,
+        295816,
+        308420
+      ],
+      "colour": [
+        103,
+        123,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        220340,
+        212254,
+        226654
+      ],
+      "colour": [
+        58,
+        73,
+        98
+      ]
+    },
+    {
+      "vertices": [
+        212254,
+        220340,
+        207740
+      ],
+      "colour": [
+        64,
+        81,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        226654,
+        212254,
+        228460
+      ],
+      "colour": [
+        43,
+        59,
+        93
+      ]
+    },
+    {
+      "vertices": [
+        220340,
+        226654,
+        239257
+      ],
+      "colour": [
+        59,
+        75,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        239257,
+        228460,
+        250066
+      ],
+      "colour": [
+        43,
+        60,
+        92
+      ]
+    },
+    {
+      "vertices": [
+        228460,
+        239257,
+        226654
+      ],
+      "colour": [
+        53,
+        68,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        220340,
+        239257,
+        251854
+      ],
+      "colour": [
+        62,
+        78,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        251854,
+        239257,
+        250066
+      ],
+      "colour": [
+        53,
+        69,
+        93
+      ]
+    },
+    {
+      "vertices": [
+        270764,
+        283361,
+        277015
+      ],
+      "colour": [
+        66,
+        82,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        270764,
+        251854,
+        256368
+      ],
+      "colour": [
+        56,
+        70,
+        96
+      ]
+    },
+    {
+      "vertices": [
+        283361,
+        270764,
+        277974
+      ],
+      "colour": [
+        56,
+        70,
+        96
+      ]
+    },
+    {
+      "vertices": [
+        277015,
+        251854,
+        270764
+      ],
+      "colour": [
+        64,
+        80,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        277974,
+        292375,
+        283361
+      ],
+      "colour": [
+        63,
+        76,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        304968,
+        283361,
+        292375
+      ],
+      "colour": [
+        58,
+        69,
+        95
+      ]
+    },
+    {
+      "vertices": [
+        293280,
+        292375,
+        277974
+      ],
+      "colour": [
+        60,
+        73,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        277974,
+        270764,
+        256368
+      ],
+      "colour": [
+        62,
+        76,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        251854,
+        250066,
+        256368
+      ],
+      "colour": [
+        61,
+        78,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        304968,
+        277015,
+        283361
+      ],
+      "colour": [
+        63,
+        78,
+        107
+      ]
+    },
+    {
+      "vertices": [
+        251854,
+        277015,
+        220340
+      ],
+      "colour": [
+        66,
+        81,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        207740,
+        193348,
+        212254
+      ],
+      "colour": [
+        51,
+        67,
+        92
+      ]
+    },
+    {
+      "vertices": [
+        293280,
+        304968,
+        292375
+      ],
+      "colour": [
+        63,
+        72,
+        99
+      ]
+    },
+    {
+      "vertices": [
+        321006,
+        321020,
+        333616
+      ],
+      "colour": [
+        93,
+        114,
+        150
+      ]
+    },
+    {
+      "vertices": [
+        341704,
+        333616,
+        349824
+      ],
+      "colour": [
+        86,
+        107,
+        141
+      ]
+    },
+    {
+      "vertices": [
+        321020,
+        308420,
+        298580
+      ],
+      "colour": [
+        82,
+        98,
+        126
+      ]
+    },
+    {
+      "vertices": [
+        339934,
+        333616,
+        321020
+      ],
+      "colour": [
+        106,
+        126,
+        164
+      ]
+    },
+    {
+      "vertices": [
+        289590,
+        317568,
+        298580
+      ],
+      "colour": [
+        67,
+        82,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        317568,
+        277015,
+        304968
+      ],
+      "colour": [
+        65,
+        79,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        317568,
+        304968,
+        311282
+      ],
+      "colour": [
+        70,
+        82,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        339934,
+        321020,
+        298580
+      ],
+      "colour": [
+        76,
+        92,
+        121
+      ]
+    },
+    {
+      "vertices": [
+        308420,
+        276931,
+        298580
+      ],
+      "colour": [
+        69,
+        83,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        343682,
+        339934,
+        298580
+      ],
+      "colour": [
+        65,
+        80,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        375024,
+        371408,
+        362420
+      ],
+      "colour": [
+        80,
+        100,
+        135
+      ]
+    },
+    {
+      "vertices": [
+        362420,
+        352509,
+        349824
+      ],
+      "colour": [
+        73,
+        93,
+        128
+      ]
+    },
+    {
+      "vertices": [
+        378608,
+        375024,
+        387610
+      ],
+      "colour": [
+        73,
+        102,
+        148
+      ]
+    },
+    {
+      "vertices": [
+        362420,
+        371408,
+        352509
+      ],
+      "colour": [
+        101,
+        121,
+        153
+      ]
+    },
+    {
+      "vertices": [
+        349824,
+        339934,
+        375024
+      ],
+      "colour": [
+        96,
+        116,
+        152
+      ]
+    },
+    {
+      "vertices": [
+        352509,
+        341704,
+        349824
+      ],
+      "colour": [
+        94,
+        113,
+        147
+      ]
+    },
+    {
+      "vertices": [
+        365289,
+        375024,
+        339934
+      ],
+      "colour": [
+        79,
+        101,
+        133
+      ]
+    },
+    {
+      "vertices": [
+        349824,
+        375024,
+        362420
+      ],
+      "colour": [
+        43,
+        65,
+        100
+      ]
+    },
+    {
+      "vertices": [
+        333616,
+        339934,
+        349824
+      ],
+      "colour": [
+        100,
+        121,
+        157
+      ]
+    },
+    {
+      "vertices": [
+        384199,
+        387610,
+        375024
+      ],
+      "colour": [
+        86,
+        110,
+        130
+      ]
+    },
+    {
+      "vertices": [
+        317568,
+        343682,
+        298580
+      ],
+      "colour": [
+        71,
+        85,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        308420,
+        321020,
+        321006
+      ],
+      "colour": [
+        102,
+        122,
+        158
+      ]
+    },
+    {
+      "vertices": [
+        311282,
+        323882,
+        317568
+      ],
+      "colour": [
+        69,
+        81,
+        108
+      ]
+    },
+    {
+      "vertices": [
+        323882,
+        311282,
+        313986
+      ],
+      "colour": [
+        70,
+        82,
+        109
+      ]
+    },
+    {
+      "vertices": [
+        343682,
+        323882,
+        331092
+      ],
+      "colour": [
+        83,
+        93,
+        114
+      ]
+    },
+    {
+      "vertices": [
+        323882,
+        343682,
+        317568
+      ],
+      "colour": [
+        72,
+        84,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        331092,
+        345498,
+        343682
+      ],
+      "colour": [
+        63,
+        73,
+        94
+      ]
+    },
+    {
+      "vertices": [
+        313986,
+        331092,
+        323882
+      ],
+      "colour": [
+        68,
+        80,
+        104
+      ]
+    },
+    {
+      "vertices": [
+        311282,
+        293280,
+        313986
+      ],
+      "colour": [
+        70,
+        82,
+        102
+      ]
+    },
+    {
+      "vertices": [
+        343682,
+        345498,
+        352696
+      ],
+      "colour": [
+        74,
+        84,
+        110
+      ]
+    },
+    {
+      "vertices": [
+        384199,
+        365289,
+        371603
+      ],
+      "colour": [
+        84,
+        102,
+        128
+      ]
+    },
+    {
+      "vertices": [
+        352696,
+        365289,
+        343682
+      ],
+      "colour": [
+        77,
+        89,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        371603,
+        365289,
+        352696
+      ],
+      "colour": [
+        77,
+        98,
+        125
+      ]
+    },
+    {
+      "vertices": [
+        365289,
+        384199,
+        375024
+      ],
+      "colour": [
+        80,
+        105,
+        135
+      ]
+    },
+    {
+      "vertices": [
+        371603,
+        384212,
+        384199
+      ],
+      "colour": [
+        79,
+        96,
+        122
+      ]
+    },
+    {
+      "vertices": [
+        371603,
+        345498,
+        384212
+      ],
+      "colour": [
+        77,
+        91,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        386030,
+        387876,
+        387610
+      ],
+      "colour": [
+        88,
+        95,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        371603,
+        352696,
+        345498
+      ],
+      "colour": [
+        72,
+        86,
+        111
+      ]
+    },
+    {
+      "vertices": [
+        384212,
+        386030,
+        384199
+      ],
+      "colour": [
+        128,
+        140,
+        154
+      ]
+    },
+    {
+      "vertices": [
+        384199,
+        386030,
+        387610
+      ],
+      "colour": [
+        106,
+        114,
+        120
+      ]
+    },
+    {
+      "vertices": [
+        343682,
+        365289,
+        339934
+      ],
+      "colour": [
+        71,
+        87,
+        116
+      ]
+    },
+    {
+      "vertices": [
+        304968,
+        293280,
+        311282
+      ],
+      "colour": [
+        66,
+        80,
+        105
+      ]
+    },
+    {
+      "vertices": [
+        254413,
+        241799,
+        241813
+      ],
+      "colour": [
+        112,
+        131,
+        160
+      ]
+    },
+    {
+      "vertices": [
+        166333,
+        207740,
+        229238
+      ],
+      "colour": [
+        69,
+        86,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        219984,
+        219963,
+        197467
+      ],
+      "colour": [
+        64,
+        81,
+        104
+      ]
+    }
+  ]
+}
