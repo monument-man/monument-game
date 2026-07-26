@@ -1,0 +1,141 @@
+{
+  "width": 298,
+  "height": 306,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 8,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    96,
+    132
+  ],
+  "added_vertex_id": 39432,
+  "score": 133428.9465361446,
+  "vertices": [
+    {
+      "id": 7374,
+      "x": 222,
+      "y": 24,
+      "type": "boundary"
+    },
+    {
+      "id": 13385,
+      "x": 273,
+      "y": 44,
+      "type": "boundary"
+    },
+    {
+      "id": 31666,
+      "x": 78,
+      "y": 106,
+      "type": "boundary"
+    },
+    {
+      "id": 34721,
+      "x": 153,
+      "y": 116,
+      "type": "boundary"
+    },
+    {
+      "id": 39432,
+      "x": 96,
+      "y": 132,
+      "type": "boundary"
+    },
+    {
+      "id": 44128,
+      "x": 24,
+      "y": 148,
+      "type": "boundary"
+    },
+    {
+      "id": 84060,
+      "x": 24,
+      "y": 282,
+      "type": "boundary"
+    },
+    {
+      "id": 84309,
+      "x": 273,
+      "y": 282,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        31666,
+        39432,
+        44128
+      ],
+      "colour": [
+        63,
+        65,
+        68
+      ]
+    },
+    {
+      "vertices": [
+        84060,
+        44128,
+        39432
+      ],
+      "colour": [
+        118,
+        109,
+        80
+      ]
+    },
+    {
+      "vertices": [
+        39432,
+        84309,
+        84060
+      ],
+      "colour": [
+        122,
+        113,
+        84
+      ]
+    },
+    {
+      "vertices": [
+        7374,
+        13385,
+        34721
+      ],
+      "colour": [
+        64,
+        62,
+        62
+      ]
+    },
+    {
+      "vertices": [
+        34721,
+        84309,
+        39432
+      ],
+      "colour": [
+        71,
+        69,
+        59
+      ]
+    },
+    {
+      "vertices": [
+        84309,
+        34721,
+        13385
+      ],
+      "colour": [
+        96,
+        91,
+        70
+      ]
+    }
+  ]
+}

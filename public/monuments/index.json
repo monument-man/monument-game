@@ -1285,6 +1285,263 @@
     "toronto skyline",
     "canadian landmark"
   ]
-}
+},
+  {
+    "id": "louvre",
+    "name": "Louvre Museum",
+    "accepted_answers": [
+      "louvre",
+      "the louvre",
+      "louvre museum",
+      "the louvre museum",
+      "musee du louvre",
+      "musée du louvre",
+      "louvre palace",
+      "palais du louvre",
+      "louvre pyramid",
+      "the louvre pyramid"
+    ],
+    "country": "France",
+    "country_code": "FR",
+    "city": "Paris",
+    "continent": "Europe",
+    "category": "Art museum",
+    "year_completed": null,
+    "unesco": true,
+    "difficulty": "Easy",
+    "tags": [
+      "art museum",
+      "glass pyramid",
+      "royal palace",
+      "mona lisa",
+      "paris"
+    ]
+  },
+  {
+    "id": "british_museum",
+    "name": "British Museum",
+    "accepted_answers": [
+      "british museum",
+      "the british museum",
+      "british musuem",
+      "britain museum",
+      "museum of britain"
+    ],
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "continent": "Europe",
+    "category": "Museum",
+    "year_completed": 1852,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "greek revival",
+      "neoclassical",
+      "columns",
+      "ancient artefacts",
+      "bloomsbury"
+    ]
+  },
+  {
+    "id": "guggenheim_museum",
+    "name": "Solomon R. Guggenheim Museum",
+    "accepted_answers": [
+      "guggenheim museum",
+      "the guggenheim museum",
+      "guggenheim",
+      "the guggenheim",
+      "solomon r guggenheim museum",
+      "solomon r. guggenheim museum",
+      "new york guggenheim",
+      "gugenheim museum",
+      "gugenhiem museum"
+    ],
+    "country": "United States",
+    "country_code": "US",
+    "city": "New York City",
+    "continent": "North America",
+    "category": "Art museum",
+    "year_completed": 1959,
+    "unesco": true,
+    "difficulty": "Medium",
+    "tags": [
+      "frank lloyd wright",
+      "modernist",
+      "spiral",
+      "art museum",
+      "manhattan"
+    ]
+  },
+  {
+    "id": "space_needle",
+    "name": "Space Needle",
+    "accepted_answers": [
+      "space needle",
+      "the space needle",
+      "seattle space needle",
+      "seattle needle",
+      "space tower seattle"
+    ],
+    "country": "United States",
+    "country_code": "US",
+    "city": "Seattle",
+    "continent": "North America",
+    "category": "Observation tower",
+    "year_completed": 1962,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "observation tower",
+      "space age",
+      "worlds fair",
+      "flying saucer",
+      "seattle skyline"
+    ]
+  },
+  {
+    "id": "moai_heads",
+    "name": "Moai",
+    "accepted_answers": [
+      "moai",
+      "the moai",
+      "moai heads",
+      "moai statues",
+      "easter island heads",
+      "easter island statues",
+      "easter island moai",
+      "rapa nui statues",
+      "rapa nui moai"
+    ],
+    "country": "Chile",
+    "country_code": "CL",
+    "city": "Easter Island",
+    "continent": "South America",
+    "category": "Ancient monument",
+    "year_completed": null,
+    "unesco": true,
+    "difficulty": "Medium",
+    "tags": [
+      "stone statues",
+      "rapa nui",
+      "polynesian",
+      "volcanic rock",
+      "ancestral figures"
+    ]
+  },
+  {
+    "id": "african_renaissance",
+    "name": "African Renaissance Monument",
+    "accepted_answers": [
+      "african renaissance monument",
+      "the african renaissance monument",
+      "african renaissance",
+      "african renaissance statue",
+      "dakar renaissance monument",
+      "dakar monument",
+      "monument de la renaissance africaine",
+      "renaissance africaine"
+    ],
+    "country": "Senegal",
+    "country_code": "SN",
+    "city": "Dakar",
+    "continent": "Africa",
+    "category": "Statue",
+    "year_completed": 2010,
+    "unesco": false,
+    "difficulty": "Hard",
+    "tags": [
+      "bronze statue",
+      "african independence",
+      "family",
+      "colossal monument",
+      "dakar"
+    ]
+  },
+  {
+    "id": "tokyo_tower",
+    "name": "Tokyo Tower",
+    "accepted_answers": [
+      "tokyo tower",
+      "the tokyo tower",
+      "tokyo communications tower",
+      "tokyo radio tower",
+      "japanese eiffel tower",
+      "japan eiffel tower"
+    ],
+    "country": "Japan",
+    "country_code": "JP",
+    "city": "Tokyo",
+    "continent": "Asia",
+    "category": "Communications tower",
+    "year_completed": 1958,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "communications tower",
+      "observation deck",
+      "lattice tower",
+      "red and white",
+      "tokyo skyline"
+    ]
+  },
+  {
+    "id": "globe_theatre",
+    "name": "Shakespeare's Globe",
+    "accepted_answers": [
+      "shakespeares globe",
+      "shakespeare's globe",
+      "shakespeares globe theatre",
+      "shakespeare's globe theatre",
+      "globe theatre",
+      "the globe theatre",
+      "the globe",
+      "shakespeare globe"
+    ],
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "continent": "Europe",
+    "category": "Theatre",
+    "year_completed": 1997,
+    "unesco": false,
+    "difficulty": "Medium",
+    "tags": [
+      "shakespeare",
+      "open air theatre",
+      "elizabethan",
+      "reconstruction",
+      "timber framed"
+    ]
+  },
+  {
+    "id": "nelsons_column",
+    "name": "Nelson's Column",
+    "accepted_answers": [
+      "nelsons column",
+      "nelson's column",
+      "the nelsons column",
+      "the nelson's column",
+      "nelson column",
+      "admiral nelsons column",
+      "admiral nelson's column",
+      "trafalgar square column"
+    ],
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "city": "London",
+    "continent": "Europe",
+    "category": "Monument",
+    "year_completed": 1843,
+    "unesco": false,
+    "difficulty": "Hard",
+    "tags": [
+      "victory column",
+      "admiral nelson",
+      "corinthian column",
+      "bronze lions",
+      "trafalgar square"
+    ]
+  }
 ]
 }

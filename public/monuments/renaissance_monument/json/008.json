@@ -1,0 +1,147 @@
+{
+  "width": 343,
+  "height": 369,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 9,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    195,
+    200
+  ],
+  "added_vertex_id": 68795,
+  "score": 82904.53881109429,
+  "vertices": [
+    {
+      "id": 14724,
+      "x": 318,
+      "y": 42,
+      "type": "boundary"
+    },
+    {
+      "id": 21871,
+      "x": 262,
+      "y": 63,
+      "type": "boundary"
+    },
+    {
+      "id": 63374,
+      "x": 262,
+      "y": 184,
+      "type": "boundary"
+    },
+    {
+      "id": 68795,
+      "x": 195,
+      "y": 200,
+      "type": "boundary"
+    },
+    {
+      "id": 69773,
+      "x": 144,
+      "y": 203,
+      "type": "boundary"
+    },
+    {
+      "id": 77311,
+      "x": 136,
+      "y": 225,
+      "type": "generated"
+    },
+    {
+      "id": 85828,
+      "x": 78,
+      "y": 250,
+      "type": "boundary"
+    },
+    {
+      "id": 116716,
+      "x": 96,
+      "y": 340,
+      "type": "boundary"
+    },
+    {
+      "id": 118303,
+      "x": 311,
+      "y": 344,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        68795,
+        118303,
+        77311
+      ],
+      "colour": [
+        93,
+        80,
+        75
+      ]
+    },
+    {
+      "vertices": [
+        118303,
+        116716,
+        77311
+      ],
+      "colour": [
+        99,
+        85,
+        79
+      ]
+    },
+    {
+      "vertices": [
+        21871,
+        14724,
+        63374
+      ],
+      "colour": [
+        102,
+        92,
+        89
+      ]
+    },
+    {
+      "vertices": [
+        63374,
+        118303,
+        68795
+      ],
+      "colour": [
+        110,
+        98,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        21871,
+        63374,
+        68795
+      ],
+      "colour": [
+        105,
+        94,
+        91
+      ]
+    },
+    {
+      "vertices": [
+        85828,
+        69773,
+        77311
+      ],
+      "colour": [
+        90,
+        85,
+        89
+      ]
+    }
+  ]
+}

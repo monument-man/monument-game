@@ -1,0 +1,141 @@
+{
+  "width": 197,
+  "height": 500,
+  "total_vertices": 8,
+  "boundary_vertices": 8,
+  "interior_vertices": 0,
+  "hole_boundary_vertices": 0,
+  "rendered_vertex_count": 8,
+  "triangle_count": 6,
+  "move_type": "boundary",
+  "added_point": [
+    56,
+    107
+  ],
+  "added_vertex_id": 21135,
+  "score": 40206.82272354074,
+  "vertices": [
+    {
+      "id": 6780,
+      "x": 82,
+      "y": 34,
+      "type": "boundary"
+    },
+    {
+      "id": 17165,
+      "x": 26,
+      "y": 87,
+      "type": "boundary"
+    },
+    {
+      "id": 17269,
+      "x": 130,
+      "y": 87,
+      "type": "boundary"
+    },
+    {
+      "id": 21135,
+      "x": 56,
+      "y": 107,
+      "type": "boundary"
+    },
+    {
+      "id": 33186,
+      "x": 90,
+      "y": 168,
+      "type": "boundary"
+    },
+    {
+      "id": 34344,
+      "x": 66,
+      "y": 174,
+      "type": "boundary"
+    },
+    {
+      "id": 92316,
+      "x": 120,
+      "y": 468,
+      "type": "boundary"
+    },
+    {
+      "id": 92628,
+      "x": 38,
+      "y": 470,
+      "type": "boundary"
+    }
+  ],
+  "triangles": [
+    {
+      "vertices": [
+        21135,
+        17165,
+        6780
+      ],
+      "colour": [
+        112,
+        109,
+        101
+      ]
+    },
+    {
+      "vertices": [
+        92628,
+        34344,
+        92316
+      ],
+      "colour": [
+        131,
+        130,
+        118
+      ]
+    },
+    {
+      "vertices": [
+        21135,
+        33186,
+        34344
+      ],
+      "colour": [
+        128,
+        128,
+        119
+      ]
+    },
+    {
+      "vertices": [
+        17269,
+        33186,
+        21135
+      ],
+      "colour": [
+        79,
+        80,
+        78
+      ]
+    },
+    {
+      "vertices": [
+        33186,
+        92316,
+        34344
+      ],
+      "colour": [
+        113,
+        117,
+        113
+      ]
+    },
+    {
+      "vertices": [
+        17269,
+        21135,
+        6780
+      ],
+      "colour": [
+        73,
+        73,
+        68
+      ]
+    }
+  ]
+}

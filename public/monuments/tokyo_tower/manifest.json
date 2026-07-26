@@ -1,0 +1,117 @@
+{
+  "monument_name": "tokyo_tower",
+  "source_file": "tokyo_tower.png",
+  "prepared_width": 608,
+  "prepared_height": 900,
+  "checkpoints": [
+    3,
+    5,
+    8,
+    20,
+    50,
+    100,
+    400
+  ],
+  "generation_time_seconds": 23.55852519999462,
+  "final_boundary_vertices": 141,
+  "final_interior_vertices": 259,
+  "final_total_vertices": 400,
+  "final_triangle_count": 686,
+  "stages": [
+    {
+      "total_vertices": 3,
+      "boundary_vertices": 3,
+      "interior_vertices": 0,
+      "triangle_count": 1,
+      "move_type": "start",
+      "added_point": null,
+      "score": 197347.65164909896,
+      "png": "png/003.png",
+      "json": "json/003.json"
+    },
+    {
+      "total_vertices": 5,
+      "boundary_vertices": 5,
+      "interior_vertices": 0,
+      "triangle_count": 3,
+      "move_type": "boundary",
+      "added_point": [
+        285,
+        14
+      ],
+      "score": 244624.87470248214,
+      "png": "png/005.png",
+      "json": "json/005.json"
+    },
+    {
+      "total_vertices": 8,
+      "boundary_vertices": 8,
+      "interior_vertices": 0,
+      "triangle_count": 6,
+      "move_type": "boundary",
+      "added_point": [
+        228,
+        425
+      ],
+      "score": 272122.9163549813,
+      "png": "png/008.png",
+      "json": "json/008.json"
+    },
+    {
+      "total_vertices": 20,
+      "boundary_vertices": 20,
+      "interior_vertices": 0,
+      "triangle_count": 18,
+      "move_type": "boundary",
+      "added_point": [
+        266,
+        139
+      ],
+      "score": 277260.9632777967,
+      "png": "png/020.png",
+      "json": "json/020.json"
+    },
+    {
+      "total_vertices": 50,
+      "boundary_vertices": 50,
+      "interior_vertices": 0,
+      "triangle_count": 77,
+      "move_type": "boundary",
+      "added_point": [
+        324,
+        377
+      ],
+      "score": 280035.54020741244,
+      "png": "png/050.png",
+      "json": "json/050.json"
+    },
+    {
+      "total_vertices": 100,
+      "boundary_vertices": 100,
+      "interior_vertices": 0,
+      "triangle_count": 127,
+      "move_type": "boundary",
+      "added_point": [
+        282,
+        41
+      ],
+      "score": 281772.5054403264,
+      "png": "png/100.png",
+      "json": "json/100.json"
+    },
+    {
+      "total_vertices": 400,
+      "boundary_vertices": 141,
+      "interior_vertices": 259,
+      "triangle_count": 686,
+      "move_type": "interior",
+      "added_point": [
+        279,
+        645
+      ],
+      "score": 285059.544882693,
+      "png": "png/400.png",
+      "json": "json/400.json"
+    }
+  ]
+}
